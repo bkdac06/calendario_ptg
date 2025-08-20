@@ -2,136 +2,136 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Noven Verão 27.
-DTEND:20260130T235959Z
-DTSTART:20260130T000000Z
-SUMMARY:Limite Modelagem Noven Verão 27
-UID:333b4715-ada9-4935-878e-2a64f80afec9@333b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 11. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260618T235959Z
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 10. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260519T235959Z
 DTSTART:20251103T000000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 11)
-UID:e9b675e2-1143-4774-bd44-2118fdba9245@e9b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Noven Verão 27.
-DTEND:20260227T235959Z
-DTSTART:20260227T000000Z
-SUMMARY:Limite Acabamento Pilotos Noven Verão 27
-UID:d13151a8-fb52-45c2-9a27-e0287797c172@d131.org
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 10)
+UID:bcbf2cfa-64c8-48c5-b150-db29e68139f6@bcbf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Corte Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
 DTEND:20260609T235959Z
 DTSTART:20260505T000000Z
 SUMMARY:Corte Grupo 09 Noven Verão 27
-UID:d892d0ef-bbeb-4197-b1b8-e72a0b9a963e@d892.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Noven Verão 27. Em torno de 80% dos desenhos devem ser entregue na data inicial.
-DTEND:20250811T235959Z
-DTSTART:20250811T000000Z
-SUMMARY:Entrega Desenhos Noven Verão 27
-UID:eed40d98-3da9-44f0-a929-b0a61e3b59d7@eed4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260331T235959Z
-DTSTART:20260310T000000Z
-SUMMARY:Corte Grupo 07 Noven Verão 27
-UID:8ab230a0-0f71-488f-949e-a33c8bf90def@8ab2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Noven Verão 27.
-DTEND:20260220T235959Z
-DTSTART:20260220T000000Z
-SUMMARY:Limite Lavanderia Pilotos Noven Verão 27
-UID:3a45a9b2-e019-4970-86e0-944e8748f6ed@3a45.org
+UID:01d4b136-1c4b-44c5-9e1f-aa27e4b1eb82@01d4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 08. A data inicial é uma previsão\, e a data final é um limite.
 DTEND:20260310T235959Z
 DTSTART:20251103T000000Z
 SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 08)
-UID:1dd2fe0b-ebef-4e07-a23a-cd3b5bcc637a@1dd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 10. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260519T235959Z
-DTSTART:20251103T000000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 10)
-UID:c2c7a541-0ebc-4711-9528-4c523c30fdc6@c2c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Noven Verão 27. 
-DTEND:20260206T235959Z
-DTSTART:20260206T000000Z
-SUMMARY:Limite Pilotagem Noven Verão 27
-UID:8f4ed085-b732-4347-8554-50cab27ca924@8f4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Verão 27. As datas das bancas da noven são sujestões\, podendo ser feitas mais ou menos\, respeitando o limite
-DTEND:20251014T235959Z
-DTSTART:20251014T000000Z
-SUMMARY:Primeira Banca Noven Verão 27
-UID:9c415180-8b37-4d0e-b369-3236b4d7630a@9c41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Noven Verão 27. Limite para entrega dos desenhos
-DTEND:20260116T235959Z
-DTSTART:20260116T000000Z
-SUMMARY:Limite Entrega Desenhos Noven Verão 27
-UID:24bf19cc-c83c-4b23-8acf-0fdc88b61590@24bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Verão 27. As datas das bancas da noven são sujestões\, podendo ser feitas mais ou menos\, respeitando o limite
-DTEND:20260127T235959Z
-DTSTART:20260127T000000Z
-SUMMARY:Última Banca Noven Verão 27
-UID:ba23dcd2-360c-4027-953d-068dc5536717@ba23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260709T235959Z
-DTSTART:20260609T000000Z
-SUMMARY:Corte Grupo 10 Noven Verão 27
-UID:6bf5d95c-0ebc-4f85-9c16-74bccef806a9@6bf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 07. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260212T235959Z
-DTSTART:20251103T000000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 07)
-UID:05124f70-c0d3-4dc0-9e2a-5841b65e3f2d@0512.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 09. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260414T235959Z
-DTSTART:20251103T000000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 09)
-UID:b434639e-6f0b-47fc-bf79-b9524cd66305@b434.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260731T235959Z
-DTSTART:20260709T000000Z
-SUMMARY:Corte Grupo 11 Noven Verão 27
-UID:aa3c781d-942d-4403-9f60-7076ac6e221d@aa3c.org
+UID:80ad468e-828c-4ace-9809-d5d30be7a77c@80ad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Corte Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
 DTEND:20260505T235959Z
 DTSTART:20260331T000000Z
 SUMMARY:Corte Grupo 08 Noven Verão 27
-UID:46dfcb07-ba76-491d-922d-2f1332c13bdf@46df.org
+UID:0be78ef2-b858-4ee5-89bb-19b7181c85b9@0be7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 09. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260414T235959Z
+DTSTART:20251103T000000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 09)
+UID:61cd735c-b594-4943-b4ff-c17c51194671@61cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Banca das peças piloto da Noven Verão 27. As datas das bancas da noven são sujestões\, podendo ser feitas mais ou menos\, respeitando o limite
 DTEND:20251202T235959Z
 DTSTART:20251202T000000Z
 SUMMARY:Segunda Banca Noven Verão 27
-UID:4f0fc003-2365-4ad4-b17e-1cf5056f3260@4f0f.org
+UID:585ad0ce-cceb-4dd4-90a7-a5efd5de55ad@585a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260709T235959Z
+DTSTART:20260609T000000Z
+SUMMARY:Corte Grupo 10 Noven Verão 27
+UID:d374b544-3d67-4bdb-bf8c-0179ac3fa0fe@d374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Noven Verão 27. Em torno de 80% dos desenhos devem ser entregue na data inicial.
+DTEND:20250811T235959Z
+DTSTART:20250811T000000Z
+SUMMARY:Entrega Desenhos Noven Verão 27
+UID:9d8cbc54-2c0c-4199-a6ff-462c6b3492f6@9d8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 11. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260618T235959Z
+DTSTART:20251103T000000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 11)
+UID:4c58d381-4136-4ad4-a216-c381814e75fe@4c58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Noven Verão 27.
+DTEND:20260220T235959Z
+DTSTART:20260220T000000Z
+SUMMARY:Limite Lavanderia Pilotos Noven Verão 27
+UID:c8d142b2-89e7-450d-a42a-ec2534e9c3da@c8d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Noven Verão 27.
+DTEND:20260227T235959Z
+DTSTART:20260227T000000Z
+SUMMARY:Limite Acabamento Pilotos Noven Verão 27
+UID:86618422-f2c8-4e1b-aa80-c7d4bbc05b25@8661.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Noven Verão 27. Limite para entrega dos desenhos
+DTEND:20260116T235959Z
+DTSTART:20260116T000000Z
+SUMMARY:Limite Entrega Desenhos Noven Verão 27
+UID:c473bc98-e9b9-47a9-b48f-ceb8c999bbc6@c473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 07. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260212T235959Z
+DTSTART:20251103T000000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 07)
+UID:dbbbd509-2d13-43ff-bd37-469f3d97f63c@dbbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260731T235959Z
+DTSTART:20260709T000000Z
+SUMMARY:Corte Grupo 11 Noven Verão 27
+UID:768a97c7-ea74-4eea-af9b-e56ddda5c570@768a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Verão 27. As datas das bancas da noven são sujestões\, podendo ser feitas mais ou menos\, respeitando o limite
+DTEND:20251014T235959Z
+DTSTART:20251014T000000Z
+SUMMARY:Primeira Banca Noven Verão 27
+UID:4582a8d0-b3b7-4214-afd0-5431688ad249@4582.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Noven Verão 27.
+DTEND:20260130T235959Z
+DTSTART:20260130T000000Z
+SUMMARY:Limite Modelagem Noven Verão 27
+UID:992bf715-7ba6-4d6d-a49d-a8f5a14cf4c5@992b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Verão 27. As datas das bancas da noven são sujestões\, podendo ser feitas mais ou menos\, respeitando o limite
+DTEND:20260127T235959Z
+DTSTART:20260127T000000Z
+SUMMARY:Última Banca Noven Verão 27
+UID:b01113c1-e511-47de-82a2-618ba7674f6d@b011.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260331T235959Z
+DTSTART:20260310T000000Z
+SUMMARY:Corte Grupo 07 Noven Verão 27
+UID:f760d91c-6102-4e1c-b80c-46b2d8aa4fdb@f760.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Noven Verão 27. 
+DTEND:20260206T235959Z
+DTSTART:20260206T000000Z
+SUMMARY:Limite Pilotagem Noven Verão 27
+UID:7d53f85a-f3fa-4da3-ae0f-35f6dcc70142@7d53.org
 END:VEVENT
 END:VCALENDAR
