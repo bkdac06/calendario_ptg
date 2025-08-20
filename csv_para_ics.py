@@ -53,8 +53,15 @@ def converter_csv_para_ics_detalhado(arquivo_csv, arquivo_ics):
 
 # Exemplo de uso
 if __name__ == "__main__":
-    nome_arquivo_csv = 'noven_teste.csv'
+    nome_arquivo_csv = 'noven_completo.csv'
     nome_arquivo_ics = 'calendario_noven.ics'
+    
+    converter_csv_para_ics_detalhado(nome_arquivo_csv, nome_arquivo_ics)
+    
+    print(f"Arquivo '{nome_arquivo_ics}' criado com sucesso a partir de '{nome_arquivo_csv}'!")
+    
+    nome_arquivo_csv = 'noven_desenvolvimento.csv'
+    nome_arquivo_ics = 'calendario_noven_desenvolvimento.ics'
     
     converter_csv_para_ics_detalhado(nome_arquivo_csv, nome_arquivo_ics)
     
