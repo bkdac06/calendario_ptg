@@ -44,6 +44,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
-          git add calendario_noven.ics calendario_noven_desenvolvimento.ics
+          git add calendario_noven.ics calendario_noven_desenvolvimento.ics calendario_patoge.ics calendario_patoge_desenvolvimento.ics
           git diff --staged --quiet || git commit -m "Atualiza calendario_noven.ics"
           git push
