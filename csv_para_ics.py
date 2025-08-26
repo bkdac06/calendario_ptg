@@ -67,3 +67,15 @@ if __name__ == "__main__":
     nome_arquivo_ics = 'calendario_noven_desenvolvimento.ics'
     converter_csv_para_ics_detalhado(nome_arquivo_csv, nome_arquivo_ics)
     print(f"Arquivo '{nome_arquivo_ics}' criado com sucesso a partir de '{nome_arquivo_csv}'!")
+
+    # Geração do terceiro calendário
+    nome_arquivo_csv = 'patoge_verao.csv'
+    nome_arquivo_ics = 'calendario_patoge.ics'
+    converter_csv_para_ics_detalhado(nome_arquivo_csv, nome_arquivo_ics)
+    print(f"Arquivo '{nome_arquivo_ics}' criado com sucesso a partir de '{nome_arquivo_csv}'!")
+    
+    # Geração do quarto calendário
+    nome_arquivo_csv = 'patoge_desenvolvimento.csv'
+    nome_arquivo_ics = 'calendario_patoge_desenvolvimento.ics'
+    converter_csv_para_ics_detalhado(nome_arquivo_csv, nome_arquivo_ics)
+    print(f"Arquivo '{nome_arquivo_ics}' criado com sucesso a partir de '{nome_arquivo_csv}'!")
