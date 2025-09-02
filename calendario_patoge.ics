@@ -2,479 +2,479 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de mostruário da Patoge Verão 27 grupo 07\, 08 e 09. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260212T145959Z
-DTSTART:20251111T030000Z
-SUMMARY:Liberação Mostruário Patoge Verão 27 (Grupo 7\, 8 e 9)
-UID:865eecbf-b2fb-46f9-801e-972f3ae7af14@865e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260611T145959Z
-DTSTART:20260505T030000Z
-SUMMARY:Corte Grupo 09 Patoge Verão 27
-UID:13817450-7640-443e-bb70-d5ec4d94a616@1381.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260517T145959Z
-DTSTART:20260420T030000Z
-SUMMARY:Costura Jeans Grupo 07 Patoge Verão 27
-UID:8a954e6b-f985-41fc-bb62-b81447503878@8a95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260816T145959Z
-DTSTART:20260814T030000Z
-SUMMARY:Expedição Grupo 08 Patoge Verão 27
-UID:c18c65d6-1419-4936-9267-0c61f2e7257c@c18c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260820T145959Z
-DTSTART:20260716T030000Z
-SUMMARY:Lavanderia Grupo 09 Patoge Verão 27
-UID:b769f8f7-3036-490d-8ae7-be35e4a664ce@b769.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patoge Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 8
-DTEND:20251127T145959Z
-DTSTART:20251125T030000Z
-SUMMARY:Segunda Banca Patoge Verão 27 1ª entrega (Grupo 8)
-UID:f75d88ba-5059-42a7-8bd5-78deaf38588b@f75d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patoge Verão 27. Em torno de 80% dos desenhos devem ser entregue na data inicial.
-DTEND:20260205T145959Z
-DTSTART:20251117T030000Z
-SUMMARY:Entrega Desenhos Patoge Verão 27 (Grupo 10 e 11)
-UID:814d94b1-dacb-409e-8b7e-ea23a0b7e71b@814d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260311T145959Z
-DTSTART:20251209T030000Z
-SUMMARY:Lavanderia Pilotos Patoge Verão 27 (Grupo 10 e 11)
-UID:27620020-3939-4420-a110-64de11d10cdd@2762.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260829T145959Z
-DTSTART:20260724T030000Z
-SUMMARY:Costura Jeans Grupo 10 Patoge Verão 27
-UID:47f8ec7e-22b9-4321-9556-c34b4767fe8e@47f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261106T145959Z
-DTSTART:20261013T030000Z
-SUMMARY:Acabamento Grupo 11 Patoge Verão 27
-UID:5d90747a-0692-44b8-8ea9-f2ab6d27ca75@5d90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260715T145959Z
-DTSTART:20260623T030000Z
-SUMMARY:Acabamento Grupo 07 Patoge Verão 27
-UID:9f4286e2-94d5-443b-906c-114d3d586e31@9f42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260917T145959Z
-DTSTART:20260915T030000Z
-SUMMARY:Expedição Grupo 09 Patoge Verão 27
-UID:d1ee8b9c-68e0-4b1e-a4cc-6b8053e54d98@d1ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de mostruário da Patoge Verão 27 grupo 10 e 11. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260502T145959Z
-DTSTART:20260210T030000Z
-SUMMARY:Liberação Mostruário Patoge Verão 27 (Grupo 10 e 11)
-UID:2e8a4f17-a8ae-4014-9fdd-cf256f33dccb@2e8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Verão 27 grupo 09. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260416T145959Z
-DTSTART:20260120T030000Z
-SUMMARY:Liberação Lacre Vermelho Patoge Verão 27 (Grupo 09)
-UID:034c23c0-48ca-4a7f-a294-4f34e8f17329@034c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260820T145959Z
-DTSTART:20260623T030000Z
-SUMMARY:Costura Moda Grupo 09 Patoge Verão 27
-UID:e6789bc6-1846-4cff-9b8c-b119f0c4c871@e678.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260318T145959Z
-DTSTART:20260108T030000Z
-SUMMARY:Acabamento Pilotos Patoge Verão 27 (Grupo 10 e 11)
-UID:d18c02b5-7a5a-4c7e-a78a-29327b5750a0@d18c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260920T145959Z
-DTSTART:20260818T030000Z
-SUMMARY:Lavanderia Grupo 10 Patoge Verão 27
-UID:e79d6443-0f32-4797-ad04-a8a64ffb8af0@e79d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Verão 27 grupo 10. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260521T145959Z
-DTSTART:20260210T030000Z
-SUMMARY:Liberação Lacre Vermelho Patoge Verão 27 (Grupo 10)
-UID:83f95f1f-cd57-411e-af22-db4926720ec3@83f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260617T145959Z
-DTSTART:20260520T030000Z
-SUMMARY:Lavanderia Grupo 07 Patoge Verão 27
-UID:8da4f96e-57b5-47e6-af35-9bda6c4ec2e4@8da4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260718T145959Z
-DTSTART:20260615T030000Z
-SUMMARY:Lavanderia Grupo 08 Patoge Verão 27
-UID:efcf31b2-c18a-4905-9081-696966a0f333@efcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260517T145959Z
-DTSTART:20260420T030000Z
-SUMMARY:Costura Moda Jeans Grupo 07 Patoge Verão 27
-UID:1ac2b8de-2531-4db6-81c9-fdbfbfb43fd5@1ac2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Mostruário 2ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260523T145959Z
-DTSTART:20260226T030000Z
-SUMMARY:Costura Mostruário 2ª entrega Patoge Verão 27
-UID:2c58f9c0-87cf-43ea-9c85-8cbbe53b030b@2c58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261015T145959Z
-DTSTART:20260911T030000Z
-SUMMARY:Acabamento Grupo 10 Patoge Verão 27
-UID:27ce54ac-31a4-4450-8be3-7f30dfa35d40@27ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patoge Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 9
-DTEND:20260115T145959Z
-DTSTART:20260113T030000Z
-SUMMARY:Última Banca Patoge Verão 27 1ª entrega (Grupo 9)
-UID:acf36cf9-1b6b-44f1-afd7-5988465b3521@acf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patoge Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 12
-DTEND:20260326T145959Z
-DTSTART:20260324T030000Z
-SUMMARY:Última Banca Patoge Verão 27 1ª entrega (Grupo 12)
-UID:60128392-98b6-4790-9820-e2d3e29ff5e6@6012.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260920T145959Z
-DTSTART:20260623T030000Z
-SUMMARY:Costura Moda Grupo 10 Patoge Verão 27
-UID:90315e69-ee1a-4b80-9e8a-b737d491e516@9031.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patoge Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 11
-DTEND:20260305T145959Z
-DTSTART:20260303T030000Z
-SUMMARY:Segunda Banca Patoge Verão 27 1ª entrega (Grupo 11)
-UID:4ef06966-cdb3-4206-93a3-ce10cd289c62@4ef0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260402T145959Z
-DTSTART:20260310T030000Z
-SUMMARY:Corte Grupo 07 Patoge Verão 27
-UID:a46bd2f9-c4bd-4387-a686-24b2fa15bdbf@a46b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260726T145959Z
-DTSTART:20260623T030000Z
-SUMMARY:Costura Jeans Grupo 09 Patoge Verão 27
-UID:6e0fd681-d40e-4f17-9a22-aecdc7af1526@6e0f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Lavanderia Mostruário 2ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
 DTEND:20260530T145959Z
 DTSTART:20260305T030000Z
 SUMMARY:Lavanderia Mostruário 2ª entrega Patoge Verão 27
-UID:afbfb60e-8091-45d3-a4b5-0cf53096e96c@afbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20251126T145959Z
-DTSTART:20250929T030000Z
-SUMMARY:Lavanderia Pilotos Patoge Verão 27 (Grupo 7\, 8 e 9)
-UID:b43b884e-9802-454c-8dbd-20a728255c4d@b43b.org
+UID:74d05511-0a32-4ce0-aa09-20818adc6a0f@74d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Corte Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
 DTEND:20260711T145959Z
 DTSTART:20260609T030000Z
 SUMMARY:Corte Grupo 10 Patoge Verão 27
-UID:dc761039-fb34-4ccf-83a8-936aa3059fd3@dc76.org
+UID:28ebf996-60f3-4b08-b731-de9063f9600f@28eb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260918T145959Z
-DTSTART:20260827T030000Z
-SUMMARY:Costura Moda Jeans Grupo 11 Patoge Verão 27
-UID:910f3763-18db-46b2-9173-952d43e1146a@910f.org
+DESCRIPTION:Expedição Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260917T145959Z
+DTSTART:20260915T030000Z
+SUMMARY:Expedição Grupo 09 Patoge Verão 27
+UID:40e59e31-acb3-488e-aa4f-71438c1c1cc7@40e5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260304T145959Z
-DTSTART:20251202T030000Z
-SUMMARY:Pilotagem Patoge Verão 27 (Grupo 10 e 11)
-UID:4f749a2f-a6ad-4a7d-b2bb-99b81c193486@4f74.org
+DESCRIPTION:Costura Jeans Mostruário 2ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260523T145959Z
+DTSTART:20260226T030000Z
+SUMMARY:Costura Mostruário 2ª entrega Patoge Verão 27
+UID:f79071d8-13ec-4b72-bf7d-ce0b46c95089@f790.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Corte Mostruário 1ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260227T145959Z
-DTSTART:20251118T030000Z
-SUMMARY:Corte Mostruário 1ª entrega Patoge Verão 27
-UID:848043a6-5290-4268-a5d1-e33001e035ec@8480.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261010T145959Z
-DTSTART:20260918T030000Z
-SUMMARY:Lavanderia Grupo 11 Patoge Verão 27
-UID:0deeb31b-596f-48c6-9a46-0bf1450a8d4e@0dee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261017T145959Z
-DTSTART:20261015T030000Z
-SUMMARY:Expedição Grupo 10 Patoge Verão 27
-UID:7b873712-4d0f-4ef3-b60a-d6c44c96b970@7b87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260802T145959Z
-DTSTART:20260709T030000Z
-SUMMARY:Corte Grupo 11 Patoge Verão 27
-UID:0afb1d08-31a2-4400-8a04-14f556a1348c@0afb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260625T145959Z
-DTSTART:20260515T030000Z
-SUMMARY:Costura Jeans Grupo 08 Patoge Verão 27
-UID:b122eee8-f401-4ef7-86fe-b73111514a84@b122.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260813T145959Z
-DTSTART:20260713T030000Z
-SUMMARY:Acabamento Grupo 08 Patoge Verão 27
-UID:31c21679-286a-405e-8fa8-5e53a8423d4c@31c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Mostruário 2ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260607T145959Z
-DTSTART:20260312T030000Z
-SUMMARY:Acabamento Mostruário 2ª entrega Patoge Verão 27
-UID:2e30e1a4-df02-448c-8310-c37e809f03af@2e30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Mostruário 2ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260614T145959Z
-DTSTART:20260612T030000Z
-SUMMARY:Expedição Mostruário 2ª entrega Patoge Verão 27
-UID:dc318f70-4b66-405b-a69c-be78049b69d2@dc31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260829T145959Z
-DTSTART:20260724T030000Z
-SUMMARY:Costura Moda Jeans Grupo 10 Patoge Verão 27
-UID:a0488bac-a2a6-403c-9401-78d2e72a00ed@a048.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Verão 27 grupo 11. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260620T145959Z
-DTSTART:20260210T030000Z
-SUMMARY:Liberação Lacre Vermelho Patoge Verão 27 (Grupo 11)
-UID:ec57a429-0a46-46d1-b58c-bd18807b2a9d@ec57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260918T145959Z
-DTSTART:20260827T030000Z
-SUMMARY:Costura Jeans Grupo 11 Patoge Verão 27
-UID:f4d33d40-56b7-46fd-87e6-cc33a858c34b@f4d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Mostruário 1ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260313T145959Z
-DTSTART:20251202T030000Z
-SUMMARY:Lavanderia Mostruário 1ª entrega Patoge Verão 27
-UID:94487de9-9a38-4a57-900d-e547303dc7be@9448.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261115T145959Z
-DTSTART:20261113T030000Z
-SUMMARY:Expedição Grupo 11 Patoge Verão 27
-UID:0d64085b-79c0-4d6d-b0f1-8166334262d5@0d64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20251119T145959Z
-DTSTART:20250922T030000Z
-SUMMARY:Pilotagem Patoge Verão 27 (Grupo 7\, 8 e 9)
-UID:4712110e-5d5c-484b-8894-0dcdcda70f07@4712.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Mostruário 1ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260320T145959Z
-DTSTART:20251209T030000Z
-SUMMARY:Acabamento Mostruário 1ª entrega Patoge Verão 27
-UID:fa3c5d3d-bca2-47a2-a669-b9c590744151@fa3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260718T145959Z
-DTSTART:20260515T030000Z
-SUMMARY:Costura Moda Grupo 08 Patoge Verão 27
-UID:641740b9-639d-4a72-9593-ebf72e47a437@6417.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patoge Verão 27. Em torno de 80% dos desenhos devem ser entregue na data inicial.
-DTEND:20251109T145959Z
-DTSTART:20250908T030000Z
-SUMMARY:Entrega Desenhos Patoge Verão 27 (Grupo 7\, 8 e 9)
-UID:e410023f-69e6-440f-b15f-ae1887ecb1a6@e410.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260625T145959Z
-DTSTART:20260515T030000Z
-SUMMARY:Costura Moda Jeans Grupo 08 Patoge Verão 27
-UID:132f751f-0f5a-4b85-9982-f8e16e70835b@132f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260726T145959Z
-DTSTART:20260623T030000Z
-SUMMARY:Costura Moda Jeans Grupo 09 Patoge Verão 27
-UID:e491111d-9388-4421-aa5a-b320933d28b5@e491.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Mostruário 1ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260322T145959Z
-DTSTART:20260320T030000Z
-SUMMARY:Expedição Mostruário 1ª entrega Patoge Verão 27
-UID:8d1dd1c6-a39c-4f83-a390-42e415d37f2b@8d1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260913T145959Z
-DTSTART:20260811T030000Z
-SUMMARY:Acabamento Grupo 09 Patoge Verão 27
-UID:71c1102a-35cc-443b-a707-7a2c2093532d@71c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260617T145959Z
-DTSTART:20260420T030000Z
-SUMMARY:Costura Moda Grupo 07 Patoge Verão 27
-UID:78f03ee1-222d-4ad2-8d83-d65f3f6ef9fd@78f0.org
+DESCRIPTION:Acabamento das peças piloto da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260318T145959Z
+DTSTART:20260108T030000Z
+SUMMARY:Acabamento Pilotos Patoge Verão 27 (Grupo 10 e 11)
+UID:28349cb8-37d2-4ae3-97db-5b934203992c@2834.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Corte Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
 DTEND:20260507T145959Z
 DTSTART:20260331T030000Z
 SUMMARY:Corte Grupo 08 Patoge Verão 27
-UID:85cd778d-413d-49d0-a93a-39731e47472a@85cd.org
+UID:76695a1f-593d-4543-9262-6723171b05ec@7669.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20251112T145959Z
-DTSTART:20250915T030000Z
-SUMMARY:Modelagem Patoge Verão 27 (Grupo 7\, 8 e 9)
-UID:4686dac7-3563-4e0c-b731-8f767041fc6e@4686.org
+DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Verão 27 grupo 09. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260416T145959Z
+DTSTART:20260120T030000Z
+SUMMARY:Liberação Lacre Vermelho Patoge Verão 27 (Grupo 09)
+UID:a50fcd5f-76ab-44bd-8675-218f67f9af28@a50f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260717T145959Z
-DTSTART:20260715T030000Z
-SUMMARY:Expedição Grupo 07 Patoge Verão 27
-UID:7063349b-f2b6-4ebd-b77a-7aceb70b32e0@7063.org
+DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Verão 27 grupo 10. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260521T145959Z
+DTSTART:20260210T030000Z
+SUMMARY:Liberação Lacre Vermelho Patoge Verão 27 (Grupo 10)
+UID:30b8df6f-e3c1-4ca8-93a2-5286513aac2c@30b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260920T145959Z
+DTSTART:20260818T030000Z
+SUMMARY:Lavanderia Grupo 10 Patoge Verão 27
+UID:354c7ee5-1544-4e3a-8c50-1854c0090e6e@354c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260726T145959Z
+DTSTART:20260623T030000Z
+SUMMARY:Costura Moda Jeans Grupo 09 Patoge Verão 27
+UID:aeb0c37c-bc56-4c8f-a372-e49c3d947782@aeb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260918T145959Z
+DTSTART:20260827T030000Z
+SUMMARY:Costura Moda Jeans Grupo 11 Patoge Verão 27
+UID:587028d7-ed5d-4df0-badc-fa9d2070bed7@5870.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Costura Jeans Mostruário 1ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
 DTEND:20260306T145959Z
 DTSTART:20251125T030000Z
 SUMMARY:Costura Jeans Mostruário 1ª entrega Patoge Verão 27
-UID:b57d0043-d61b-4b4e-bf2d-3b8ec808eb18@b57d.org
+UID:75a5b895-bbcc-4358-8904-5dffc7d3465f@75a5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patoge Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 7
-DTEND:20251106T145959Z
-DTSTART:20251104T030000Z
-SUMMARY:Primeira Banca Patoge Verão 27 1ª entrega (Grupo 7)
-UID:fbdd7f02-ffdc-4630-b92c-36d7e3c35fdd@fbdd.org
+DESCRIPTION:Liberação das peças de mostruário da Patoge Verão 27 grupo 10 e 11. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260502T145959Z
+DTSTART:20260210T030000Z
+SUMMARY:Liberação Mostruário Patoge Verão 27 (Grupo 10 e 11)
+UID:efd11122-4a8b-4f86-b0d1-850b83a4feed@efd1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patoge Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 10
-DTEND:20260205T145959Z
-DTSTART:20260203T030000Z
-SUMMARY:Primeira Banca Patoge Verão 27 1ª entrega (Grupo 10)
-UID:34106611-0eba-4223-a180-d247e01649c4@3410.org
+DESCRIPTION:Acabamento Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260913T145959Z
+DTSTART:20260811T030000Z
+SUMMARY:Acabamento Grupo 09 Patoge Verão 27
+UID:29aee2b1-17cf-47f8-911a-488050b8bb99@29ae.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261010T145959Z
-DTSTART:20260827T030000Z
-SUMMARY:Costura Moda Grupo 11 Patoge Verão 27
-UID:46a063a2-bebc-4b48-b67b-ffa274d24d40@46a0.org
+DESCRIPTION:Costura Jeans Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260517T145959Z
+DTSTART:20260420T030000Z
+SUMMARY:Costura Jeans Grupo 07 Patoge Verão 27
+UID:e778df12-7934-40d2-af98-ab7e14cd0534@e778.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260225T145959Z
-DTSTART:20251125T030000Z
-SUMMARY:Modelagem Patoge Verão 27 (Grupo 10 e 11)
-UID:cf79b00f-b82d-4435-8ff8-b07c7d9f1cd7@cf79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Verão 27 grupo 07. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260214T145959Z
-DTSTART:20251111T030000Z
-SUMMARY:Liberação Lacre Vermelho Patoge Verão 27 (Grupo 07)
-UID:d9e93b59-ad84-4394-9182-8db072e2b433@d9e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20251203T145959Z
-DTSTART:20251006T030000Z
-SUMMARY:Acabamento Pilotos Patoge Verão 27 (Grupo 7\, 8 e 9)
-UID:ffa11f8d-c2a6-41fd-9d9a-d49b96a32912@ffa1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Mostruário 2ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260516T145959Z
-DTSTART:20260219T030000Z
-SUMMARY:Corte Mostruário 2ª entrega Patoge Verão 27
-UID:37d5053c-5ec1-4b10-92f4-8973e789b068@37d5.org
+DESCRIPTION:Costura Moda Jeans Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260625T145959Z
+DTSTART:20260515T030000Z
+SUMMARY:Costura Moda Jeans Grupo 08 Patoge Verão 27
+UID:79d5fbe2-663b-4b31-ac4e-29359c671a8b@79d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Verão 27 grupo 08. A data inicial é uma previsão\, e a data final é um limite.
 DTEND:20260312T145959Z
 DTSTART:20251202T030000Z
 SUMMARY:Liberação Lacre Vermelho Patoge Verão 27 (Grupo 08)
-UID:74e32c7b-41d0-458d-b280-504e60c924ea@74e3.org
+UID:014368a2-fc85-4cc1-a991-63fc9f14a761@0143.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Mostruário 1ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260320T145959Z
+DTSTART:20251209T030000Z
+SUMMARY:Acabamento Mostruário 1ª entrega Patoge Verão 27
+UID:f114311d-11ff-42f3-ad1a-f2f2f38c8339@f114.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260304T145959Z
+DTSTART:20251202T030000Z
+SUMMARY:Pilotagem Patoge Verão 27 (Grupo 10 e 11)
+UID:ff013f89-62fa-4756-8855-c0bf92116964@ff01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260517T145959Z
+DTSTART:20260420T030000Z
+SUMMARY:Costura Moda Jeans Grupo 07 Patoge Verão 27
+UID:fd38c9b3-9fa7-40d3-bf74-d9b04fb8a02b@fd38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260617T145959Z
+DTSTART:20260420T030000Z
+SUMMARY:Costura Moda Grupo 07 Patoge Verão 27
+UID:19a29bf1-9ff8-4900-9422-173aada54c59@19a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260717T145959Z
+DTSTART:20260715T030000Z
+SUMMARY:Expedição Grupo 07 Patoge Verão 27
+UID:153ef560-2ff8-4abb-a186-3af953e893c5@153e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260820T145959Z
+DTSTART:20260716T030000Z
+SUMMARY:Lavanderia Grupo 09 Patoge Verão 27
+UID:f0a43e01-888e-40e7-83d7-3fd892fbbb04@f0a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patoge Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 8
+DTEND:20251127T145959Z
+DTSTART:20251125T030000Z
+SUMMARY:Segunda Banca Patoge Verão 27 1ª entrega (Grupo 8)
+UID:46a27c6c-add0-4fb3-b22b-ee9e19b3dde5@46a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260718T145959Z
+DTSTART:20260515T030000Z
+SUMMARY:Costura Moda Grupo 08 Patoge Verão 27
+UID:b92bdecd-f0da-44df-a63b-28c4cd6dd348@b92b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patoge Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 11
+DTEND:20260305T145959Z
+DTSTART:20260303T030000Z
+SUMMARY:Segunda Banca Patoge Verão 27 1ª entrega (Grupo 11)
+UID:22bd3de9-0f8f-497e-bb5a-5ce641e3a162@22bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260816T145959Z
+DTSTART:20260814T030000Z
+SUMMARY:Expedição Grupo 08 Patoge Verão 27
+UID:e7f8b996-fc36-4243-a7e4-80e0b61847a7@e7f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260311T145959Z
+DTSTART:20251209T030000Z
+SUMMARY:Lavanderia Pilotos Patoge Verão 27 (Grupo 10 e 11)
+UID:0f503729-5a79-49d1-aab8-3175a8d0d411@0f50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de mostruário da Patoge Verão 27 grupo 07\, 08 e 09. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260212T145959Z
+DTSTART:20251111T030000Z
+SUMMARY:Liberação Mostruário Patoge Verão 27 (Grupo 7\, 8 e 9)
+UID:78554d74-4fea-4709-ae16-29663e160eab@7855.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260820T145959Z
+DTSTART:20260623T030000Z
+SUMMARY:Costura Moda Grupo 09 Patoge Verão 27
+UID:239ec988-fa5a-434c-89ec-220e5ce79711@239e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Verão 27 grupo 11. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260620T145959Z
+DTSTART:20260210T030000Z
+SUMMARY:Liberação Lacre Vermelho Patoge Verão 27 (Grupo 11)
+UID:a588158a-dd8d-4901-a389-a53692d108cc@a588.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260617T145959Z
+DTSTART:20260520T030000Z
+SUMMARY:Lavanderia Grupo 07 Patoge Verão 27
+UID:7a7ad874-4a11-41a0-9c9d-2ab3d026bc2e@7a7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Mostruário 2ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260614T145959Z
+DTSTART:20260612T030000Z
+SUMMARY:Expedição Mostruário 2ª entrega Patoge Verão 27
+UID:5a7cd8ab-6e60-47a5-b152-1ce9678b7863@5a7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260829T145959Z
+DTSTART:20260724T030000Z
+SUMMARY:Costura Moda Jeans Grupo 10 Patoge Verão 27
+UID:24ffd23c-d972-4578-8a59-c2910a7ee442@24ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Mostruário 1ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260322T145959Z
+DTSTART:20260320T030000Z
+SUMMARY:Expedição Mostruário 1ª entrega Patoge Verão 27
+UID:77074467-5e22-4487-89ed-e028b729da23@7707.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260611T145959Z
+DTSTART:20260505T030000Z
+SUMMARY:Corte Grupo 09 Patoge Verão 27
+UID:b0e1efcb-17b0-4f07-a688-3370db87bb6e@b0e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patoge Verão 27. Em torno de 80% dos desenhos devem ser entregue na data inicial.
+DTEND:20251109T145959Z
+DTSTART:20250908T030000Z
+SUMMARY:Entrega Desenhos Patoge Verão 27 (Grupo 7\, 8 e 9)
+UID:f88134e1-cc71-4c03-89e2-661b4814ebb6@f881.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Mostruário 2ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260516T145959Z
+DTSTART:20260219T030000Z
+SUMMARY:Corte Mostruário 2ª entrega Patoge Verão 27
+UID:3535012f-6ce8-46d4-bc65-2157588f11b3@3535.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260829T145959Z
+DTSTART:20260724T030000Z
+SUMMARY:Costura Jeans Grupo 10 Patoge Verão 27
+UID:9d961c27-29fd-4765-9938-b0eb293aa545@9d96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261106T145959Z
+DTSTART:20261013T030000Z
+SUMMARY:Acabamento Grupo 11 Patoge Verão 27
+UID:6504e8fb-4117-4ef2-adeb-48aab4140436@6504.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patoge Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 9
+DTEND:20260115T145959Z
+DTSTART:20260113T030000Z
+SUMMARY:Última Banca Patoge Verão 27 1ª entrega (Grupo 9)
+UID:6197f354-bc09-4885-8233-43b64ce66290@6197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20251126T145959Z
+DTSTART:20250929T030000Z
+SUMMARY:Lavanderia Pilotos Patoge Verão 27 (Grupo 7\, 8 e 9)
+UID:21f26cb7-fb4c-4d53-b5ad-060d47f40c43@21f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20251119T145959Z
+DTSTART:20250922T030000Z
+SUMMARY:Pilotagem Patoge Verão 27 (Grupo 7\, 8 e 9)
+UID:4f36ed3d-cbc1-449d-885c-87960e3ae404@4f36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Mostruário 1ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260313T145959Z
+DTSTART:20251202T030000Z
+SUMMARY:Lavanderia Mostruário 1ª entrega Patoge Verão 27
+UID:e7620a7c-9d47-4a39-bf94-909e92820ffb@e762.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Mostruário 1ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260227T145959Z
+DTSTART:20251118T030000Z
+SUMMARY:Corte Mostruário 1ª entrega Patoge Verão 27
+UID:42825e93-a367-4df5-85bc-0202e3d8ef04@4282.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patoge Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 10
+DTEND:20260205T145959Z
+DTSTART:20260203T030000Z
+SUMMARY:Primeira Banca Patoge Verão 27 1ª entrega (Grupo 10)
+UID:87f4ddd9-6551-4b81-8c44-27274c9a3e73@87f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20251203T145959Z
+DTSTART:20251006T030000Z
+SUMMARY:Acabamento Pilotos Patoge Verão 27 (Grupo 7\, 8 e 9)
+UID:87713025-bb89-476d-81ff-475cead8cb3e@8771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260402T145959Z
+DTSTART:20260310T030000Z
+SUMMARY:Corte Grupo 07 Patoge Verão 27
+UID:4b402c7a-ca4e-4c02-9612-28930927b0fb@4b40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261015T145959Z
+DTSTART:20260911T030000Z
+SUMMARY:Acabamento Grupo 10 Patoge Verão 27
+UID:897af01f-6d75-46a9-bf18-1d14e2b294f4@897a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patoge Verão 27. Em torno de 80% dos desenhos devem ser entregue na data inicial.
+DTEND:20260205T145959Z
+DTSTART:20251117T030000Z
+SUMMARY:Entrega Desenhos Patoge Verão 27 (Grupo 10 e 11)
+UID:4e576ba9-99ad-4e3a-820e-8c36c27561db@4e57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 07 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260715T145959Z
+DTSTART:20260623T030000Z
+SUMMARY:Acabamento Grupo 07 Patoge Verão 27
+UID:3cc1bb08-0d43-44df-a20e-e2466ee3e03a@3cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260225T145959Z
+DTSTART:20251125T030000Z
+SUMMARY:Modelagem Patoge Verão 27 (Grupo 10 e 11)
+UID:a2519439-9355-4618-a601-76be8a582961@a251.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Mostruário 2ª entrega Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260607T145959Z
+DTSTART:20260312T030000Z
+SUMMARY:Acabamento Mostruário 2ª entrega Patoge Verão 27
+UID:e1990b5f-e89e-49f2-9f2d-ea1b4149be40@e199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 09 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260726T145959Z
+DTSTART:20260623T030000Z
+SUMMARY:Costura Jeans Grupo 09 Patoge Verão 27
+UID:24d45e10-8a78-4560-b5f1-c1d91dfd9877@24d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260802T145959Z
+DTSTART:20260709T030000Z
+SUMMARY:Corte Grupo 11 Patoge Verão 27
+UID:7acc80ff-7cf5-4b9c-acf2-2ef00ce4894e@7acc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260718T145959Z
+DTSTART:20260615T030000Z
+SUMMARY:Lavanderia Grupo 08 Patoge Verão 27
+UID:09589bd6-e2b4-42f8-8aac-568fae7c7cc9@0958.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261115T145959Z
+DTSTART:20261113T030000Z
+SUMMARY:Expedição Grupo 11 Patoge Verão 27
+UID:cf6bba1e-dc7c-4d7c-bce0-c2fe80adb057@cf6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Patoge Verão 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20251112T145959Z
+DTSTART:20250915T030000Z
+SUMMARY:Modelagem Patoge Verão 27 (Grupo 7\, 8 e 9)
+UID:105a5a61-953b-413f-8fb7-3a2b913167ed@105a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261010T145959Z
+DTSTART:20260918T030000Z
+SUMMARY:Lavanderia Grupo 11 Patoge Verão 27
+UID:513dea47-83db-4706-9a8b-74e71433ea22@513d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patoge Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 7
+DTEND:20251106T145959Z
+DTSTART:20251104T030000Z
+SUMMARY:Primeira Banca Patoge Verão 27 1ª entrega (Grupo 7)
+UID:14ab5f99-2d54-4167-b010-6f4521c9cdbd@14ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patoge Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 12
+DTEND:20260326T145959Z
+DTSTART:20260324T030000Z
+SUMMARY:Última Banca Patoge Verão 27 1ª entrega (Grupo 12)
+UID:aff5dfa3-7af4-46df-a299-7d28f21e504b@aff5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Verão 27 grupo 07. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260214T145959Z
+DTSTART:20251111T030000Z
+SUMMARY:Liberação Lacre Vermelho Patoge Verão 27 (Grupo 07)
+UID:3cd7176c-8966-4c94-8d3a-d058ac0536a9@3cd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260920T145959Z
+DTSTART:20260623T030000Z
+SUMMARY:Costura Moda Grupo 10 Patoge Verão 27
+UID:15137b1c-28fb-41a5-b522-9c6f43e0bb1c@1513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261010T145959Z
+DTSTART:20260827T030000Z
+SUMMARY:Costura Moda Grupo 11 Patoge Verão 27
+UID:f1f1d081-aa52-4486-b393-165b69d0c40f@f1f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260813T145959Z
+DTSTART:20260713T030000Z
+SUMMARY:Acabamento Grupo 08 Patoge Verão 27
+UID:3a6e7522-b207-43e6-b772-c6904d2f13ca@3a6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 11 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260918T145959Z
+DTSTART:20260827T030000Z
+SUMMARY:Costura Jeans Grupo 11 Patoge Verão 27
+UID:d2bfeeb2-77b5-4184-8064-d12005eac782@d2bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 08 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260625T145959Z
+DTSTART:20260515T030000Z
+SUMMARY:Costura Jeans Grupo 08 Patoge Verão 27
+UID:78a8fc73-774b-423b-bf3c-d5c806ac1e4b@78a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 10 Patoge Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261017T145959Z
+DTSTART:20261015T030000Z
+SUMMARY:Expedição Grupo 10 Patoge Verão 27
+UID:73c01fc4-a871-4397-a7f9-3a4dce78b771@73c0.org
 END:VEVENT
 END:VCALENDAR
