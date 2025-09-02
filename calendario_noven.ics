@@ -2,675 +2,675 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260526T025959Z
-DTSTART:20260429T030000Z
-SUMMARY:Lavanderia Grupo 07 Noven Verão 27
-UID:80d7c201-3cc7-4ea5-a5d7-7878aac2e0b4@80d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 05. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261014T025959Z
-DTSTART:20260901T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 05)
-UID:f4b6d8bd-968d-428a-9c31-c85ebfa833ea@f4b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270303T025959Z
-DTSTART:20270301T030000Z
-SUMMARY:Expedição Grupo 03 Noven Inverno 27
-UID:7d7749d3-48c9-41c5-822b-318e44af598d@7d77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 07. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260214T025959Z
-DTSTART:20251021T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 07)
-UID:8f4efd49-534a-40f3-afc9-d6dae6594ca5@8f4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Verão 27
-DTEND:20251203T025959Z
-DTSTART:20251202T030000Z
-SUMMARY:Segunda Banca Noven Verão 27
-UID:65115d67-cbe8-4a7e-b65c-0b1707d1c33d@6511.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260623T025959Z
-DTSTART:20260602T030000Z
-SUMMARY:Corte Grupo 11 Noven Verão 27
-UID:c567d5c7-00cb-481a-8c85-cd446569b46b@c567.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270227T025959Z
-DTSTART:20270121T030000Z
-SUMMARY:Costura Jeans Grupo 05 Noven Inverno 27
-UID:a914e189-04ed-465f-8405-c5d244ff4005@a914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261024T025959Z
-DTSTART:20260921T030000Z
-SUMMARY:Costura Moda Jeans Grupo 02 Noven Inverno 27
-UID:829d5f5a-e1ec-46f6-8f2e-be334166a0d7@829d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 11. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260530T025959Z
-DTSTART:20260203T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 11)
-UID:1ab32bf5-bb5c-4546-bdfe-c92c14d65a8d@1ab3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Noven Verão 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260107T025959Z
-DTSTART:20250901T030000Z
-SUMMARY:Lavanderia Pilotos Noven Verão 27
-UID:91418e81-982d-4e6c-ab7f-921dc1ea729d@9141.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270220T025959Z
-DTSTART:20261125T030000Z
-SUMMARY:Costura Moda Grupo 04 Noven Inverno 27
-UID:265f4b07-fc89-4203-9383-fd182b9585f9@265f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270330T025959Z
-DTSTART:20270121T030000Z
-SUMMARY:Costura Moda Grupo 05 Noven Inverno 27
-UID:df22d715-f216-4215-b904-501f6039ccbf@df22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 09. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260415T025959Z
-DTSTART:20251209T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 09)
-UID:00d78ecf-78fe-499c-9eb2-309974feef3b@00d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 10. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260513T025959Z
-DTSTART:20251209T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 10)
-UID:0a8a21be-4df2-4584-8b6b-f9c94da16bce@0a8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 03. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260811T025959Z
-DTSTART:20260623T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 03)
-UID:9f7e1978-7a78-4e63-9d63-5e8bf68f4e8f@9f7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Noven Verão 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20251209T025959Z
-DTSTART:20250825T030000Z
-SUMMARY:Pilotagem Noven Verão 27
-UID:4f9d4547-1489-4d1c-8b08-ab718fb62f38@4f9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260923T025959Z
-DTSTART:20260821T030000Z
-SUMMARY:Acabamento Grupo 10 Noven Verão 27
-UID:f97f2e34-7e14-4645-9bea-507de45c7fc4@f97f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260312T025959Z
-DTSTART:20260220T030000Z
-SUMMARY:Corte Grupo 07 Noven Verão 27
-UID:8d763e81-b56f-4eed-9cf0-348059a97862@8d76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270330T025959Z
-DTSTART:20270219T030000Z
-SUMMARY:Lavanderia Grupo 05 Noven Inverno 27
-UID:a8a0a937-87f6-4773-b978-4cf9262b4175@a8a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260624T025959Z
-DTSTART:20260602T030000Z
-SUMMARY:Acabamento Grupo 07 Noven Verão 27
-UID:96e86704-477c-4fad-807e-91b523299e5d@96e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260508T025959Z
-DTSTART:20260407T030000Z
-SUMMARY:Corte Grupo 09 Noven Verão 27
-UID:038df8a3-1f3b-4186-85db-784de0b42f04@038d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260703T025959Z
-DTSTART:20260701T030000Z
-SUMMARY:Expedição Grupo 07 Noven Verão 27
-UID:ad95df99-d2fd-46ab-b734-90700ef44029@ad95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260808T025959Z
-DTSTART:20260706T030000Z
-SUMMARY:Costura Jeans Grupo 10 Noven Verão 27
-UID:e6a29c94-a48f-41cb-9193-a03180086827@e6a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270106T025959Z
-DTSTART:20270104T030000Z
-SUMMARY:Expedição Grupo 01 Noven Inverno 27
-UID:6d964a04-a10d-47e7-8cda-6bc57adf5ed4@6d96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270106T025959Z
-DTSTART:20261023T030000Z
-SUMMARY:Costura Moda Grupo 03 Noven Inverno 27
-UID:496dba75-d80a-42fa-baf6-53e2aa575737@496d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 08. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260317T025959Z
-DTSTART:20251021T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 08)
-UID:c1edb626-5cda-4f1e-b190-6daa0e77b19c@c1ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261106T025959Z
-DTSTART:20261014T030000Z
-SUMMARY:Acabamento Grupo 01 Noven Inverno 27
-UID:eafe8b26-ee67-4c58-8679-6417e5e167ae@eafe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 02. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260714T025959Z
-DTSTART:20260422T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 02)
-UID:af34be6b-624b-4bd6-883d-6b9e80d4ded2@af34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Verão 27
-DTEND:20260128T025959Z
-DTSTART:20260127T030000Z
-SUMMARY:Última Banca Noven Verão 27
-UID:6831231b-2886-42ad-9e92-898f5f25dd30@6831.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261015T025959Z
-DTSTART:20260918T030000Z
-SUMMARY:Lavanderia Grupo 01 Noven Inverno 27
-UID:26e82361-a343-4803-83e6-c04a869e7ed5@26e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260730T025959Z
-DTSTART:20260626T030000Z
-SUMMARY:Lavanderia Grupo 09 Noven Verão 27
-UID:f28737b5-79da-448d-9a5a-691ebb27753f@f287.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270403T025959Z
-DTSTART:20270401T030000Z
-SUMMARY:Expedição Grupo 04 Noven Inverno 27
-UID:9e8fba4c-d0b2-4c7e-8d40-17df0a5d21ff@9e8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Noven Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.
-DTEND:20251125T025959Z
-DTSTART:20250811T030000Z
-SUMMARY:Entrega Desenhos Noven Verão 27
-UID:19dfadb6-9fe3-451b-841e-88f9294edb61@19df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260627T025959Z
-DTSTART:20260525T030000Z
-SUMMARY:Lavanderia Grupo 08 Noven Verão 27
-UID:c5770316-4b93-4188-95f2-e332123a4b95@c577.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261003T025959Z
-DTSTART:20261001T030000Z
-SUMMARY:Expedição Grupo 10 Noven Verão 27
-UID:c55db543-e459-4bdd-82f6-7593a52fa1ba@c55d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260919T025959Z
-DTSTART:20260828T030000Z
-SUMMARY:Lavanderia Grupo 11 Noven Verão 27
-UID:0794b989-b69b-4f51-8aa3-0d15c531aefa@0794.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260603T025959Z
-DTSTART:20260424T030000Z
-SUMMARY:Costura Jeans Grupo 08 Noven Verão 27
-UID:98dacaad-3891-437f-9d86-e316c43c0bc2@98da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Verão 27
-DTEND:20251015T025959Z
-DTSTART:20251014T030000Z
-SUMMARY:Primeira Banca Noven Verão 27
-UID:27b5a698-209f-4643-b7bf-c568f668bed0@27b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260829T025959Z
-DTSTART:20260729T030000Z
-SUMMARY:Lavanderia Grupo 10 Noven Verão 27
-UID:582f23a2-cc96-46ea-94be-c4c8fbfae27a@582f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260425T025959Z
-DTSTART:20260330T030000Z
-SUMMARY:Costura Moda Jeans Grupo 07 Noven Verão 27
-UID:9fc7a087-8fce-4d72-94f7-ac54c858e893@9fc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Noven Inverno 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260722T025959Z
-DTSTART:20260309T030000Z
-SUMMARY:Modelagem Noven Inverno 27
-UID:136bae9b-6b45-42af-b6ec-f5c7e6df8100@136b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270220T025959Z
-DTSTART:20270105T030000Z
-SUMMARY:Lavanderia Grupo 04 Noven Inverno 27
-UID:049f65fa-da8d-4724-9b39-3927738ef324@049f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Noven Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.
-DTEND:20260715T025959Z
-DTSTART:20260302T030000Z
-SUMMARY:Entrega Desenhos Noven Inverno 27
-UID:965feef9-6dbb-44b7-b6e8-8a31551f07f9@965f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270505T025959Z
-DTSTART:20270503T030000Z
-SUMMARY:Expedição Grupo 05 Noven Inverno 27
-UID:cce76067-e9ac-4d78-a417-c88dd662929c@cce7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261126T025959Z
-DTSTART:20261023T030000Z
-SUMMARY:Costura Moda Jeans Grupo 03 Noven Inverno 27
-UID:a9a8e5e4-eae1-42d7-8dff-14650f546c95@a9a8.org
+DESCRIPTION:Acabamento Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270120T025959Z
+DTSTART:20261203T030000Z
+SUMMARY:Acabamento Grupo 03 Noven Inverno 27
+UID:494364d3-63fb-4772-af3e-cca95286603a@4943.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Costura Jeans Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
 DTEND:20260425T025959Z
 DTSTART:20260330T030000Z
 SUMMARY:Costura Jeans Grupo 07 Noven Verão 27
-UID:8207c405-2eb7-41cf-a937-8c17f315ff85@8207.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260710T025959Z
-DTSTART:20260622T030000Z
-SUMMARY:Corte Grupo 01 Noven Inverno 27
-UID:5963ef0c-ac2f-4802-8439-3c933905ec04@5963.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Inverno 27
-DTEND:20260415T025959Z
-DTSTART:20260414T030000Z
-SUMMARY:Primeira Banca Noven Inverno 27
-UID:a4568508-c628-4757-b570-72ab6169554a@a456.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270402T025959Z
-DTSTART:20270301T030000Z
-SUMMARY:Acabamento Grupo 05 Noven Inverno 27
-UID:b36cb64d-8590-4f41-b25c-f5ef416fedab@b36c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261015T025959Z
-DTSTART:20260922T030000Z
-SUMMARY:Acabamento Grupo 11 Noven Verão 27
-UID:19b7c184-11c1-4113-843f-ab87573dab84@19b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 04. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260915T025959Z
-DTSTART:20260623T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 04)
-UID:829b4943-bef6-495c-8476-f330a797f0e3@829b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261105T025959Z
-DTSTART:20261005T030000Z
-SUMMARY:Corte Grupo 05 Noven Inverno 27
-UID:3e2873ea-a8ef-4a14-b979-d9fc692a74a5@3e28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260901T025959Z
-DTSTART:20260803T030000Z
-SUMMARY:Corte Grupo 03 Noven Inverno 27
-UID:d44b380a-7af7-4e1e-8315-746da2b07ff5@d44b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260804T025959Z
-DTSTART:20260709T030000Z
-SUMMARY:Corte Grupo 02 Noven Inverno 27
-UID:788c2154-47d2-4bb5-b9ea-6b76d680597f@788c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261126T025959Z
-DTSTART:20261023T030000Z
-SUMMARY:Costura Jeans Grupo 03 Noven Inverno 27
-UID:fa329ec0-39e1-4110-b550-c33afcfafd07@fa32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260627T025959Z
-DTSTART:20260424T030000Z
-SUMMARY:Costura Moda Grupo 08 Noven Verão 27
-UID:b8b7addb-236c-44df-96bc-52c8d20c1aec@b8b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270122T025959Z
-DTSTART:20261125T030000Z
-SUMMARY:Costura Jeans Grupo 04 Noven Inverno 27
-UID:732476eb-ed9e-4afe-b4bb-3966b4f0845c@7324.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Noven Inverno 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260805T025959Z
-DTSTART:20260323T030000Z
-SUMMARY:Lavanderia Pilotos Noven Inverno 27
-UID:5c5d536b-b390-4e53-93d8-8382c9ee9cbd@5c5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270227T025959Z
-DTSTART:20270121T030000Z
-SUMMARY:Costura Moda Jeans Grupo 05 Noven Inverno 27
-UID:0815f9c3-77f6-4d12-904c-2be26c03024b@0815.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 01. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260619T025959Z
-DTSTART:20260422T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 01)
-UID:2c95a439-0f59-439e-8346-8d0f36234dee@2c95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260526T025959Z
-DTSTART:20260330T030000Z
-SUMMARY:Costura Moda Grupo 07 Noven Verão 27
-UID:d18bdc97-cab0-452c-937b-2b52431fba41@d18b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260922T025959Z
-DTSTART:20260826T030000Z
-SUMMARY:Costura Moda Jeans Grupo 01 Noven Inverno 27
-UID:77ccd1e8-cb80-4b8b-aa9e-af178ada9d36@77cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260822T025959Z
-DTSTART:20260722T030000Z
-SUMMARY:Acabamento Grupo 09 Noven Verão 27
-UID:ea63892f-d6f8-4ee8-bbd6-1dad120979a8@ea63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261015T025959Z
-DTSTART:20260826T030000Z
-SUMMARY:Costura Moda Grupo 01 Noven Inverno 27
-UID:76a20dc7-e767-4e29-8bfd-85ea3e27b8bb@76a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261024T025959Z
-DTSTART:20260921T030000Z
-SUMMARY:Costura Jeans Grupo 02 Noven Inverno 27
-UID:51115357-f9ca-44da-8dd5-125f2ffcdbe9@5111.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260707T025959Z
-DTSTART:20260602T030000Z
-SUMMARY:Costura Jeans Grupo 09 Noven Verão 27
-UID:89f209cc-b0b7-450c-8faa-b72c3b3edec5@89f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260723T025959Z
-DTSTART:20260623T030000Z
-SUMMARY:Acabamento Grupo 08 Noven Verão 27
-UID:7cb9cf38-a9bb-4434-8309-8a5a4eae515c@7cb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261105T025959Z
-DTSTART:20261103T030000Z
-SUMMARY:Expedição Grupo 11 Noven Verão 27
-UID:6b192ce7-dd06-40b9-9735-a7d4b1d9403f@6b19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260805T025959Z
-DTSTART:20260803T030000Z
-SUMMARY:Expedição Grupo 08 Noven Verão 27
-UID:33f02f0f-a0ff-449a-ae88-7dce0c9be57c@33f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260808T025959Z
-DTSTART:20260706T030000Z
-SUMMARY:Costura Moda Jeans Grupo 10 Noven Verão 27
-UID:0a7c2826-666e-4c87-b57b-024aa8fe9879@0a7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Noven Inverno 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260812T025959Z
-DTSTART:20260330T030000Z
-SUMMARY:Acabamento Pilotos Noven Inverno 27
-UID:289a830f-9271-42d3-8d77-a5f7530634bf@289a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260922T025959Z
-DTSTART:20260826T030000Z
-SUMMARY:Costura Jeans Grupo 01 Noven Inverno 27
-UID:666ec825-9f48-4bdc-83fe-a9ba6f3e4e90@666e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260903T025959Z
-DTSTART:20260901T030000Z
-SUMMARY:Expedição Grupo 09 Noven Verão 27
-UID:174a368c-3ab0-49eb-ba6f-0feeb60bcd03@174a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261204T025959Z
-DTSTART:20261105T030000Z
-SUMMARY:Acabamento Grupo 02 Noven Inverno 27
-UID:7875919a-719a-4726-8ab1-02f59ac9a863@7875.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260603T025959Z
-DTSTART:20260424T030000Z
-SUMMARY:Costura Moda Jeans Grupo 08 Noven Verão 27
-UID:ed40ba03-92c5-4b6b-a767-0202eefbfd17@ed40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Inverno 27
-DTEND:20260826T025959Z
-DTSTART:20260825T030000Z
-SUMMARY:Última Banca Noven Inverno 27
-UID:92a6f391-e5a2-47dd-9ee0-5b8cdf86d768@92a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270122T025959Z
-DTSTART:20261125T030000Z
-SUMMARY:Costura Moda Jeans Grupo 04 Noven Inverno 27
-UID:ce32fd80-634c-4bec-8ca1-27741ba3d707@ce32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260730T025959Z
-DTSTART:20260602T030000Z
-SUMMARY:Costura Moda Grupo 09 Noven Verão 27
-UID:6eafc2c8-0ab8-4676-ad03-a5d669174a1f@6eaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260827T025959Z
-DTSTART:20260807T030000Z
-SUMMARY:Costura Moda Jeans Grupo 11 Noven Verão 27
-UID:4fe207f3-4d90-4331-ba33-760cc0f37b39@4fe2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260919T025959Z
-DTSTART:20260807T030000Z
-SUMMARY:Costura Moda Grupo 11 Noven Verão 27
-UID:2a3fe67f-a1ef-4c54-a093-bf1686f53ee7@2a3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270203T025959Z
-DTSTART:20270201T030000Z
-SUMMARY:Expedição Grupo 02 Noven Inverno 27
-UID:52c33f50-5a1c-48fb-bae5-c7049967a88a@52c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270302T025959Z
-DTSTART:20270119T030000Z
-SUMMARY:Acabamento Grupo 04 Noven Inverno 27
-UID:c06ed07d-95cb-4491-910c-8d1931e19f01@c06e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260603T025959Z
-DTSTART:20260507T030000Z
-SUMMARY:Corte Grupo 10 Noven Verão 27
-UID:96cdccfe-8cef-4e4d-b28f-3ff964e38d40@96cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260408T025959Z
-DTSTART:20260311T030000Z
-SUMMARY:Corte Grupo 08 Noven Verão 27
-UID:6196bbcb-977c-4e03-b59e-760f2706cb45@6196.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270106T025959Z
-DTSTART:20261116T030000Z
-SUMMARY:Lavanderia Grupo 03 Noven Inverno 27
-UID:b929ddc1-3040-40b7-aa74-2f9fabd9fbff@b929.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260829T025959Z
-DTSTART:20260706T030000Z
-SUMMARY:Costura Moda Grupo 10 Noven Verão 27
-UID:f54a14b8-a435-430a-a22b-a4ee3845f54e@f54a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Inverno 27
-DTEND:20260617T025959Z
-DTSTART:20260616T030000Z
-SUMMARY:Segunda Banca Noven Inverno 27
-UID:3f415465-38de-4210-8d2e-f74914609641@3f41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Noven Verão 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260114T025959Z
-DTSTART:20250908T030000Z
-SUMMARY:Acabamento Pilotos Noven Verão 27
-UID:710c37ea-d2af-455f-bf2b-ccbec9456051@710c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260707T025959Z
-DTSTART:20260602T030000Z
-SUMMARY:Costura Moda Jeans Grupo 09 Noven Verão 27
-UID:9844d472-b2a0-4468-8af5-e607af3f7b56@9844.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261117T025959Z
-DTSTART:20261014T030000Z
-SUMMARY:Lavanderia Grupo 02 Noven Inverno 27
-UID:5fc389b8-5191-43cf-b2b6-25731d180072@5fc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20270120T025959Z
-DTSTART:20261203T030000Z
-SUMMARY:Acabamento Grupo 03 Noven Inverno 27
-UID:3f542e35-a8f9-47c5-adb8-9821f437ff24@3f54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Noven Verão 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20251202T025959Z
-DTSTART:20250818T030000Z
-SUMMARY:Modelagem Noven Verão 27
-UID:a43027aa-2ee0-4bf8-bfb0-2149ddcd4f95@a430.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20261117T025959Z
-DTSTART:20260921T030000Z
-SUMMARY:Costura Moda Grupo 02 Noven Inverno 27
-UID:f0921d55-9bbd-4388-974d-27ceb465b3d8@f092.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260827T025959Z
-DTSTART:20260807T030000Z
-SUMMARY:Costura Jeans Grupo 11 Noven Verão 27
-UID:e1527f42-2020-43a6-8993-f7f7b89ae624@e152.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Noven Inverno 27. A data inicial é uma previsão\, e a data final é um limite.
-DTEND:20260729T025959Z
-DTSTART:20260316T030000Z
-SUMMARY:Pilotagem Noven Inverno 27
-UID:df492bdf-a223-4f4b-bf0d-3b72aafecfe9@df49.org
+UID:b7ace4c2-00a4-4b51-862e-9ad53b59e622@b7ac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Corte Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
 DTEND:20261006T025959Z
 DTSTART:20260831T030000Z
 SUMMARY:Corte Grupo 04 Noven Inverno 27
-UID:1f3eb935-1255-407f-ad1f-459249af6b53@1f3e.org
+UID:8b0b3c90-bc80-4f50-aa00-379d347939c6@8b0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260703T025959Z
+DTSTART:20260701T030000Z
+SUMMARY:Expedição Grupo 07 Noven Verão 27
+UID:6feb9589-80a7-417d-9417-7d912a9ca9c7@6feb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Noven Verão 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260107T025959Z
+DTSTART:20250901T030000Z
+SUMMARY:Lavanderia Pilotos Noven Verão 27
+UID:1769a087-f26e-47e2-8333-d904b34a3713@1769.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270227T025959Z
+DTSTART:20270121T030000Z
+SUMMARY:Costura Jeans Grupo 05 Noven Inverno 27
+UID:c18af524-7e92-4551-80df-8a14e75c3f8c@c18a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260730T025959Z
+DTSTART:20260626T030000Z
+SUMMARY:Lavanderia Grupo 09 Noven Verão 27
+UID:8aad12ce-4e98-4ee1-a266-bdb2dcc7406e@8aad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270106T025959Z
+DTSTART:20261116T030000Z
+SUMMARY:Lavanderia Grupo 03 Noven Inverno 27
+UID:479142ec-aaa3-40e3-8f05-159f7f926fcd@4791.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 01. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260619T025959Z
+DTSTART:20260422T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 01)
+UID:7908ca7b-e43f-44dc-9228-3c7bf44f346c@7908.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270303T025959Z
+DTSTART:20270301T030000Z
+SUMMARY:Expedição Grupo 03 Noven Inverno 27
+UID:af68ca50-253c-4921-b063-f813b6a41687@af68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270505T025959Z
+DTSTART:20270503T030000Z
+SUMMARY:Expedição Grupo 05 Noven Inverno 27
+UID:47ede56d-759c-4b89-8410-545e8cf3b9be@47ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 05. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261014T025959Z
+DTSTART:20260901T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 05)
+UID:474d9803-434a-4c07-9466-e24608ad8e3b@474d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260526T025959Z
+DTSTART:20260429T030000Z
+SUMMARY:Lavanderia Grupo 07 Noven Verão 27
+UID:b5fe51e6-00f9-477a-b14b-05278efcd57b@b5fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260808T025959Z
+DTSTART:20260706T030000Z
+SUMMARY:Costura Moda Jeans Grupo 10 Noven Verão 27
+UID:bb41da06-ba6e-40b3-8883-1da85de2b811@bb41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260627T025959Z
+DTSTART:20260525T030000Z
+SUMMARY:Lavanderia Grupo 08 Noven Verão 27
+UID:995fbb7d-3612-424e-9982-77b6fe7858b2@995f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Noven Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.
+DTEND:20260715T025959Z
+DTSTART:20260302T030000Z
+SUMMARY:Entrega Desenhos Noven Inverno 27
+UID:de0d73d1-6611-4bfc-9d39-358b9e58dd4d@de0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270330T025959Z
+DTSTART:20270121T030000Z
+SUMMARY:Costura Moda Grupo 05 Noven Inverno 27
+UID:27519543-996b-4ca8-b487-4e87d62bfa6c@2751.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260919T025959Z
+DTSTART:20260828T030000Z
+SUMMARY:Lavanderia Grupo 11 Noven Verão 27
+UID:67f36e0c-adbf-4f46-8366-294cae88186f@67f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260723T025959Z
+DTSTART:20260623T030000Z
+SUMMARY:Acabamento Grupo 08 Noven Verão 27
+UID:43f6bb09-1f13-4e20-821e-2a2e64d3be93@43f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260624T025959Z
+DTSTART:20260602T030000Z
+SUMMARY:Acabamento Grupo 07 Noven Verão 27
+UID:f7b01e46-6f46-4724-b7c0-58292d704798@f7b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260603T025959Z
+DTSTART:20260424T030000Z
+SUMMARY:Costura Moda Jeans Grupo 08 Noven Verão 27
+UID:c2d9675e-495d-40b4-a34e-b9e6f902b2d3@c2d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270220T025959Z
+DTSTART:20261125T030000Z
+SUMMARY:Costura Moda Grupo 04 Noven Inverno 27
+UID:65be4342-960d-408f-bbe0-e996890c8823@65be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261204T025959Z
+DTSTART:20261105T030000Z
+SUMMARY:Acabamento Grupo 02 Noven Inverno 27
+UID:7b4697b5-92f7-4d72-8da4-d92749a094a9@7b46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260526T025959Z
+DTSTART:20260330T030000Z
+SUMMARY:Costura Moda Grupo 07 Noven Verão 27
+UID:f0ed3431-25d4-4433-b4c0-22125a0e1f23@f0ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260508T025959Z
+DTSTART:20260407T030000Z
+SUMMARY:Corte Grupo 09 Noven Verão 27
+UID:60c37638-d34f-4767-b92e-2114f01587ba@60c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Verão 27
+DTEND:20260128T025959Z
+DTSTART:20260127T030000Z
+SUMMARY:Última Banca Noven Verão 27
+UID:5b54afaf-c119-49ef-88b9-f2703f1ea88f@5b54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260919T025959Z
+DTSTART:20260807T030000Z
+SUMMARY:Costura Moda Grupo 11 Noven Verão 27
+UID:62efac4b-e009-48fe-9a89-42aef617e60d@62ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261003T025959Z
+DTSTART:20261001T030000Z
+SUMMARY:Expedição Grupo 10 Noven Verão 27
+UID:8aff5e89-44fd-4d0c-a8a1-c270353cd4a2@8aff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Noven Inverno 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260722T025959Z
+DTSTART:20260309T030000Z
+SUMMARY:Modelagem Noven Inverno 27
+UID:6c113022-a221-4fa7-a998-f493026f341f@6c11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Noven Verão 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260114T025959Z
+DTSTART:20250908T030000Z
+SUMMARY:Acabamento Pilotos Noven Verão 27
+UID:21fb1c98-713e-4547-80a8-6c7d123ea180@21fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 08. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260317T025959Z
+DTSTART:20251021T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 08)
+UID:062795a9-1465-4022-9272-381ed8c32d31@0627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261105T025959Z
+DTSTART:20261103T030000Z
+SUMMARY:Expedição Grupo 11 Noven Verão 27
+UID:682dcd69-d235-4b25-a1ba-ed36e9f24e26@682d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261117T025959Z
+DTSTART:20261014T030000Z
+SUMMARY:Lavanderia Grupo 02 Noven Inverno 27
+UID:e98b0890-639a-419b-a37f-f03601bed282@e98b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Noven Inverno 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260812T025959Z
+DTSTART:20260330T030000Z
+SUMMARY:Acabamento Pilotos Noven Inverno 27
+UID:261e0afc-a1aa-4b2b-bfed-369c17f7cb3e@261e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260707T025959Z
+DTSTART:20260602T030000Z
+SUMMARY:Costura Jeans Grupo 09 Noven Verão 27
+UID:f6b5d667-bad6-46e2-b3be-71a7a9c37919@f6b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260408T025959Z
+DTSTART:20260311T030000Z
+SUMMARY:Corte Grupo 08 Noven Verão 27
+UID:ceb77624-f5ac-43ad-81e9-32065afd0314@ceb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260730T025959Z
+DTSTART:20260602T030000Z
+SUMMARY:Costura Moda Grupo 09 Noven Verão 27
+UID:f202b74d-9e26-4a5b-9cfc-30fbef2befb5@f202.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260829T025959Z
+DTSTART:20260729T030000Z
+SUMMARY:Lavanderia Grupo 10 Noven Verão 27
+UID:16289728-79c1-489e-b0fd-3952ac1645b4@1628.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270106T025959Z
+DTSTART:20261023T030000Z
+SUMMARY:Costura Moda Grupo 03 Noven Inverno 27
+UID:d033cf27-4858-4883-bcde-d06869be9719@d033.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Verão 27
+DTEND:20251203T025959Z
+DTSTART:20251202T030000Z
+SUMMARY:Segunda Banca Noven Verão 27
+UID:4092efb2-74b0-4ffa-89cb-7593d9717f97@4092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270220T025959Z
+DTSTART:20270105T030000Z
+SUMMARY:Lavanderia Grupo 04 Noven Inverno 27
+UID:b250bf26-de9e-45ed-b9e3-d78658960c10@b250.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Inverno 27
+DTEND:20260826T025959Z
+DTSTART:20260825T030000Z
+SUMMARY:Última Banca Noven Inverno 27
+UID:b36fa813-6019-42d6-b590-579b65b23c57@b36f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 11. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260530T025959Z
+DTSTART:20260203T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 11)
+UID:5608c24c-7b70-45c0-a2a6-3fa222ec73d3@5608.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 04. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260915T025959Z
+DTSTART:20260623T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 04)
+UID:46a60572-0d4d-4935-8833-bbe6ce196ef8@46a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 07. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260214T025959Z
+DTSTART:20251021T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 07)
+UID:58b386b1-5a49-41a7-a118-f1e3e10b6f18@58b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 09. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260415T025959Z
+DTSTART:20251209T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 09)
+UID:45121f57-ac5c-4809-8578-35291923ded5@4512.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260922T025959Z
+DTSTART:20260826T030000Z
+SUMMARY:Costura Moda Jeans Grupo 01 Noven Inverno 27
+UID:4f3dc9cb-9711-4944-b117-c3d91b41e862@4f3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260425T025959Z
+DTSTART:20260330T030000Z
+SUMMARY:Costura Moda Jeans Grupo 07 Noven Verão 27
+UID:8c1e2088-abf3-4955-a971-9ce376666c31@8c1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270330T025959Z
+DTSTART:20270219T030000Z
+SUMMARY:Lavanderia Grupo 05 Noven Inverno 27
+UID:1bfe5845-00af-4de7-acde-34918d7b105c@1bfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261126T025959Z
+DTSTART:20261023T030000Z
+SUMMARY:Costura Jeans Grupo 03 Noven Inverno 27
+UID:4dbc4c7a-5aef-458f-b436-7cc432f26b06@4dbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260623T025959Z
+DTSTART:20260602T030000Z
+SUMMARY:Corte Grupo 11 Noven Verão 27
+UID:04e4b30e-67fc-4d08-bfec-071d25add6b2@04e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260901T025959Z
+DTSTART:20260803T030000Z
+SUMMARY:Corte Grupo 03 Noven Inverno 27
+UID:b44557c9-857a-4b2a-8a5e-d899ea8ec0cb@b445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Noven Inverno 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260729T025959Z
+DTSTART:20260316T030000Z
+SUMMARY:Pilotagem Noven Inverno 27
+UID:75cb4255-fc38-4eb4-a509-350b4f8bdac9@75cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 10. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260513T025959Z
+DTSTART:20251209T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 10)
+UID:c8e1513c-5a39-4d05-a012-8fdfe745bbca@c8e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260627T025959Z
+DTSTART:20260424T030000Z
+SUMMARY:Costura Moda Grupo 08 Noven Verão 27
+UID:800cc1e9-d81e-44b5-ba73-339be09ace36@800c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270106T025959Z
+DTSTART:20270104T030000Z
+SUMMARY:Expedição Grupo 01 Noven Inverno 27
+UID:04d8ae17-ccf6-4706-adb8-ce910faf5d14@04d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Verão 27
+DTEND:20251015T025959Z
+DTSTART:20251014T030000Z
+SUMMARY:Primeira Banca Noven Verão 27
+UID:a7afed5c-d471-4ad4-b1a5-5b37be887e36@a7af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Noven Inverno 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260805T025959Z
+DTSTART:20260323T030000Z
+SUMMARY:Lavanderia Pilotos Noven Inverno 27
+UID:8a69affe-15c1-4829-a5e4-da21242b6c15@8a69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260827T025959Z
+DTSTART:20260807T030000Z
+SUMMARY:Costura Jeans Grupo 11 Noven Verão 27
+UID:dbba1748-45bf-462e-89cf-6f18fe2b2173@dbba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260829T025959Z
+DTSTART:20260706T030000Z
+SUMMARY:Costura Moda Grupo 10 Noven Verão 27
+UID:b2a54065-0830-4fe9-838c-862b68963a2f@b2a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Inverno 27
+DTEND:20260617T025959Z
+DTSTART:20260616T030000Z
+SUMMARY:Segunda Banca Noven Inverno 27
+UID:5c2c00b9-ae3b-4f0c-84dd-25b93c0d0eca@5c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270122T025959Z
+DTSTART:20261125T030000Z
+SUMMARY:Costura Moda Jeans Grupo 04 Noven Inverno 27
+UID:0bc9dced-f696-4de4-85e6-9d0ccd960220@0bc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270203T025959Z
+DTSTART:20270201T030000Z
+SUMMARY:Expedição Grupo 02 Noven Inverno 27
+UID:3cbd8c42-4094-46d6-90cb-690cedad2904@3cbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260922T025959Z
+DTSTART:20260826T030000Z
+SUMMARY:Costura Jeans Grupo 01 Noven Inverno 27
+UID:84625029-586d-4742-b953-70ec13c998f4@8462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 03 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261126T025959Z
+DTSTART:20261023T030000Z
+SUMMARY:Costura Moda Jeans Grupo 03 Noven Inverno 27
+UID:88fec500-14c8-4cca-a0bf-2ae29569bca0@88fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261024T025959Z
+DTSTART:20260921T030000Z
+SUMMARY:Costura Moda Jeans Grupo 02 Noven Inverno 27
+UID:38639788-05eb-483d-b54e-82b9d80e1b67@3863.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260710T025959Z
+DTSTART:20260622T030000Z
+SUMMARY:Corte Grupo 01 Noven Inverno 27
+UID:f0e3bd63-14f2-4f68-8bc0-ebc1a960cab2@f0e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260903T025959Z
+DTSTART:20260901T030000Z
+SUMMARY:Expedição Grupo 09 Noven Verão 27
+UID:942ab47f-3636-4cc0-9fc2-4d7bf8fb0b7c@942a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Inverno 27
+DTEND:20260415T025959Z
+DTSTART:20260414T030000Z
+SUMMARY:Primeira Banca Noven Inverno 27
+UID:d370bc9b-e3f5-48f6-b571-b4234e718d72@d370.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270227T025959Z
+DTSTART:20270121T030000Z
+SUMMARY:Costura Moda Jeans Grupo 05 Noven Inverno 27
+UID:9430d033-59cd-4d57-8c5a-ae5696f7c358@9430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260827T025959Z
+DTSTART:20260807T030000Z
+SUMMARY:Costura Moda Jeans Grupo 11 Noven Verão 27
+UID:02e46b23-94f3-47c5-bd60-b513ae66ec55@02e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260923T025959Z
+DTSTART:20260821T030000Z
+SUMMARY:Acabamento Grupo 10 Noven Verão 27
+UID:7993a3f2-ed65-40d0-a04f-99b01196d3d9@7993.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260603T025959Z
+DTSTART:20260424T030000Z
+SUMMARY:Costura Jeans Grupo 08 Noven Verão 27
+UID:3d1c3a9a-2d24-4afd-8faf-a19c0d5fc930@3d1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260603T025959Z
+DTSTART:20260507T030000Z
+SUMMARY:Corte Grupo 10 Noven Verão 27
+UID:9b573397-ea7e-4389-95f5-c982923059c9@9b57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261105T025959Z
+DTSTART:20261005T030000Z
+SUMMARY:Corte Grupo 05 Noven Inverno 27
+UID:9083f0d2-16bc-4f90-a515-99c61cd1613a@9083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270302T025959Z
+DTSTART:20270119T030000Z
+SUMMARY:Acabamento Grupo 04 Noven Inverno 27
+UID:48307342-c3b4-4df3-a910-d9dec6965786@4830.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270403T025959Z
+DTSTART:20270401T030000Z
+SUMMARY:Expedição Grupo 04 Noven Inverno 27
+UID:921a433f-68e4-430e-af46-769a74577de1@921a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Noven Verão 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20251202T025959Z
+DTSTART:20250818T030000Z
+SUMMARY:Modelagem Noven Verão 27
+UID:d2598129-51f3-4dde-a675-52a7dd406f4e@d259.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261117T025959Z
+DTSTART:20260921T030000Z
+SUMMARY:Costura Moda Grupo 02 Noven Inverno 27
+UID:ef4ecc0f-cac2-4d86-9f99-7e22499ad096@ef4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260804T025959Z
+DTSTART:20260709T030000Z
+SUMMARY:Corte Grupo 02 Noven Inverno 27
+UID:e7dd2006-041b-447a-8b61-eb62d3b04ff9@e7dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 02 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261024T025959Z
+DTSTART:20260921T030000Z
+SUMMARY:Costura Jeans Grupo 02 Noven Inverno 27
+UID:8b9d11f3-c53d-4c85-9f4b-6f4cae8df1f2@8b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 04 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270122T025959Z
+DTSTART:20261125T030000Z
+SUMMARY:Costura Jeans Grupo 04 Noven Inverno 27
+UID:68b26c91-844c-407e-869d-7e5bdd61af1c@68b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 10 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260808T025959Z
+DTSTART:20260706T030000Z
+SUMMARY:Costura Jeans Grupo 10 Noven Verão 27
+UID:30a3d28a-c48f-4b9c-a4e9-3b40fba3b150@30a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260707T025959Z
+DTSTART:20260602T030000Z
+SUMMARY:Costura Moda Jeans Grupo 09 Noven Verão 27
+UID:0afee1e8-3881-4596-88b5-87867d8e3ad3@0afe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 03. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260811T025959Z
+DTSTART:20260623T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 03)
+UID:a513f50f-99ea-4ea4-8562-81f32473f194@a513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Noven Verão 27. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20251209T025959Z
+DTSTART:20250825T030000Z
+SUMMARY:Pilotagem Noven Verão 27
+UID:92005b7f-cf0b-4d2d-9a9b-4112bdf9429d@9200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 08 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260805T025959Z
+DTSTART:20260803T030000Z
+SUMMARY:Expedição Grupo 08 Noven Verão 27
+UID:14181b5f-448b-4f3a-b824-acf262007cf2@1418.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 02. A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260714T025959Z
+DTSTART:20260422T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 02)
+UID:dc021768-c5a9-47e7-944d-56200cbb82d6@dc02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Noven Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.
+DTEND:20251125T025959Z
+DTSTART:20250811T030000Z
+SUMMARY:Entrega Desenhos Noven Verão 27
+UID:131cb100-d451-40a9-be0b-b1d16a611f65@131c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 11 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261015T025959Z
+DTSTART:20260922T030000Z
+SUMMARY:Acabamento Grupo 11 Noven Verão 27
+UID:1b7bb470-b6a0-483f-8abf-fde0765b4d47@1b7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 05 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20270402T025959Z
+DTSTART:20270301T030000Z
+SUMMARY:Acabamento Grupo 05 Noven Inverno 27
+UID:ed2e5901-3492-4ae5-9d76-9c8426ef4856@ed2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 09 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260822T025959Z
+DTSTART:20260722T030000Z
+SUMMARY:Acabamento Grupo 09 Noven Verão 27
+UID:8434d490-d9a1-4f5d-930c-f30ef8c99a5e@8434.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261015T025959Z
+DTSTART:20260918T030000Z
+SUMMARY:Lavanderia Grupo 01 Noven Inverno 27
+UID:edd267b9-a79b-433e-bf18-d428385d4c67@edd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 07 Noven Verão 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20260312T025959Z
+DTSTART:20260220T030000Z
+SUMMARY:Corte Grupo 07 Noven Verão 27
+UID:aa56a62b-02de-4348-ad6f-c428fb0db0c4@aa56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261106T025959Z
+DTSTART:20261014T030000Z
+SUMMARY:Acabamento Grupo 01 Noven Inverno 27
+UID:06e7ef0c-aab5-4f9b-90f9-9d0c7bc57c66@06e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 01 Noven Inverno 27\; A data inicial é uma previsão\, e a data final é um limite.
+DTEND:20261015T025959Z
+DTSTART:20260826T030000Z
+SUMMARY:Costura Moda Grupo 01 Noven Inverno 27
+UID:d453c4e1-1a3e-43cd-9dc1-eac104b4c001@d453.org
 END:VEVENT
 END:VCALENDAR
