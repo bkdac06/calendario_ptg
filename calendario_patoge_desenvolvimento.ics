@@ -2,1704 +2,1704 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de mostruário da Patogê Verão 28 grupo 07\, 08 e 09\; Patogê\; Verão 28 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20270212T025959Z
-DTSTART:20270211T030000Z
-SUMMARY:Liberação Mostruário Patogê Verão 28 (Grupo 7\, 8 e 9)
-UID:653d1c27-9263-4fb4-8160-b496af1185d1@653d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Mostruário 2ª entrega Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Expedição\; Mostruário
-DTEND:20251213T025959Z
-DTSTART:20251212T030000Z
-SUMMARY:Expedição Mostruário 2ª entrega Patoge Inverno 26
-UID:477d1ad2-e04c-452b-9400-58a973dfc644@477d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Lavanderia\; Produção
-DTEND:20260526T025959Z
-DTSTART:20260525T030000Z
-SUMMARY:Lavanderia Grupo 07 Patogê Verão 27
-UID:74d79ce1-3c3d-4647-aaa8-6f712f6ce4b3@74d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Patogê Verão 28\; Patogê\; Verão 28 - 1ª entrega\; Modelagem\; Desenvolvimento
-DTEND:20261113T025959Z
-DTSTART:20261112T030000Z
-SUMMARY:Modelagem Patogê Verão 28 (Grupo 7\, 8 e 9)
-UID:f216a591-c9cc-4676-9550-cccd45a665b4@f216.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Verão 28 1ª entrega\, preferencialmente todas as peças do grupo 9\; Patogê\; Verão 28 - 1ª entrega\; Banca\; Desenvolvimento
-DTEND:20270112T025959Z
-DTSTART:20270111T030000Z
-SUMMARY:Última Banca Patogê Verão 28 1ª entrega (Grupo 9)
-UID:6aecdcf3-b11d-48a4-b7db-ddb2d8bb64bc@6aec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 2ª entrega que foram na primeira banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20260807T025959Z
-DTSTART:20260806T030000Z
-SUMMARY:Prova Patogê Inverno 27 2ª entrega (Grupo 4)
-UID:28a83282-20b8-469a-b81b-5aef98750eb6@28a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fotos do Mostruário 1ª entrega Patogê Verão 28\; Patogê\; Verão 28 - 1ª entrega\; Marketing\; Mostruário
-DTEND:20270325T025959Z
-DTSTART:20270324T030000Z
-SUMMARY:Fotografia Mostruário 1ª entrega Patogê Verão 28
-UID:18bb907b-4e0c-4b91-9c5e-03c1c8ffd62c@18bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patogê Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 27 - 1ª entrega\; Estilo\; Desenvolvimento
-DTEND:20251104T025959Z
-DTSTART:20251103T030000Z
-SUMMARY:Limite Entrega Desenhos Patogê Verão 27 (Grupo 7\, 8 e 9)
-UID:70a4e11e-62da-45e0-a8ee-437edd637c08@70a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento da 2ª entrega Patogê Inverno 27 no Showroom\; Patogê\; Inverno 27 - 2ª entrega\; Comercial\; Mostruário
-DTEND:20270216T025959Z
-DTSTART:20270215T030000Z
-SUMMARY:Lançamento Showroom 2ª entrega Patogê Inverno 27
-UID:9bf3d3c8-971a-4c0a-85c5-bc8c06e2fc96@9bf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 1ª entrega que foram na segunda banca\; Patogê\; Verão 28 - 1ª entrega\; Prova\; Desenvolvimento
-DTEND:20261208T025959Z
-DTSTART:20261207T030000Z
-SUMMARY:Prova Patogê Verão 28 1ª entrega (Grupo 8)
-UID:0bfb4b29-2035-4b9c-a24a-61757f97b4b0@0bfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Mostruário 1ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Lavanderia\; Mostruário
-DTEND:20260822T025959Z
-DTSTART:20260821T030000Z
-SUMMARY:Lavanderia Mostruário 1ª entrega Patogê Inverno 27
-UID:12ef81a3-14a5-467d-8734-d90fbf44b796@12ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Envio do Mostruário 2ª entrega Patogê Inverno 27 para os representantes\; Patogê\; Inverno 27 - 2ª entrega\; Expedição\; Mostruário
-DTEND:20270112T025959Z
-DTSTART:20270111T030000Z
-SUMMARY:Envio Mostruário 2ª entrega Patogê Inverno 27
-UID:e1513bcf-b712-4f75-9cfb-d4b2fda2c91d@e151.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Lavanderia\; Produção
-DTEND:20261001T025959Z
-DTSTART:20260930T030000Z
-SUMMARY:Lavanderia Grupo 01 Patogê Inverno 27
-UID:bffcb01e-82d4-4f2a-b9c4-fde14c28659d@bffc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Mostruário 1ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Lavanderia\; Mostruário
-DTEND:20270306T025959Z
-DTSTART:20270305T030000Z
-SUMMARY:Lavanderia Mostruário 1ª entrega Patogê Verão 28
-UID:ccb4af60-a8ac-409b-91a1-d87891bbad87@ccb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 2ª entrega que foram na primeira banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20260812T025959Z
-DTSTART:20260811T030000Z
-SUMMARY:Prova Patogê Inverno 27 2ª entrega (Grupo 4)
-UID:4a015caf-af6d-4dbf-a45d-6ca993e8172c@4a01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
-DTEND:20261204T025959Z
-DTSTART:20261203T030000Z
-SUMMARY:Costura Moda Grupo 03 Patogê Inverno 27
-UID:90449e65-293a-4a58-b94c-9cbd841ec82c@9044.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Mostruário 2ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 2ª entrega\; Corte\; Mostruário
-DTEND:20270522T025959Z
-DTSTART:20270521T030000Z
-SUMMARY:Corte Mostruário 2ª entrega Patogê Verão 28
-UID:6db6f2db-15fd-4e2e-a768-a9a214f4d6c3@6db6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 2ª entrega que foram na ultima banca\; Patogê\; Verão 28 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20270305T025959Z
-DTSTART:20270304T030000Z
-SUMMARY:Prova Patogê Verão 28 2ª entrega (Grupo 11)
-UID:bf926bf5-304c-4bbc-aba7-c9752e828952@bf92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Mostruário 2ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Expedição\; Mostruário
-DTEND:20260620T025959Z
-DTSTART:20260619T030000Z
-SUMMARY:Expedição Mostruário 2ª entrega Patogê Verão 27
-UID:43f0dd99-0dc5-4c41-9018-ffe9cfa924b7@43f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Inverno 27 Grupo 03\; Patogê\; Inverno 27 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20260923T025959Z
-DTSTART:20260922T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Inverno 27 (Grupo 03)
-UID:37d82809-1357-4975-a05b-980a358a6c54@37d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Corte\; Produção
-DTEND:20260516T025959Z
-DTSTART:20260515T030000Z
-SUMMARY:Corte Grupo 09 Patogê Verão 27
-UID:ed8181cb-6cd9-4815-94f2-89cac3ccd456@ed81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Mostruário 2ª entrega Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Corte\; Mostruário
-DTEND:20251111T025959Z
-DTSTART:20251110T030000Z
-SUMMARY:Corte Mostruário 2ª entrega Patoge Inverno 26
-UID:d07eb82b-8497-41c6-a674-ede57c65afe2@d07e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Acabamento\; Produção
-DTEND:20260724T025959Z
-DTSTART:20260723T030000Z
-SUMMARY:Acabamento Grupo 08 Patogê Verão 27
-UID:2e48d695-4492-410f-95e0-d6a9bdc41836@2e48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Corte\; Produção
-DTEND:20261015T025959Z
-DTSTART:20261014T030000Z
-SUMMARY:Corte Grupo 03 Patogê Inverno 27
-UID:9167abf4-95fb-4144-9a7a-a3e59cf78314@9167.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Mostruário 2ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Expedição\; Mostruário
-DTEND:20270109T025959Z
-DTSTART:20270108T030000Z
-SUMMARY:Expedição Mostruário 2ª entrega Patogê Inverno 27
-UID:d1324a28-39cd-4a0d-b9f6-3e349726a834@d132.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 1ª entrega que foram na primeira banca\; Patogê\; Verão 28 - 1ª entrega\; Prova\; Desenvolvimento
-DTEND:20261113T025959Z
-DTSTART:20261112T030000Z
-SUMMARY:Prova Patogê Verão 28 1ª entrega (Grupo 7)
-UID:abb31f6e-5918-4a6d-8e2d-11202d85b3a8@abb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 27 grupo 09\; Patogê\; Verão 27 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20260424T025959Z
-DTSTART:20260423T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Verão 27 (Grupo 09)
-UID:e3a9aeac-37f2-43ec-8e6d-40524ed14488@e3a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Mostruário 1ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Corte\; Mostruário
-DTEND:20260808T025959Z
-DTSTART:20260807T030000Z
-SUMMARY:Corte Mostruário 1ª entrega Patogê Inverno 27
-UID:7ce93656-546f-4944-947c-494abe83fa12@7ce9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Expedição\; Produção
-DTEND:20260703T025959Z
-DTSTART:20260702T030000Z
-SUMMARY:Expedição Grupo 07 Patogê Verão 27
-UID:358ed2d6-0e67-48b7-a8ab-f773f1f505df@358e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Convenção de Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Comercial\; Mostruário
-DTEND:20261006T025959Z
-DTSTART:20261005T030000Z
-SUMMARY:Convenção de Inverno 27
-UID:f10fb62f-ff2e-4362-b782-57ae19ec238c@f10f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
-DTEND:20260626T025959Z
-DTSTART:20260625T030000Z
-SUMMARY:Costura Moda Jeans Grupo 09 Patogê Verão 27
-UID:b07a7627-f429-4ac7-89cb-ca0d466d6291@b07a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Mostruário 2ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 2ª entrega\; Costura\; Mostruário
-DTEND:20270601T025959Z
-DTSTART:20270531T030000Z
-SUMMARY:Costura Mostruário 2ª entrega Patogê Verão 28
-UID:5af3915e-4eca-4f02-a383-874c181f94b3@5af3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 2ª entrega que foram na ultima banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20260828T025959Z
-DTSTART:20260827T030000Z
-SUMMARY:Prova Patogê Inverno 27 2ª entrega (Grupo 5)
-UID:e9d20eec-5038-4280-8bf8-cb61a4e7cd9e@e9d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Produção
-DTEND:20261203T025959Z
-DTSTART:20261202T030000Z
-SUMMARY:Costura Jeans Grupo 04 Patogê Inverno 27
-UID:019f3f7a-c6af-445d-a69f-1a8abdbbcd48@019f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Lavanderia\; Produção
-DTEND:20270224T025959Z
-DTSTART:20270223T030000Z
-SUMMARY:Lavanderia Grupo 05 Patogê Inverno 27
-UID:ae3959ab-d5bf-4379-8fca-197e4edbd8f6@ae39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Patoge Inverno 26\; Patogê\; Inverno 26 - 2ª entrega\; Acabamento Dsv.\; Desenvolvimento
-DTEND:20250730T025959Z
-DTSTART:20250729T030000Z
-SUMMARY:Acabamento Pilotos Patoge Inverno 26 (Grupo 04 e 05)
-UID:6043c4e0-07ab-434c-9533-a85848e6b0dc@6043.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Patoge Inverno 26\; Patogê\; Inverno 26 - 2ª entrega\; Lavanderia Dsv.\; Desenvolvimento
-DTEND:20250723T025959Z
-DTSTART:20250722T030000Z
-SUMMARY:Lavanderia Pilotos Patoge Inverno 26 (Grupo 04 e 05)
-UID:9ac43eb5-9d0a-4ed7-a8d4-966360246b67@9ac4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Expedição\; Produção
-DTEND:20270505T025959Z
-DTSTART:20270504T030000Z
-SUMMARY:Expedição Grupo 05 Patogê Inverno 27
-UID:ddc30fdf-414a-413e-9a1e-ad17522567a3@ddc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 1ª entrega que foram na ultima banca\; Patogê\; Verão 28 - 1ª entrega\; Prova\; Desenvolvimento
-DTEND:20270114T025959Z
-DTSTART:20270113T030000Z
-SUMMARY:Prova Patogê Verão 28 1ª entrega (Grupo 9)
-UID:59f7efba-3403-4fd6-9b9c-8705ba35bf18@59f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Produção
-DTEND:20260815T025959Z
-DTSTART:20260814T030000Z
-SUMMARY:Costura Moda Grupo 10 Patogê Verão 27
-UID:7903edde-6aad-4e61-afb4-8c9184373ca6@7903.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 04 Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Expedição\; Produção
-DTEND:20260402T025959Z
-DTSTART:20260401T030000Z
-SUMMARY:Expedição Grupo 04 Patoge Inverno 26
-UID:f50f6c4e-ec79-4da3-a071-410b5611be40@f50f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Corte\; Produção
-DTEND:20261119T025959Z
-DTSTART:20261118T030000Z
-SUMMARY:Corte Grupo 04 Patogê Inverno 27
-UID:a7b9a312-f67b-4356-ae78-b501915232d4@a7b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Mostruário 2ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Lavanderia\; Mostruário
-DTEND:20261205T025959Z
-DTSTART:20261204T030000Z
-SUMMARY:Lavanderia Mostruário 2ª entrega Patogê Inverno 27
-UID:7c9da2ca-3f71-477b-abd3-2d7962dc3b95@7c9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Patoge Inverno 26\; Patogê\; Inverno 26 - 2ª entrega\; Pilotagem\; Desenvolvimento
-DTEND:20250716T025959Z
-DTSTART:20250715T030000Z
-SUMMARY:Pilotagem Patoge Inverno 26 (Grupo 04 e 05)
-UID:bfb98c3f-1299-4ca0-a50a-3287c0c7a3d7@bfb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Inverno 27 2ª entrega\, preferencialmente todas as peças do Grupo 04\; Patogê\; Inverno 27 - 2ª entrega\; Banca\; Desenvolvimento
-DTEND:20260805T025959Z
-DTSTART:20260804T030000Z
-SUMMARY:Primeira Banca Patogê Inverno 27 2ª entrega (Grupo 04)
-UID:b0853d6b-eb23-4414-9b75-352ea5dba02f@b085.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Expedição\; Produção
-DTEND:20270304T025959Z
-DTSTART:20270303T030000Z
-SUMMARY:Expedição Grupo 03 Patogê Inverno 27
-UID:2ba85768-2749-4207-8d03-1918e8adaebe@2ba8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Corte\; Produção
-DTEND:20270112T025959Z
-DTSTART:20270111T030000Z
-SUMMARY:Corte Grupo 05 Patogê Inverno 27
-UID:8fe17869-f77d-443a-9007-2f9ed37306c0@8fe1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
-DTEND:20260625T025959Z
-DTSTART:20260624T030000Z
-SUMMARY:Costura Moda Grupo 08 Patogê Verão 27
-UID:7f6eb4d1-e48f-48cc-998d-6389a36b427b@7f6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
-DTEND:20261104T025959Z
-DTSTART:20261103T030000Z
-SUMMARY:Costura Moda Grupo 02 Patogê Inverno 27
-UID:48001282-6cf8-4785-854b-07bea4ee294d@4800.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Patogê Verão 28\; Patogê\; Verão 28 - 2ª entrega\; Lavanderia Dsv. \; Desenvolvimento
-DTEND:20270216T025959Z
-DTSTART:20270215T030000Z
-SUMMARY:Lavanderia Pilotos Patogê Verão 28 (Grupo 10 e 11)
-UID:9e7ece95-e374-45b6-b888-69a3a5a58448@9e7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Envio do Mostruário 2ª entrega Patogê Verão 28 para os representantes\; Patogê\; Verão 28 - 2ª entrega\; Expedição\; Mostruário
-DTEND:20270622T025959Z
-DTSTART:20270621T030000Z
-SUMMARY:Envio Mostruário 2ª entrega Patogê Verão 28
-UID:dc221ca0-b1a6-45d0-89e2-c9f4c0377ec5@dc22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patogê Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 27 - 2ª entrega\; Estilo\; Desenvolvimento
-DTEND:20251118T025959Z
-DTSTART:20251117T030000Z
-SUMMARY:Entrega Desenhos Patogê Verão 27 (Grupo 10 e 11)
-UID:c53d919c-9585-4541-90ac-ba994c3a244a@c53d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
-DTEND:20260526T025959Z
-DTSTART:20260525T030000Z
-SUMMARY:Costura Moda Grupo 07 Patogê Verão 27
-UID:93ccb67d-61d2-4160-95e9-d3804ba382fd@93cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Produção
-DTEND:20260806T025959Z
-DTSTART:20260805T030000Z
-SUMMARY:Costura Jeans Grupo 11 Patogê Verão 27
-UID:e8c7346e-ca98-44b1-aa71-d0a438164694@e8c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Produção
-DTEND:20261203T025959Z
-DTSTART:20261202T030000Z
-SUMMARY:Costura Moda Jeans Grupo 04 Patogê Inverno 27
-UID:455a6bea-b885-4f89-8ab8-cbc218ce7c04@455a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 08 Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Expedição\; Produção
-DTEND:20270803T025959Z
-DTSTART:20270802T030000Z
-SUMMARY:Expedição Grupo 08 Patogê Verão 28
-UID:3c85c61f-a687-4165-85b8-70acf8ec5c36@3c85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Envio do Mostruário 1ª entrega Patogê Verão 27 para os representantes\; Patogê\; Verão 27 - 1ª entrega\; Expedição\; Mostruário
-DTEND:20260408T025959Z
-DTSTART:20260407T030000Z
-SUMMARY:Envio Mostruário 1ª entrega Patogê Verão 27
-UID:36a41345-247b-4c0d-a429-d4b6ef90cfd9@36a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Acabamento\; Produção
-DTEND:20270112T025959Z
-DTSTART:20270111T030000Z
-SUMMARY:Acabamento Grupo 02 Patogê Inverno 27
-UID:4b8ae026-4b0b-4f07-beb7-e4956a31c2c8@4b8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento da 2ª entrega Patogê Verão 27 no Showroom\; Patogê\; Verão 27 - 2ª entrega\; Comercial\; Mostruário
-DTEND:20260714T025959Z
-DTSTART:20260713T030000Z
-SUMMARY:Lançamento Showroom 2ª entrega Patogê Verão 27
-UID:9c752a8c-3fc2-4372-86da-770886e37a7d@9c75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Patogê Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Pilotagem\; Desenvolvimento
-DTEND:20260520T025959Z
-DTSTART:20260519T030000Z
-SUMMARY:Pilotagem Patogê Inverno 27 (Grupo 1\, 2 e 3)
-UID:88bd6a0b-412a-40e5-b8b4-1fd8c4797b9b@88bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patogê Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Inverno 27 - 1ª entrega\; Estilo\; Desenvolvimento
-DTEND:20260506T025959Z
-DTSTART:20260505T030000Z
-SUMMARY:Limite Entrega Desenhos Patogê Inverno 27 (Grupo 1\, 2 e 3)
-UID:090fd935-d601-4759-a469-54a523026a7d@090f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Inverno 27 1ª entrega\, preferencialmente todas as peças do grupo 1\; Patogê\; Inverno 27 - 1ª entrega\; Banca\; Desenvolvimento
-DTEND:20260508T025959Z
-DTSTART:20260507T030000Z
-SUMMARY:Primeira Banca Patogê Inverno 27 1ª entrega (Grupo 1)
-UID:ef8e63fb-e03a-46fd-922e-0439fc193ad0@ef8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patogê Verão 28. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 28 - 2ª entrega\; Estilo\; Desenvolvimento
-DTEND:20261117T025959Z
-DTSTART:20261116T030000Z
-SUMMARY:Entrega Desenhos Patogê Verão 28 (Grupo 10 e 11)
-UID:ffd78edb-f486-4d70-bf82-05d75e8410a9@ffd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Inverno 26 Grupo 05\; Patogê\; Inverno 26 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20251122T025959Z
-DTSTART:20251121T030000Z
-SUMMARY:Liberação Lacre Vermelho Patoge Inverno 26 (Grupo 05)
-UID:f622ebfd-7966-4ff7-9a89-97bc98094a5e@f622.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Mostruário 2ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 2ª entrega\; Acabamento\; Mostruário
-DTEND:20270615T025959Z
-DTSTART:20270614T030000Z
-SUMMARY:Acabamento Mostruário 2ª entrega Patogê Verão 28
-UID:201d1dec-1e4e-40f9-a869-9fa2c158bb04@201d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Inverno 27 Grupo 05\; Patogê\; Inverno 27 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20261201T025959Z
-DTSTART:20261130T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Inverno 27 (Grupo 05)
-UID:fc3c5d75-18f4-4285-8c03-6a0513d0f1d9@fc3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 1ª entrega que foram na segunda banca\; Patogê\; Verão 28 - 1ª entrega\; Prova\; Desenvolvimento
-DTEND:20261203T025959Z
-DTSTART:20261202T030000Z
-SUMMARY:Prova Patogê Verão 28 1ª entrega (Grupo 8)
-UID:3508a653-a4a4-46a9-a228-01367676d122@3508.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Envio do Mostruário 1ª entrega Patogê Inverno 27 para os representantes\; Patogê\; Inverno 27 - 1ª entrega\; Expedição\; Mostruário
-DTEND:20260916T025959Z
-DTSTART:20260915T030000Z
-SUMMARY:Envio Mostruário 1ª entrega Patogê Inverno 27
-UID:f0b294da-2bf7-4dc1-a4b6-bec4c5e9cc2a@f0b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de mostruário da Patogê Inverno 27 Grupo 01\, 02 e 03\; Patogê\; Inverno 27 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20260801T025959Z
-DTSTART:20260731T030000Z
-SUMMARY:Liberação Mostruário Patogê Inverno 27 (Grupo 1\, 2 e 3)
-UID:32857e6f-e00c-4b7f-a841-539012ffec17@3285.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Corte\; Produção
-DTEND:20260414T025959Z
-DTSTART:20260413T030000Z
-SUMMARY:Corte Grupo 08 Patogê Verão 27
-UID:e4985cdb-6505-4643-a998-204749061167@e498.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 11 Patogê Verão 28\; Patogê\; Verão 28 - 2ª entrega\; Expedição\; Produção
-DTEND:20271102T025959Z
-DTSTART:20271101T030000Z
-SUMMARY:Expedição Grupo 11 Patogê Verão 28
-UID:44a34e5c-93d7-4b3c-a965-68704c311f51@44a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 27 grupo 08\; Patogê\; Verão 27 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20260321T025959Z
-DTSTART:20260320T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Verão 27 (Grupo 08)
-UID:31b7e0e3-56c2-4137-b8ed-6d9503a7f24c@31b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patogê Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 27 - 2ª entrega\; Estilo\; Desenvolvimento
-DTEND:20260108T025959Z
-DTSTART:20260107T030000Z
-SUMMARY:Limite Entrega Desenhos Patogê Verão 27 (Grupo 10 e 11)
-UID:e07655a2-144e-4a1b-931f-bb901f28e398@e076.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Corte\; Produção
-DTEND:20260613T025959Z
-DTSTART:20260612T030000Z
-SUMMARY:Corte Grupo 10 Patogê Verão 27
-UID:58fb87cc-e65b-44bf-afef-717972b8dd69@58fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Inverno 27 Grupo 04\; Patogê\; Inverno 27 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20261028T025959Z
-DTSTART:20261027T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Inverno 27 (Grupo 04)
-UID:425e0e12-e606-49e6-ad9b-1e8ee36b04a5@425e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patogê Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Inverno 27 - 2ª entrega\; Estilo\; Desenvolvimento
-DTEND:20260609T025959Z
-DTSTART:20260608T030000Z
-SUMMARY:Entrega Desenhos Patogê Inverno 27 (Grupo 04 e 05)
-UID:c1c66248-6ca5-4976-b1dc-d21374f67fa3@c1c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Produção
-DTEND:20260718T025959Z
-DTSTART:20260717T030000Z
-SUMMARY:Costura Moda Jeans Grupo 10 Patogê Verão 27
-UID:4c3d71bb-cf5e-4e5d-9b3a-3375a4c804a6@4c3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Mostruário 1ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Acabamento\; Mostruário
-DTEND:20260321T025959Z
-DTSTART:20260320T030000Z
-SUMMARY:Acabamento Mostruário 1ª entrega Patogê Verão 27
-UID:bd96859c-2e92-4eb0-b7c4-c25bcbd1c8b6@bd96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Envio do Mostruário 2ª entrega Patogê Verão 27 para os representantes\; Patogê\; Verão 27 - 2ª entrega\; Expedição\; Mostruário
-DTEND:20260623T025959Z
-DTSTART:20260622T030000Z
-SUMMARY:Envio Mostruário 2ª entrega Patogê Verão 27
-UID:93aac575-58ef-4835-bc11-b5518fa34379@93aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fotos do Mostruário 1ª entrega Patogê Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Marketing\; Mostruário
-DTEND:20260909T025959Z
-DTSTART:20260908T030000Z
-SUMMARY:Fotografia Mostruário 1ª entrega Patogê Inverno 27
-UID:e3ec5bc9-f89e-40b6-baae-9bb3faaa107c@e3ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Patogê Inverno 27\; Patogê\; Inverno 27 - 2ª entrega\; Lavanderia Dsv. \; Desenvolvimento
-DTEND:20260812T025959Z
-DTSTART:20260811T030000Z
-SUMMARY:Lavanderia Pilotos Patogê Inverno 27 (Grupo 04 e 05)
-UID:46af6ee3-1256-4d07-8bdf-5ff844453616@46af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patogê Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 27 - 1ª entrega\; Estilo\; Desenvolvimento
-DTEND:20250909T025959Z
-DTSTART:20250908T030000Z
-SUMMARY:Entrega Desenhos Patogê Verão 27 (Grupo 7\, 8 e 9)
-UID:0146a395-08a9-4d06-8c83-f31509b21760@0146.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patogê Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Inverno 27 - 2ª entrega\; Estilo\; Desenvolvimento
-DTEND:20260707T025959Z
-DTSTART:20260706T030000Z
-SUMMARY:Limite Entrega Desenhos Patogê Inverno 27 (Grupo 04 e 05)
-UID:b6b507ff-fa67-4cb9-ba21-17fb21a1ae65@b6b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Patogê Inverno 27\; Patogê\; Inverno 27 - 2ª entrega\; Acabamento Dsv.\; Desenvolvimento
-DTEND:20260819T025959Z
-DTSTART:20260818T030000Z
-SUMMARY:Acabamento Pilotos Patogê Inverno 27 (Grupo 04 e 05)
-UID:b28f5741-8929-401e-a3d6-c716c22fc7ae@b28f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 28 grupo 11\; Patogê\; Verão 28 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20270625T025959Z
-DTSTART:20270624T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Verão 28 (Grupo 11)
-UID:f32fdbd4-758a-4114-9bd7-490fa5e9bacf@f32f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Patogê Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Modelagem\; Desenvolvimento
-DTEND:20251111T025959Z
-DTSTART:20251110T030000Z
-SUMMARY:Modelagem Patogê Verão 27 (Grupo 7\, 8 e 9)
-UID:7c42c256-235a-47d5-90e3-904e92502ab0@7c42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Mostruário 2ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 2ª entrega\; Lavanderia\; Mostruário
-DTEND:20270608T025959Z
-DTSTART:20270607T030000Z
-SUMMARY:Lavanderia Mostruário 2ª entrega Patogê Verão 28
-UID:fe841811-cef1-48e4-bc58-afb54ce05746@fe84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patoge Inverno 26 1ª entrega\, preferencialmente todas as peças do Grupo 05\; Patogê\; Inverno 26 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20250827T025959Z
-DTSTART:20250826T030000Z
-SUMMARY:Última Banca Patoge Inverno 26 1ª entrega (Grupo 05)
-UID:4788c5a3-7fb5-43ad-9d9b-b5d29fc1d06e@4788.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Produção
-DTEND:20270224T025959Z
-DTSTART:20270223T030000Z
-SUMMARY:Costura Moda Grupo 05 Patogê Inverno 27
-UID:3dc0fbf0-eb42-4bb3-bf2d-93b595ca93f1@3dc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Acabamento\; Produção
-DTEND:20261113T025959Z
-DTSTART:20261112T030000Z
-SUMMARY:Acabamento Grupo 01 Patogê Inverno 27
-UID:e68493d2-66ea-4391-a622-43fa70a59422@e684.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 27 grupo 07\; Patogê\; Verão 27 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20260213T025959Z
-DTSTART:20260212T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Verão 27 (Grupo 07)
-UID:1fedce0a-d876-42f5-a3c5-74d772f91a94@1fed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Corte\; Produção
-DTEND:20260312T025959Z
-DTSTART:20260311T030000Z
-SUMMARY:Corte Grupo 07 Patogê Verão 27
-UID:351b1781-90c7-4253-94ad-9e8eff30dcaa@351b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Corte\; Produção
-DTEND:20260909T025959Z
-DTSTART:20260908T030000Z
-SUMMARY:Corte Grupo 02 Patogê Inverno 27
-UID:839f3d43-0fe6-45be-bbe8-7ed8f246a17d@839f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Patogê Verão 28\; Patogê\; Verão 28 - 1ª entrega\; Acabamento Dsv.\; Desenvolvimento
-DTEND:20261208T025959Z
-DTSTART:20261207T030000Z
-SUMMARY:Acabamento Pilotos Patogê Verão 28 (Grupo 7\, 8 e 9)
-UID:7d93ce5f-1819-47bf-b4d7-998411a4ebcc@7d93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Mostruário 2ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Corte\; Mostruário
-DTEND:20260522T025959Z
-DTSTART:20260521T030000Z
-SUMMARY:Corte Mostruário 2ª entrega Patogê Verão 27
-UID:1087af7e-ff32-49fa-b204-e4906a7ae6f2@1087.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
-DTEND:20260724T025959Z
-DTSTART:20260723T030000Z
-SUMMARY:Costura Moda Grupo 09 Patogê Verão 27
-UID:cb509ffc-0d76-40c5-9353-abf338106a72@cb50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Lavanderia\; Produção
-DTEND:20270126T025959Z
-DTSTART:20270125T030000Z
-SUMMARY:Lavanderia Grupo 04 Patogê Inverno 27
-UID:130e57d7-fe02-444e-8927-475b37876fe7@130e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
-DTEND:20260425T025959Z
-DTSTART:20260424T030000Z
-SUMMARY:Costura Moda Jeans Grupo 07 Patogê Verão 27
-UID:1e373b5e-8997-4dbe-979d-082ee61ee61e@1e37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 2ª entrega que foram na primeira banca\; Patogê\; Verão 28 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20270212T025959Z
-DTSTART:20270211T030000Z
-SUMMARY:Prova Patogê Verão 28 2ª entrega (Grupo 10)
-UID:c4a72b7a-5f2f-4984-9a5b-e59f4ba9d535@c4a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 2ª entrega que foram na ultima banca\; Patogê\; Verão 28 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20270310T025959Z
-DTSTART:20270309T030000Z
-SUMMARY:Prova Patogê Verão 28 2ª entrega (Grupo 11)
-UID:8bfd3ae7-083e-4ba8-98a8-85007b37ae11@8bfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Lavanderia\; Produção
-DTEND:20261104T025959Z
-DTSTART:20261103T030000Z
-SUMMARY:Lavanderia Grupo 02 Patogê Inverno 27
-UID:ea49a3d6-2af3-4b33-95e1-92376e024d8a@ea49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 27 grupo 10\; Patogê\; Verão 27 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20260522T025959Z
-DTSTART:20260521T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Verão 27 (Grupo 10)
-UID:43521db4-a279-4975-86d7-743ee199d235@4352.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patogê Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Inverno 27 - 1ª entrega\; Estilo\; Desenvolvimento
-DTEND:20260310T025959Z
-DTSTART:20260309T030000Z
-SUMMARY:Entrega Desenhos Patogê Inverno 27 (Grupo 1\, 2 e 3)
-UID:fcfbe757-ea8e-4f25-abb7-289fc8b8fb99@fcfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Verão 28 1ª entrega\, preferencialmente todas as peças do grupo 7\; Patogê\; Verão 28 - 1ª entrega\; Banca\; Desenvolvimento
-DTEND:20261106T025959Z
-DTSTART:20261105T030000Z
-SUMMARY:Primeira Banca Patogê Verão 28 1ª entrega (Grupo 7)
-UID:ad66a9e3-be43-45b4-9170-9a11a256e778@ad66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Mostruário 1ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Lavanderia\; Mostruário
-DTEND:20260314T025959Z
-DTSTART:20260313T030000Z
-SUMMARY:Lavanderia Mostruário 1ª entrega Patogê Verão 27
-UID:b6a73152-b9a9-4a9e-b3b5-cebb36703994@b6a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
-DTEND:20260626T025959Z
-DTSTART:20260625T030000Z
-SUMMARY:Costura Jeans Grupo 09 Patogê Verão 27
-UID:af86c3a2-844a-473b-ab97-84a0904bd6e1@af86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 9\; Patogê\; Verão 27 - 1ª entrega\; Banca\; Desenvolvimento
-DTEND:20260113T025959Z
-DTSTART:20260112T030000Z
-SUMMARY:Última Banca Patogê Verão 27 1ª entrega (Grupo 9)
-UID:4c572578-491e-4292-8cb3-16447d5cc309@4c57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Acabamento\; Produção
-DTEND:20260624T025959Z
-DTSTART:20260623T030000Z
-SUMMARY:Acabamento Grupo 07 Patogê Verão 27
-UID:82fd17eb-567b-4c8a-8c14-27fca60182e5@82fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 10\; Patogê\; Verão 27 - 2ª entrega\; Banca\; Desenvolvimento
-DTEND:20260210T025959Z
-DTSTART:20260209T030000Z
-SUMMARY:Primeira Banca Patogê Verão 27 1ª entrega (Grupo 10)
-UID:0508426c-4408-4d27-b460-19f8aba0b0cd@0508.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Produção
-DTEND:20260806T025959Z
-DTSTART:20260805T030000Z
-SUMMARY:Costura Moda Jeans Grupo 11 Patogê Verão 27
-UID:c6286d7a-77dc-4193-b145-032b2de11ee2@c628.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Acabamento\; Produção
-DTEND:20260922T025959Z
-DTSTART:20260921T030000Z
-SUMMARY:Acabamento Grupo 10 Patogê Verão 27
-UID:a5d10d4a-161e-44eb-9e2d-4d2ed8bae3e5@a5d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Lavanderia\; Produção
-DTEND:20260625T025959Z
-DTSTART:20260624T030000Z
-SUMMARY:Lavanderia Grupo 08 Patogê Verão 27
-UID:93ca485c-120f-4c32-8eb9-64cd2450eb86@93ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 28 grupo 08\; Patogê\; Verão 28 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20270325T025959Z
-DTSTART:20270324T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Verão 28 (Grupo 08)
-UID:ed1dfcaa-93aa-4444-b8d4-be33819dcddb@ed1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Inverno 27 Grupo 01\; Patogê\; Inverno 27 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20260714T025959Z
-DTSTART:20260713T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Inverno 27 (Grupo 01)
-UID:21baec02-51d3-44e8-92f1-59d5509cc24f@21ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 02 Patoge Inverno 26\;\; Patogê\; Inverno 26 - 1ª entrega\; Expedição\; Produção
-DTEND:20260203T025959Z
-DTSTART:20260202T030000Z
-SUMMARY:Expedição Grupo 02 Patoge Inverno 26
-UID:63a9adc3-48de-4a51-9740-17498b794f6c@63a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fotos do Mostruário 2ª entrega Patoge Inverno 26\; Patogê\; Inverno 26 - 2ª entrega\; Expedição\; Mostruário
-DTEND:20251218T025959Z
-DTSTART:20251217T030000Z
-SUMMARY:Fotografia Mostruário 2ª entrega Patoge Inverno 26
-UID:fdd22d99-a56c-48f4-9828-8b178621b0cd@fdd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 2ª entrega que foram na primeira banca\; Patogê\; Verão 28 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20270205T025959Z
-DTSTART:20270204T030000Z
-SUMMARY:Prova Patogê Verão 28 2ª entrega (Grupo 10)
-UID:4196595d-b62f-4e57-a568-f94ec67ec6bf@4196.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Patoge Inverno 26\; Patogê\; Inverno 26 - 2ª entrega\; Modelagem\; Desenvolvimento
-DTEND:20250709T025959Z
-DTSTART:20250708T030000Z
-SUMMARY:Modelagem Patoge Inverno 26 (Grupo 04 e 05)
-UID:5ae77e32-8dae-4449-892c-75f29ae99e45@5ae7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Acabamento\; Produção
-DTEND:20270325T025959Z
-DTSTART:20270324T030000Z
-SUMMARY:Acabamento Grupo 04 Patogê Inverno 27
-UID:f3610ff6-e369-4e9d-b71a-bc8670b84e22@f361.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 1ª entrega que foram na ultima banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20260624T025959Z
-DTSTART:20260623T030000Z
-SUMMARY:Prova Patogê Inverno 27 1ª entrega (Grupo 3)
-UID:2a7478bf-1def-46fc-ba1b-e8d4e9c5ae0f@2a74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Expedição\; Produção
-DTEND:20270403T025959Z
-DTSTART:20270402T030000Z
-SUMMARY:Expedição Grupo 04 Patogê Inverno 27
-UID:600937e4-d3e0-4009-9ee9-a3e2f475dde1@6009.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Corte\; Produção
-DTEND:20260708T025959Z
-DTSTART:20260707T030000Z
-SUMMARY:Corte Grupo 11 Patogê Verão 27
-UID:affe485e-1ada-4875-9682-539dfd2add6d@affe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patoge Inverno 26. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Inverno 26 - 2ª entrega\; Estilo\; Desenvolvimento
-DTEND:20250702T025959Z
-DTSTART:20250701T030000Z
-SUMMARY:Entrega Desenhos Patoge Inverno 26 (Grupo 04 e 05)
-UID:5bda2f94-e98d-4a00-8dca-934dcb7d6399@5bda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Patogê Verão 27\; Patogê\; Verão 27 - 2ª entrega\; Lavanderia Dsv. \; Desenvolvimento
-DTEND:20260221T025959Z
-DTSTART:20260220T030000Z
-SUMMARY:Lavanderia Pilotos Patogê Verão 27 (Grupo 10 e 11)
-UID:9d436eba-d724-4ab7-a197-20156c0afd19@9d43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
-DTEND:20261002T025959Z
-DTSTART:20261001T030000Z
-SUMMARY:Costura Jeans Grupo 02 Patogê Inverno 27
-UID:1ac11829-87f8-485f-8a94-59f08d3609bb@1ac1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Corte\; Produção
-DTEND:20260804T025959Z
-DTSTART:20260803T030000Z
-SUMMARY:Corte Grupo 01 Patogê Inverno 27
-UID:53dfae44-b1c7-4133-95bb-cfb7c489822a@53df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 09 Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Expedição\; Produção
-DTEND:20270902T025959Z
-DTSTART:20270901T030000Z
-SUMMARY:Expedição Grupo 09 Patogê Verão 28
-UID:168ee808-1736-46aa-851f-dbc2586d4a51@168e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Mostruário 1ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Mostruário
-DTEND:20260307T025959Z
-DTSTART:20260306T030000Z
-SUMMARY:Costura Jeans Mostruário 1ª entrega Patogê Verão 27
-UID:aeaf485f-f473-466b-a030-8b478cf6d932@aeaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 01 Patoge Inverno 26\;\; Patogê\; Inverno 26 - 1ª entrega\; Expedição\; Produção
-DTEND:20260106T025959Z
-DTSTART:20260105T030000Z
-SUMMARY:Expedição Grupo 01 Patoge Inverno 26
-UID:6c8643e5-8de0-49b3-ad20-c621ab9728a5@6c86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Inverno 26 Grupo 02\; Patogê\; Inverno 26 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20250902T025959Z
-DTSTART:20250901T030000Z
-SUMMARY:Liberação Lacre Vermelho Patoge Inverno 26 (Grupo 02)
-UID:837890f7-7746-4713-b20b-51adae7a8149@8378.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Patogê Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Lavanderia Dsv. \; Desenvolvimento
-DTEND:20260527T025959Z
-DTSTART:20260526T030000Z
-SUMMARY:Lavanderia Pilotos Patogê Inverno 27 (Grupo 1\, 2 e 3)
-UID:bcebd2d0-a0e9-414e-9e52-859591fc0d62@bceb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Lavanderia\; Produção
-DTEND:20261204T025959Z
-DTSTART:20261203T030000Z
-SUMMARY:Lavanderia Grupo 03 Patogê Inverno 27
-UID:f64a4d05-6698-4ee0-9595-5f4c84b91468@f64a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Patogê Verão 28\; Patogê\; Verão 28 - 2ª entrega\; Pilotagem\; Desenvolvimento
-DTEND:20270205T025959Z
-DTSTART:20270204T030000Z
-SUMMARY:Pilotagem Patogê Verão 28 (Grupo 10 e 11)
-UID:e75f2511-edcf-45b0-9622-81e03ebddf11@e75f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Mostruário 1ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Acabamento\; Mostruário
-DTEND:20260829T025959Z
-DTSTART:20260828T030000Z
-SUMMARY:Acabamento Mostruário 1ª entrega Patogê Inverno 27
-UID:d2f55c42-4860-4b73-a6ca-c3e3c4204e32@d2f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 05 Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Expedição\; Produção
-DTEND:20260505T025959Z
-DTSTART:20260504T030000Z
-SUMMARY:Expedição Grupo 05 Patoge Inverno 26
-UID:ec71e30d-2929-446d-bf7d-1097e5dd9035@ec71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Patogê Verão 28\; Patogê\; Verão 28 - 1ª entrega\; Pilotagem\; Desenvolvimento
-DTEND:20261120T025959Z
-DTSTART:20261119T030000Z
-SUMMARY:Pilotagem Patogê Verão 28 (Grupo 7\, 8 e 9)
-UID:b8ce98eb-e6b5-4160-9587-73be9448a10c@b8ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
-DTEND:20260901T025959Z
-DTSTART:20260831T030000Z
-SUMMARY:Costura Jeans Grupo 01 Patogê Inverno 27
-UID:f36f0cc2-fb3e-4212-be98-16dc840c76ba@f36f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patoge Inverno 26 1ª entrega\, preferencialmente todas as peças do Grupo 04\; Patogê\; Inverno 26 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20250806T025959Z
-DTSTART:20250805T030000Z
-SUMMARY:Primeira Banca Patoge Inverno 26 1ª entrega (Grupo 04)
-UID:94a1983f-a089-4ba9-bd71-65463ed041c7@94a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Expedição\; Produção
-DTEND:20270106T025959Z
-DTSTART:20270105T030000Z
-SUMMARY:Expedição Grupo 01 Patogê Inverno 27
-UID:63d59f91-938f-48e6-a0eb-54797a265f63@63d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Mostruário 2ª entrega Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Acabamento\; Mostruário
-DTEND:20251204T025959Z
-DTSTART:20251203T030000Z
-SUMMARY:Acabamento Mostruário 2ª entrega Patoge Inverno 26
-UID:a4d4dae5-33ac-49cf-8884-210b3e92cc0a@a4d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Lavanderia\; Produção
-DTEND:20260815T025959Z
-DTSTART:20260814T030000Z
-SUMMARY:Lavanderia Grupo 10 Patogê Verão 27
-UID:d10fc78f-59e4-4fd7-86ca-e5e20a48e86a@d10f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Envio do Mostruário 1ª entrega Patogê Verão 28 para os representantes\; Patogê\; Verão 28 - 1ª entrega\; Expedição\; Mostruário
-DTEND:20270323T025959Z
-DTSTART:20270322T030000Z
-SUMMARY:Envio Mostruário 1ª entrega Patogê Verão 28
-UID:88d3c01d-dbc1-4611-8e85-cecdc1656bc2@88d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento da 1ª entrega Patogê Inverno 27 no Showroom\; Patogê\; Inverno 27 - 1ª entrega\; Comercial\; Mostruário
-DTEND:20261007T025959Z
-DTSTART:20261006T030000Z
-SUMMARY:Lançamento Showroom 1ª entrega Patogê Inverno 27
-UID:b8188b73-a131-4e5e-ac48-10fbdc8bddad@b818.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de mostruário da Patogê Verão 28 grupo 10 e 11\; Patogê\; Verão 28 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20270515T025959Z
-DTSTART:20270514T030000Z
-SUMMARY:Liberação Mostruário Patogê Verão 28 (Grupo 10 e 11)
-UID:3b1e445e-873f-466b-876e-9e38d443d014@3b1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Inverno 27 Grupo 02\; Patogê\; Inverno 27 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20260818T025959Z
-DTSTART:20260817T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Inverno 27 (Grupo 02)
-UID:c04f9c23-13fb-48c9-a019-fedf97020118@c04f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 1ª entrega que foram na primeira banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20260513T025959Z
-DTSTART:20260512T030000Z
-SUMMARY:Prova Patogê Inverno 27 1ª entrega (Grupo 1)
-UID:748d431e-079e-44c6-845d-0554bca680e9@748d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Produção
-DTEND:20270126T025959Z
-DTSTART:20270125T030000Z
-SUMMARY:Costura Moda Grupo 04 Patogê Inverno 27
-UID:f4602115-2d08-4d10-a762-4ab1ef68ca72@f460.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
-DTEND:20261030T025959Z
-DTSTART:20261029T030000Z
-SUMMARY:Costura Jeans Grupo 03 Patogê Inverno 27
-UID:e1a552d0-cc7b-417d-a9ca-cdc971a362ab@e1a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Inverno 26 Grupo 04\; Patogê\; Inverno 26 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20251024T025959Z
-DTSTART:20251023T030000Z
-SUMMARY:Liberação Lacre Vermelho Patoge Inverno 26 (Grupo 04)
-UID:8e1a203a-5c44-4471-aace-ff6104b499dd@8e1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Patogê Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Pilotagem\; Desenvolvimento
-DTEND:20251118T025959Z
-DTSTART:20251117T030000Z
-SUMMARY:Pilotagem Patogê Verão 27 (Grupo 7\, 8 e 9)
-UID:acdd2832-3b82-4bae-83a2-babd206e8fff@acdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Mostruário 2ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Corte\; Mostruário
-DTEND:20261119T025959Z
-DTSTART:20261118T030000Z
-SUMMARY:Corte Mostruário 2ª entrega Patogê Inverno 27
-UID:6c4d28ed-4e48-4b4b-b843-5610572fa2d5@6c4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 07 Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Expedição\; Produção
-DTEND:20270702T025959Z
-DTSTART:20270701T030000Z
-SUMMARY:Expedição Grupo 07 Patogê Verão 28
-UID:ac682571-4da1-4d93-bec6-ea0beaa2fae6@ac68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 1ª entrega que foram na segunda banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20260529T025959Z
-DTSTART:20260528T030000Z
-SUMMARY:Prova Patogê Inverno 27 1ª entrega (Grupo 2)
-UID:ab0de2d9-d8bf-4e36-b8a1-7b3889cfbeb4@ab0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de mostruário da Patogê Verão 27 grupo 10 e 11\; Patogê\; Verão 27 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20260515T025959Z
-DTSTART:20260514T030000Z
-SUMMARY:Liberação Mostruário Patogê Verão 27 (Grupo 10 e 11)
-UID:253f31fb-0265-494c-a3df-6c51fbd04476@253f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
-DTEND:20260901T025959Z
-DTSTART:20260831T030000Z
-SUMMARY:Costura Moda Jeans Grupo 01 Patogê Inverno 27
-UID:67a4c595-7424-4055-8a81-e9163d2d805d@67a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Patogê Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Acabamento Dsv.\; Desenvolvimento
-DTEND:20251204T025959Z
-DTSTART:20251203T030000Z
-SUMMARY:Acabamento Pilotos Patogê Verão 27 (Grupo 7\, 8 e 9)
-UID:8417c077-7620-4f13-8c67-cf9e74b46e09@8417.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Inverno 26 Grupo 03\; Patogê\; Inverno 26 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20250924T025959Z
-DTSTART:20250923T030000Z
-SUMMARY:Liberação Lacre Vermelho Patoge Inverno 26 (Grupo 03)
-UID:7d750d25-1083-40a6-aeb4-8bae7306768a@7d75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Patogê Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Modelagem\; Desenvolvimento
-DTEND:20260513T025959Z
-DTSTART:20260512T030000Z
-SUMMARY:Modelagem Patogê Inverno 27 (Grupo 1\, 2 e 3)
-UID:8f5ae2ef-3359-476b-afcc-9be1b3f3ea6a@8f5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Patogê Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Lavanderia Dsv. \; Desenvolvimento
-DTEND:20251126T025959Z
-DTSTART:20251125T030000Z
-SUMMARY:Lavanderia Pilotos Patogê Verão 27 (Grupo 7\, 8 e 9)
-UID:d62502be-930e-4653-b508-00877e1da7be@d625.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
-DTEND:20260425T025959Z
-DTSTART:20260424T030000Z
-SUMMARY:Costura Jeans Grupo 07 Patogê Verão 27
-UID:dd267993-36d1-42af-9170-de249dfa4c06@dd26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Mostruário 1ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Corte\; Mostruário
-DTEND:20260228T025959Z
-DTSTART:20260227T030000Z
-SUMMARY:Corte Mostruário 1ª entrega Patogê Verão 27
-UID:a03a91ed-f50e-4aa2-9442-d8131e408603@a03a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Mostruário 1ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Mostruário
-DTEND:20260815T025959Z
-DTSTART:20260814T030000Z
-SUMMARY:Costura Jeans Mostruário 1ª entrega Patogê Inverno 27
-UID:a4a43310-ecee-4630-a4f7-6dd1b2acfd7b@a4a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Patogê Verão 28\; Patogê\; Verão 28 - 2ª entrega\; Modelagem\; Desenvolvimento
-DTEND:20270129T025959Z
-DTSTART:20270128T030000Z
-SUMMARY:Modelagem Patogê Verão 28 (Grupo 10 e 11)
-UID:a02c457e-f8d7-4496-9fd7-98c0f963ed40@a02c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Inverno 26 Grupo 01\; Patogê\; Inverno 26 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20250805T025959Z
-DTSTART:20250804T030000Z
-SUMMARY:Liberação Lacre Vermelho Patoge Inverno 26 (Grupo 01)
-UID:9444906e-e5fb-4d73-8bd8-95551e0260da@9444.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Patogê Verão 27\; Patogê\; Verão 27 - 2ª entrega\; Acabamento Dsv.\; Desenvolvimento
-DTEND:20260228T025959Z
-DTSTART:20260227T030000Z
-SUMMARY:Acabamento Pilotos Patogê Verão 27 (Grupo 10 e 11)
-UID:46e05a9e-f850-4ece-bdd0-ef33c4f26f29@46e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
-DTEND:20260527T025959Z
-DTSTART:20260526T030000Z
-SUMMARY:Costura Jeans Grupo 08 Patogê Verão 27
-UID:8cad6333-6f9f-4ebe-9714-41351fa9edad@8cad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Convenção de Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Comercial\; Mostruário
-DTEND:20260415T025959Z
-DTSTART:20260414T030000Z
-SUMMARY:Convenção de Verão 27
-UID:ac018e23-29c1-4bfb-b6bc-2bb40298e380@ac01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Expedição\; Produção
-DTEND:20261003T025959Z
-DTSTART:20261002T030000Z
-SUMMARY:Expedição Grupo 10 Patogê Verão 27
-UID:bf6386c9-0456-4740-ba86-c346438d8307@bf63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Produção
-DTEND:20270120T025959Z
-DTSTART:20270119T030000Z
-SUMMARY:Costura Jeans Grupo 05 Patogê Inverno 27
-UID:659eddc3-bf4f-4534-88a5-916cf3ca76a3@659e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Lavanderia\; Produção
-DTEND:20260724T025959Z
-DTSTART:20260723T030000Z
-SUMMARY:Lavanderia Grupo 09 Patogê Verão 27
-UID:b2b995d1-3e1d-40c1-a646-ec9a0176c9f3@b2b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Patogê Verão 28\; Patogê\; Verão 28 - 1ª entrega\; Lavanderia Dsv. \; Desenvolvimento
-DTEND:20261201T025959Z
-DTSTART:20261130T030000Z
-SUMMARY:Lavanderia Pilotos Patogê Verão 28 (Grupo 7\, 8 e 9)
-UID:4c1349b8-e5b3-486e-b40f-a0ab3266e748@4c13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Mostruário 2ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 2ª entrega\; Expedição\; Mostruário
-DTEND:20270622T025959Z
-DTSTART:20270621T030000Z
-SUMMARY:Expedição Mostruário 2ª entrega Patogê Verão 28
-UID:b8a80524-7f31-4144-873e-65131c475a0d@b8a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 10 Patogê Verão 28\;\; Patogê\; Verão 28 - 2ª entrega\; Expedição\; Produção
-DTEND:20271002T025959Z
-DTSTART:20271001T030000Z
-SUMMARY:Expedição Grupo 10 Patogê Verão 28
-UID:8508ab3f-1b6f-48cd-b418-9bf79e8ba22e@8508.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 03 Patoge Inverno 26\;\; Patogê\; Inverno 26 - 1ª entrega\; Expedição\; Produção
-DTEND:20260303T025959Z
-DTSTART:20260302T030000Z
-SUMMARY:Expedição Grupo 03 Patoge Inverno 26
-UID:a56e7321-2113-4988-ab87-97e4790e3e41@a56e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 7\; Patogê\; Verão 27 - 1ª entrega\; Banca\; Desenvolvimento
-DTEND:20251104T025959Z
-DTSTART:20251103T030000Z
-SUMMARY:Primeira Banca Patogê Verão 27 1ª entrega (Grupo 7)
-UID:59ba5bad-5794-414b-85fd-e1674e69ecc7@59ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 28 grupo 07\; Patogê\; Verão 28 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20270220T025959Z
-DTSTART:20270219T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Verão 28 (Grupo 07)
-UID:9d02affc-a2af-4548-8fd1-28069afe6a00@9d02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Inverno 27 1ª entrega\, preferencialmente todas as peças do grupo 2\; Patogê\; Inverno 27 - 1ª entrega\; Banca\; Desenvolvimento
-DTEND:20260527T025959Z
-DTSTART:20260526T030000Z
-SUMMARY:Segunda Banca Patogê Inverno 27 1ª entrega (Grupo 2)
-UID:a0e7d8b0-96f4-48e8-add4-949dcb6806ea@a0e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 28 grupo 09\; Patogê\; Verão 28 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20270428T025959Z
-DTSTART:20270427T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Verão 28 (Grupo 09)
-UID:5a789dab-fb44-4293-b1fe-276665cec9a7@5a78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Patogê Verão 28\; Patogê\; Verão 28 - 2ª entrega\; Acabamento Dsv.\; Desenvolvimento
-DTEND:20270223T025959Z
-DTSTART:20270222T030000Z
-SUMMARY:Acabamento Pilotos Patogê Verão 28 (Grupo 10 e 11)
-UID:b51a1a26-f2e2-4dfb-ac83-673a8cbe1d1f@b51a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patogê Verão 28. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 28 - 1ª entrega\; Estilo\; Desenvolvimento
-DTEND:20260909T025959Z
-DTSTART:20260908T030000Z
-SUMMARY:Entrega Desenhos Patogê Verão 28 (Grupo 7\, 8 e 9)
-UID:dd58a1e4-5456-419c-bcbe-b007165fce74@dd58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Expedição\; Produção
-DTEND:20260805T025959Z
-DTSTART:20260804T030000Z
-SUMMARY:Expedição Grupo 08 Patogê Verão 27
-UID:5c18696f-8e0a-4aef-8139-1e59e3fd9081@5c18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 2ª entrega que foram na ultima banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20260902T025959Z
-DTSTART:20260901T030000Z
-SUMMARY:Prova Patogê Inverno 27 2ª entrega (Grupo 5)
-UID:22831c8c-ddb8-44b6-bb71-f8b98d669a0e@2283.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento da 1ª entrega Patogê Verão 27 no Showroom\; Patogê\; Verão 27 - 1ª entrega\; Comercial\; Mostruário
-DTEND:20260416T025959Z
-DTSTART:20260415T030000Z
-SUMMARY:Lançamento da 1ª entrega Patogê Verão 27
-UID:91ae8510-cc4c-46db-be67-f0b51d642dc7@91ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patogê Verão 28. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 28 - 1ª entrega\; Estilo\; Desenvolvimento
-DTEND:20261106T025959Z
-DTSTART:20261105T030000Z
-SUMMARY:Limite Entrega Desenhos Patogê Verão 28 (Grupo 7\, 8 e 9)
-UID:1d27a8bf-9db7-4f99-bcb9-b76c0259e5e1@1d27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Inverno 27 1ª entrega\, preferencialmente todas as peças do grupo 1\; Patogê\; Inverno 27 - 1ª entrega\; Banca\; Desenvolvimento
-DTEND:20260506T025959Z
-DTSTART:20260505T030000Z
-SUMMARY:Primeira Banca Patogê Inverno 27 1ª entrega (Grupo 1)
-UID:a940b851-23d1-4d51-8362-a2ec9f722198@a940.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Mostruário 1ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Acabamento\; Mostruário
-DTEND:20270313T025959Z
-DTSTART:20270312T030000Z
-SUMMARY:Acabamento Mostruário 1ª entrega Patogê Verão 28
-UID:a75757dc-f05d-463e-baf6-614c0de2074a@a757.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Lavanderia Mostruário 2ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Lavanderia\; Mostruário
 DTEND:20260606T025959Z
 DTSTART:20260605T030000Z
 SUMMARY:Lavanderia Mostruário 2ª entrega Patogê Verão 27
-UID:35e45b0b-ecae-43d0-876a-30b8c790ab34@35e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
-DTEND:20261030T025959Z
-DTSTART:20261029T030000Z
-SUMMARY:Costura Moda Jeans Grupo 03 Patogê Inverno 27
-UID:d9cfc350-47cc-4b53-9d4a-78a35050e211@d9cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 1ª entrega que foram na primeira banca\; Patogê\; Verão 28 - 1ª entrega\; Prova\; Desenvolvimento
-DTEND:20261110T025959Z
-DTSTART:20261109T030000Z
-SUMMARY:Prova Patogê Verão 28 1ª entrega (Grupo 7)
-UID:a7a8cb36-574e-4a04-b850-1a8d22b2500e@a7a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Expedição\; Produção
-DTEND:20270203T025959Z
-DTSTART:20270202T030000Z
-SUMMARY:Expedição Grupo 02 Patogê Inverno 27
-UID:c3626d36-de85-48ff-add5-968d6d2acc07@c362.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 27 grupo 11\; Patogê\; Verão 27 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20260617T025959Z
-DTSTART:20260616T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Verão 27 (Grupo 11)
-UID:e3888dc7-cc52-4597-9ea3-7e27f168de5b@e388.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Mostruário 1ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Costura\; Mostruário
-DTEND:20270226T025959Z
-DTSTART:20270225T030000Z
-SUMMARY:Costura Jeans Mostruário 1ª entrega Patogê Verão 28
-UID:55a52be3-c3ff-4185-9f91-9bb2e2aff222@55a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Inverno 27 2ª entrega\, preferencialmente todas as peças do Grupo 05\; Patogê\; Inverno 27 - 2ª entrega\; Banca\; Desenvolvimento
-DTEND:20260826T025959Z
-DTSTART:20260825T030000Z
-SUMMARY:Última Banca Patogê Inverno 27 2ª entrega (Grupo 05)
-UID:3afebf45-6aa7-4eb2-8e47-2755519c8053@3afe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Expedição\; Produção
-DTEND:20261105T025959Z
-DTSTART:20261104T030000Z
-SUMMARY:Expedição Grupo 11 Patogê Verão 27
-UID:f355e0e4-df8a-447c-bf5b-5aa8d2da0036@f355.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de mostruário da Patogê Inverno 27 Grupo 04 e 05\; Patogê\; Inverno 27 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20261112T025959Z
-DTSTART:20261111T030000Z
-SUMMARY:Liberação Mostruário Patogê Inverno 27 (Grupo 04 e 05)
-UID:d931e66b-cf25-40b2-a0c8-51ffaab1d429@d931.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Inverno 27 1ª entrega\, preferencialmente todas as peças do grupo 3\; Patogê\; Inverno 27 - 1ª entrega\; Banca\; Desenvolvimento
-DTEND:20260617T025959Z
-DTSTART:20260616T030000Z
-SUMMARY:Última Banca Patogê Inverno 27 1ª entrega (Grupo 3)
-UID:5117136f-b371-479c-85b4-4fbf4d25db17@5117.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Mostruário 1ª entrega Patogê Verão 28\; Patogê\; Verão 28 - 1ª entrega\; Expedição\; Mostruário
-DTEND:20270320T025959Z
-DTSTART:20270319T030000Z
-SUMMARY:Expedição Mostruário 1ª entrega Patogê Verão 28
-UID:d79a52b0-cbe0-45a1-9453-5d6e95d0e3b4@d79a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Acabamento\; Produção
-DTEND:20270427T025959Z
-DTSTART:20270426T030000Z
-SUMMARY:Acabamento Grupo 05 Patogê Inverno 27
-UID:3271007b-5294-4e73-94f0-8bf35a7fccba@3271.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
-DTEND:20261002T025959Z
-DTSTART:20261001T030000Z
-SUMMARY:Costura Moda Jeans Grupo 02 Patogê Inverno 27
-UID:e83b3667-258c-4d75-b7b3-bad57732fc09@e83b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 1ª entrega que foram na ultima banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20260619T025959Z
-DTSTART:20260618T030000Z
-SUMMARY:Prova Patogê Inverno 27 1ª entrega (Grupo 3)
-UID:b0c187c5-13cc-43ae-9cc9-a605c4b54d45@b0c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Verão 28 1ª entrega\, preferencialmente todas as peças do grupo 8\; Patogê\; Verão 28 - 1ª entrega\; Banca\; Desenvolvimento
-DTEND:20261201T025959Z
-DTSTART:20261130T030000Z
-SUMMARY:Segunda Banca Patogê Verão 28 1ª entrega (Grupo 8)
-UID:7dd4174a-6f53-459c-9c84-89f3f50b63d5@7dd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Acabamento\; Produção
-DTEND:20260825T025959Z
-DTSTART:20260824T030000Z
-SUMMARY:Acabamento Grupo 09 Patogê Verão 27
-UID:0ba19e7c-870e-47db-846d-3da4805a08f6@0ba1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Acabamento\; Produção
-DTEND:20261016T025959Z
-DTSTART:20261015T030000Z
-SUMMARY:Acabamento Grupo 11 Patogê Verão 27
-UID:2c3b86fc-1185-449c-8a60-cdc6caeeeafc@2c3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Acabamento\; Produção
-DTEND:20270218T025959Z
-DTSTART:20270217T030000Z
-SUMMARY:Acabamento Grupo 03 Patogê Inverno 27
-UID:56d3b555-ae69-4341-a22a-b24ede89e476@56d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento da 2ª entrega Patogê Verão 28 no Showroom\; Patogê\; Verão 28 - 2ª entrega\; Comercial\; Mostruário
-DTEND:20270720T025959Z
-DTSTART:20270719T030000Z
-SUMMARY:Lançamento Showroom 2ª entrega Patogê Verão 28
-UID:71ea0736-eeb6-47ef-bfc4-ec7b9afc2401@71ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 11\; Patogê\; Verão 27 - 2ª entrega\; Banca\; Desenvolvimento
-DTEND:20260307T025959Z
-DTSTART:20260306T030000Z
-SUMMARY:Última Banca Patogê Verão 27 1ª entrega (Grupo 11)
-UID:08735642-e7aa-4e2c-ac67-f9940828af3a@0873.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento da 2ª entrega Patoge Inverno 26 no Showroom\; Patogê\; Inverno 26 - 2ª entrega\; Expedição\; Mostruário
-DTEND:20260224T025959Z
-DTSTART:20260223T030000Z
-SUMMARY:Lançamento Showroom 2ª entrega Patoge Inverno 26
-UID:a954c161-7f05-4fce-863b-622adf8bf995@a954.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Mostruário 2ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Mostruário
-DTEND:20260529T025959Z
-DTSTART:20260528T030000Z
-SUMMARY:Costura Mostruário 2ª entrega Patogê Verão 27
-UID:0cd8fb6b-5752-4824-b9de-bbb5160f164b@0cd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fotos do Mostruário 1ª entrega Patogê Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Marketing\; Mostruário
-DTEND:20260401T025959Z
-DTSTART:20260331T030000Z
-SUMMARY:Fotografia Mostruário 1ª entrega Patogê Verão 27
-UID:0753ecbb-2ada-4529-9cc0-c03f94c3e9b6@0753.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fotos do Mostruário 2ª entrega Patogê Inverno 27\; Patogê\; Inverno 27 - 2ª entrega\; Marketing\; Mostruário
-DTEND:20270112T025959Z
-DTSTART:20270111T030000Z
-SUMMARY:Fotografia Mostruário 2ª entrega Patogê Inverno 27
-UID:9428b0c8-51f6-4f5a-835b-82f2ae4d5d9a@9428.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Verão 28 2ª entrega\, preferencialmente todas as peças do grupo 10\; Patogê\; Verão 28 - 2ª entrega\; Banca\; Desenvolvimento
-DTEND:20270203T025959Z
-DTSTART:20270202T030000Z
-SUMMARY:Primeira Banca Patogê Verão 28 2ª entrega (Grupo 10)
-UID:51387624-e54e-471b-8bfb-c83b0efffad9@5138.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Mostruário 2ª entrega Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Costura\; Mostruário
-DTEND:20251118T025959Z
-DTSTART:20251117T030000Z
-SUMMARY:Costura Mostruário 2ª entrega Patoge Inverno 26
-UID:ba9890a3-fcf7-4ccd-aa89-dc0ca34e4fc5@ba98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Patogê Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Acabamento Dsv.\; Desenvolvimento
-DTEND:20260603T025959Z
-DTSTART:20260602T030000Z
-SUMMARY:Acabamento Pilotos Patogê Inverno 27 (Grupo 1\, 2 e 3)
-UID:862b28e1-2a60-4d59-9c3b-b8e3935597d6@862b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
-DTEND:20261001T025959Z
-DTSTART:20260930T030000Z
-SUMMARY:Costura Moda Grupo 01 Patogê Inverno 27
-UID:f6a082a6-bf4f-4785-9f06-251a4737c6e8@f6a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Patogê Verão 28. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 28 - 2ª entrega\; Estilo\; Desenvolvimento
-DTEND:20261210T025959Z
-DTSTART:20261209T030000Z
-SUMMARY:Limite Entrega Desenhos Patogê Verão 28 (Grupo 10 e 11)
-UID:581a805a-a3ac-488a-b2e7-f3a6a8fd988a@581a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 28 grupo 10\; Patogê\; Verão 28 - 2ª entrega\; PCP\; Desenvolvimento
-DTEND:20270527T025959Z
-DTSTART:20270526T030000Z
-SUMMARY:Liberação Lacre Vermelho Patogê Verão 28 (Grupo 10)
-UID:0492e158-e687-419e-b1d6-3968865540e3@0492.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Mostruário 1ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Corte\; Mostruário
-DTEND:20270219T025959Z
-DTSTART:20270218T030000Z
-SUMMARY:Corte Mostruário 1ª entrega Patogê Verão 28
-UID:e7d34050-ac6a-4329-8d61-2bfeaaaf0183@e7d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Produção
-DTEND:20260904T025959Z
-DTSTART:20260903T030000Z
-SUMMARY:Costura Moda Grupo 11 Patogê Verão 27
-UID:d4b29c66-3246-4183-b4f6-e22e4d10a661@d4b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fotos do Mostruário 2ª entrega Patogê Verão 27\; Patogê\; Verão 27 - 2ª entrega\; Marketing\; Mostruário
-DTEND:20260624T025959Z
-DTSTART:20260623T030000Z
-SUMMARY:Fotografia Mostruário 2ª entrega Patogê Verão 27
-UID:95239462-42e0-4ecb-9d0b-99e76801a634@9523.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fotos do Mostruário 2ª entrega Patogê Verão 28\; Patogê\; Verão 28 - 2ª entrega\; Marketing\; Mostruário
-DTEND:20270622T025959Z
-DTSTART:20270621T030000Z
-SUMMARY:Fotografia Mostruário 2ª entrega Patogê Verão 28
-UID:b0e59cd9-d3dd-434c-945d-8eae26aa038e@b0e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Patogê Inverno 27\; Patogê\; Inverno 27 - 2ª entrega\; Modelagem\; Desenvolvimento
-DTEND:20260729T025959Z
-DTSTART:20260728T030000Z
-SUMMARY:Modelagem Patogê Inverno 27 (Grupo 04 e 05)
-UID:921ee295-35e2-46d6-8dec-f624096ad932@921e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Expedição\; Produção
-DTEND:20260903T025959Z
-DTSTART:20260902T030000Z
-SUMMARY:Expedição Grupo 09 Patogê Verão 27
-UID:d9828e49-6c7e-46f0-beee-37ad4fb0c25a@d982.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Mostruário 2ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Acabamento\; Mostruário
-DTEND:20261212T025959Z
-DTSTART:20261211T030000Z
-SUMMARY:Acabamento Mostruário 2ª entrega Patogê Inverno 27
-UID:be539634-9a06-48e0-85ca-9f7af35aa61c@be53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Patogê Inverno 27\; Patogê\; Inverno 27 - 2ª entrega\; Pilotagem\; Desenvolvimento
-DTEND:20260805T025959Z
-DTSTART:20260804T030000Z
-SUMMARY:Pilotagem Patogê Inverno 27 (Grupo 04 e 05)
-UID:21202727-2141-42d3-9524-bcb4b0237674@2120.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Envio do Mostruário 2ª entrega Patoge Inverno 26 para os representantes\; Patogê\; Inverno 26 - 2ª entrega\; Expedição\; Mostruário
-DTEND:20260128T025959Z
-DTSTART:20260127T030000Z
-SUMMARY:Envio Mostruário 2ª entrega Patoge Inverno 26
-UID:d3dee2ec-132e-4e66-bfdf-256777dc0682@d3de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
-DTEND:20260527T025959Z
-DTSTART:20260526T030000Z
-SUMMARY:Costura Moda Jeans Grupo 08 Patogê Verão 27
-UID:a7ed813c-6f62-4255-b9f0-cb7c253a26b5@a7ed.org
+UID:aef11e8a-39da-4158-bd1c-d66098c84857@aef1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Acabamento Mostruário 2ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Acabamento\; Mostruário
 DTEND:20260613T025959Z
 DTSTART:20260612T030000Z
 SUMMARY:Acabamento Mostruário 2ª entrega Patogê Verão 27
-UID:b53bfbbe-e827-43a4-ae7e-effc357ce314@b53b.org
+UID:4fe19554-2bbe-4d28-a1dd-1f7dadfbf8e4@4fe1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Lavanderia\; Produção
-DTEND:20260904T025959Z
-DTSTART:20260903T030000Z
-SUMMARY:Lavanderia Grupo 11 Patogê Verão 27
-UID:e114d3a1-b0ec-4aed-a91b-9ed84ad9e2df@e114.org
+DESCRIPTION:Fotos do Mostruário 1ª entrega Patogê Verão 28\; Patogê\; Verão 28 - 1ª entrega\; Marketing\; Mostruário
+DTEND:20270320T025959Z
+DTSTART:20270319T030000Z
+SUMMARY:Fotografia Mostruário 1ª entrega Patogê Verão 28
+UID:02c38949-444f-4470-9788-8c22741f0034@02c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fotos do Mostruário 1ª entrega Patogê Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Marketing\; Mostruário
+DTEND:20260401T025959Z
+DTSTART:20260331T030000Z
+SUMMARY:Fotografia Mostruário 1ª entrega Patogê Verão 27
+UID:8633b52e-cc82-4124-81bc-d095d40b15bc@8633.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Mostruário 2ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 2ª entrega\; Acabamento\; Mostruário
+DTEND:20270615T025959Z
+DTSTART:20270614T030000Z
+SUMMARY:Acabamento Mostruário 2ª entrega Patogê Verão 28
+UID:af59be0e-43d2-4faf-8b18-8afec467a8a5@af59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Mostruário 2ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Lavanderia\; Mostruário
+DTEND:20261120T025959Z
+DTSTART:20261119T030000Z
+SUMMARY:Lavanderia Mostruário 2ª entrega Patogê Inverno 27
+UID:36e19b05-f7fe-4160-92d3-70181548d288@36e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Corte\; Produção
+DTEND:20260613T025959Z
+DTSTART:20260612T030000Z
+SUMMARY:Corte Grupo 10 Patogê Verão 27
+UID:fb587741-19fb-4e06-9ffa-927093f7c5d2@fb58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Verão 28 1ª entrega\, preferencialmente todas as peças do grupo 8\; Patogê\; Verão 28 - 1ª entrega\; Banca\; Desenvolvimento
+DTEND:20261201T025959Z
+DTSTART:20261130T030000Z
+SUMMARY:Segunda Banca Patogê Verão 28 1ª entrega (Grupo 8)
+UID:d0b662f8-f574-43bd-a926-36b3c02929a6@d0b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 01 Patoge Inverno 26\;\; Patogê\; Inverno 26 - 1ª entrega\; Expedição\; Produção
+DTEND:20260106T025959Z
+DTSTART:20260105T030000Z
+SUMMARY:Expedição Grupo 01 Patoge Inverno 26
+UID:33a23c64-f47d-4c30-aa2a-56560f731d07@33a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Mostruário 2ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Expedição\; Mostruário
+DTEND:20261208T025959Z
+DTSTART:20261207T030000Z
+SUMMARY:Expedição Mostruário 2ª entrega Patogê Inverno 27
+UID:2055cbbe-24ab-4d03-953c-dee47c00cd05@2055.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 9\; Patogê\; Verão 27 - 1ª entrega\; Banca\; Desenvolvimento
+DTEND:20260113T025959Z
+DTSTART:20260112T030000Z
+SUMMARY:Última Banca Patogê Verão 27 1ª entrega (Grupo 9)
+UID:9e372d83-f148-48cd-82de-5e0cc48b574a@9e37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Mostruário 1ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Acabamento\; Mostruário
+DTEND:20260829T025959Z
+DTSTART:20260828T030000Z
+SUMMARY:Acabamento Mostruário 1ª entrega Patogê Inverno 27
+UID:bc538f78-cf89-4a39-8ccf-a22e1f8e8586@bc53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Envio do Mostruário 2ª entrega Patogê Inverno 27 para os representantes\; Patogê\; Inverno 27 - 2ª entrega\; Expedição\; Mostruário
+DTEND:20261209T025959Z
+DTSTART:20261208T030000Z
+SUMMARY:Envio Mostruário 2ª entrega Patogê Inverno 27
+UID:66b270f4-e955-46ea-99f3-a966cc8e4324@66b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de mostruário da Patogê Verão 27 grupo 10 e 11\; Patogê\; Verão 27 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20260515T025959Z
+DTSTART:20260514T030000Z
+SUMMARY:Liberação Mostruário Patogê Verão 27 (Grupo 10 e 11)
+UID:1b112c03-a96e-456a-8c2b-530ba162951d@1b11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Inverno 26 Grupo 01\; Patogê\; Inverno 26 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20250805T025959Z
+DTSTART:20250804T030000Z
+SUMMARY:Liberação Lacre Vermelho Patoge Inverno 26 (Grupo 01)
+UID:7dade265-c778-4296-94bd-4ee48688847a@7dad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Costura Jeans Mostruário 2ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Mostruário
-DTEND:20261127T025959Z
-DTSTART:20261126T030000Z
+DTEND:20261113T025959Z
+DTSTART:20261112T030000Z
 SUMMARY:Costura Mostruário 2ª entrega Patogê Inverno 27
-UID:b6475478-f6c8-491c-8877-a13c4c242ccc@b647.org
+UID:b4c402ae-889b-4292-b142-a60a0f57a14b@b4c4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 8\; Patogê\; Verão 27 - 1ª entrega\; Banca\; Desenvolvimento
-DTEND:20251126T025959Z
-DTSTART:20251125T030000Z
-SUMMARY:Segunda Banca Patogê Verão 27 1ª entrega (Grupo 8)
-UID:61c9bf29-126e-4374-93a0-12dd13b498b4@61c9.org
+DESCRIPTION:Banca das peças piloto da Patogê Inverno 27 1ª entrega\, preferencialmente todas as peças do grupo 1\; Patogê\; Inverno 27 - 1ª entrega\; Banca\; Desenvolvimento
+DTEND:20260508T025959Z
+DTSTART:20260507T030000Z
+SUMMARY:Primeira Banca Patogê Inverno 27 1ª entrega (Grupo 1)
+UID:95b3653a-f716-498d-8467-d69cd0a86307@95b3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Produção
-DTEND:20260718T025959Z
-DTSTART:20260717T030000Z
-SUMMARY:Costura Jeans Grupo 10 Patogê Verão 27
-UID:8578d920-0212-4b7e-88b9-25bea139487f@8578.org
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 28 grupo 10\; Patogê\; Verão 28 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20270527T025959Z
+DTSTART:20270526T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Verão 28 (Grupo 10)
+UID:ab20e83a-1df0-4853-8137-bd2e8221176a@ab20.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Expedição Mostruário 1ª entrega Patogê Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Expedição\; Mostruário
-DTEND:20260905T025959Z
-DTSTART:20260904T030000Z
-SUMMARY:Expedição Mostruário 1ª entrega Patogê Inverno 27
-UID:6c6d3c0d-90a8-4935-85d3-e479f815dce6@6c6d.org
+DESCRIPTION:Expedição Grupo 07 Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Expedição\; Produção
+DTEND:20270702T025959Z
+DTSTART:20270701T030000Z
+SUMMARY:Expedição Grupo 07 Patogê Verão 28
+UID:bfffa819-0857-49d5-b0b2-15ff6dbcfd37@bfff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Expedição\; Produção
+DTEND:20260903T025959Z
+DTSTART:20260902T030000Z
+SUMMARY:Expedição Grupo 09 Patogê Verão 27
+UID:256ff614-9ed3-43e9-a168-34329f8dafdb@256f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 1ª entrega que foram na ultima banca\; Patogê\; Verão 28 - 1ª entrega\; Prova\; Desenvolvimento
+DTEND:20270114T025959Z
+DTSTART:20270113T030000Z
+SUMMARY:Prova Patogê Verão 28 1ª entrega (Grupo 9)
+UID:fc2988c5-28af-45f1-8a34-ba6b04c798c1@fc29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Inverno 26 Grupo 03\; Patogê\; Inverno 26 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20250924T025959Z
+DTSTART:20250923T030000Z
+SUMMARY:Liberação Lacre Vermelho Patoge Inverno 26 (Grupo 03)
+UID:0e9424f9-708c-473f-975d-1cb6b0eb5d60@0e94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Patogê Inverno 27\; Patogê\; Inverno 27 - 2ª entrega\; Lavanderia Dsv. \; Desenvolvimento
+DTEND:20260812T025959Z
+DTSTART:20260811T030000Z
+SUMMARY:Lavanderia Pilotos Patogê Inverno 27 (Grupo 04 e 05)
+UID:939e977d-7bc0-4219-8141-1556e0c6e8d3@939e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Produção
+DTEND:20270120T025959Z
+DTSTART:20270119T030000Z
+SUMMARY:Costura Jeans Grupo 05 Patogê Inverno 27
+UID:342c913b-a80b-480a-b0f3-fc59b448314c@342c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de mostruário da Patogê Verão 28 grupo 07\, 08 e 09\; Patogê\; Verão 28 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20270205T025959Z
+DTSTART:20270204T030000Z
+SUMMARY:Liberação Mostruário Patogê Verão 28 (Grupo 7\, 8 e 9)
+UID:a1bc5780-9bd6-4014-a038-e73e165fc558@a1bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Patogê Inverno 27\; Patogê\; Inverno 27 - 2ª entrega\; Acabamento Dsv.\; Desenvolvimento
+DTEND:20260819T025959Z
+DTSTART:20260818T030000Z
+SUMMARY:Acabamento Pilotos Patogê Inverno 27 (Grupo 04 e 05)
+UID:65fc85f2-dd6e-4bec-bba3-d22af167a96a@65fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 27 grupo 07\; Patogê\; Verão 27 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20260213T025959Z
+DTSTART:20260212T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Verão 27 (Grupo 07)
+UID:b06120c0-4b1e-4e4a-a073-a9b63c4e837d@b061.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Modelagem dos desenhos da Patogê Verão 27\; Patogê\; Verão 27 - 2ª entrega\; Modelagem\; Desenvolvimento
 DTEND:20260203T025959Z
 DTSTART:20260202T030000Z
 SUMMARY:Modelagem Patogê Verão 27 (Grupo 10 e 11)
-UID:a35816fa-258c-4d2d-896a-7ac9319e6962@a358.org
+UID:553e12ad-e4d1-47a9-8e21-9906fec20d60@553e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de mostruário da Patogê Verão 27 grupo 07\, 08 e 09\; Patogê\; Verão 27 - 1ª entrega\; PCP\; Desenvolvimento
-DTEND:20260221T025959Z
-DTSTART:20260220T030000Z
-SUMMARY:Liberação Mostruário Patogê Verão 27 (Grupo 7\, 8 e 9)
-UID:0b200284-eeb4-462f-bd07-d10127a78af4@0b20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Patogê Verão 27\; Patogê\; Verão 27 - 2ª entrega\; Pilotagem\; Desenvolvimento
-DTEND:20260210T025959Z
-DTSTART:20260209T030000Z
-SUMMARY:Pilotagem Patogê Verão 27 (Grupo 10 e 11)
-UID:6e741b4e-44d9-464b-b59d-83f8ea8e02e8@6e74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 1ª entrega que foram na segunda banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
-DTEND:20260603T025959Z
-DTSTART:20260602T030000Z
-SUMMARY:Prova Patogê Inverno 27 1ª entrega (Grupo 2)
-UID:10b70d93-a3ff-4999-9e0a-24641c367e62@10b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de mostruário da Patoge Inverno 26 Grupo 04 e 05\; Patogê\; Inverno 26 - 2ª entrega\; PCP\; Mostruário
-DTEND:20251104T025959Z
-DTSTART:20251103T030000Z
-SUMMARY:Liberação Mostruário Patoge Inverno 26 (Grupo 04 e 05)
-UID:6cecb153-853b-4a35-b173-2efc67610f47@6cec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Produção
-DTEND:20270120T025959Z
-DTSTART:20270119T030000Z
-SUMMARY:Costura Moda Jeans Grupo 05 Patogê Inverno 27
-UID:24fb103e-374e-4e17-bf6d-96e20419e5f4@24fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento da 1ª entrega Patogê Verão 28 no Showroom\; Patogê\; Verão 28 - 1ª entrega\; Comercial\; Mostruário
-DTEND:20270420T025959Z
-DTSTART:20270419T030000Z
-SUMMARY:Lançamento Showroom 1ª entrega Patogê Verão 28
-UID:c4a49ce4-9166-4b9d-b1a5-d8c00db9b247@c4a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Patogê Verão 28 2ª entrega\, preferencialmente todas as peças do grupo 11\; Patogê\; Verão 28 - 2ª entrega\; Banca\; Desenvolvimento
-DTEND:20270303T025959Z
-DTSTART:20270302T030000Z
-SUMMARY:Última Banca Patogê Verão 28 2ª entrega (Grupo 11)
-UID:4d76a336-f54d-4d94-86d6-3e01b7ff9f9b@4d76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Mostruário 2ª entrega Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Lavanderia\; Mostruário
+DESCRIPTION:Banca das peças piloto da Patogê Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 8\; Patogê\; Verão 27 - 1ª entrega\; Banca\; Desenvolvimento
 DTEND:20251126T025959Z
 DTSTART:20251125T030000Z
-SUMMARY:Lavanderia Mostruário 2ª entrega Patoge Inverno 26
-UID:dbda3f82-1397-4ab3-87de-d4bf1bf93f2a@dbda.org
+SUMMARY:Segunda Banca Patogê Verão 27 1ª entrega (Grupo 8)
+UID:6779c58c-f8c0-44d3-8cd2-7fb8cc1e6e25@6779.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 2ª entrega que foram na primeira banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20260807T025959Z
+DTSTART:20260806T030000Z
+SUMMARY:Prova Patogê Inverno 27 2ª entrega (Grupo 4)
+UID:834b262d-5dac-412e-bb89-ad3de37a3da4@834b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Acabamento\; Produção
+DTEND:20260624T025959Z
+DTSTART:20260623T030000Z
+SUMMARY:Acabamento Grupo 07 Patogê Verão 27
+UID:85e6ed02-7c61-4705-8cb7-78edcfef2127@85e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Produção
+DTEND:20270126T025959Z
+DTSTART:20270125T030000Z
+SUMMARY:Costura Moda Grupo 04 Patogê Inverno 27
+UID:beeb73b7-c4da-4103-a90b-2502429a9121@beeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Patogê Verão 28\; Patogê\; Verão 28 - 2ª entrega\; Acabamento Dsv.\; Desenvolvimento
+DTEND:20270223T025959Z
+DTSTART:20270222T030000Z
+SUMMARY:Acabamento Pilotos Patogê Verão 28 (Grupo 10 e 11)
+UID:14b5cec1-0588-48bc-9f02-59bbee1d4f8c@14b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 02 Patoge Inverno 26\;\; Patogê\; Inverno 26 - 1ª entrega\; Expedição\; Produção
+DTEND:20260203T025959Z
+DTSTART:20260202T030000Z
+SUMMARY:Expedição Grupo 02 Patoge Inverno 26
+UID:4a5287f9-e9b2-441d-a45c-5baa64630b59@4a52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Mostruário 2ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 2ª entrega\; Costura\; Mostruário
+DTEND:20270601T025959Z
+DTSTART:20270531T030000Z
+SUMMARY:Costura Mostruário 2ª entrega Patogê Verão 28
+UID:a0798617-8ace-4932-a358-afcc66339057@a079.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 1ª entrega que foram na ultima banca\; Patogê\; Verão 28 - 1ª entrega\; Prova\; Desenvolvimento
 DTEND:20270119T025959Z
 DTSTART:20270118T030000Z
 SUMMARY:Prova Patogê Verão 28 1ª entrega (Grupo 9)
-UID:fbbb3794-c933-4c7f-a9e8-399dbfcdfa0c@fbbb.org
+UID:8f7f1c0d-a5af-41a2-9e85-18b6642607c4@8f7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Expedição\; Produção
+DTEND:20270403T025959Z
+DTSTART:20270402T030000Z
+SUMMARY:Expedição Grupo 04 Patogê Inverno 27
+UID:6bf03e59-3e70-420d-a54a-a68687b3b636@6bf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Expedição\; Produção
+DTEND:20260805T025959Z
+DTSTART:20260804T030000Z
+SUMMARY:Expedição Grupo 08 Patogê Verão 27
+UID:3ea3aa8b-89a8-4f50-b8c0-168334854c2b@3ea3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patogê Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 27 - 2ª entrega\; Estilo\; Desenvolvimento
+DTEND:20260108T025959Z
+DTSTART:20260107T030000Z
+SUMMARY:Limite Entrega Desenhos Patogê Verão 27 (Grupo 10 e 11)
+UID:15e69cd8-4517-4794-9fe8-8fabdc73f3c1@15e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
+DTEND:20260625T025959Z
+DTSTART:20260624T030000Z
+SUMMARY:Costura Moda Grupo 08 Patogê Verão 27
+UID:e9e61086-7914-46c2-b26e-f0b5289c50bc@e9e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 27 grupo 11\; Patogê\; Verão 27 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20260617T025959Z
+DTSTART:20260616T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Verão 27 (Grupo 11)
+UID:791e5b85-9917-4157-8e17-8a59dd018094@791e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
+DTEND:20260526T025959Z
+DTSTART:20260525T030000Z
+SUMMARY:Costura Moda Grupo 07 Patogê Verão 27
+UID:79bd1a9b-5612-4c88-a25c-7514d10e2068@79bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Corte\; Produção
+DTEND:20270112T025959Z
+DTSTART:20270111T030000Z
+SUMMARY:Corte Grupo 05 Patogê Inverno 27
+UID:2934ce68-af89-4f88-89be-8148c860559e@2934.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Expedição\; Produção
+DTEND:20270203T025959Z
+DTSTART:20270202T030000Z
+SUMMARY:Expedição Grupo 02 Patogê Inverno 27
+UID:a523def4-a33d-4944-8a80-4e6fe20d3ee8@a523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 1ª entrega que foram na primeira banca\; Patogê\; Verão 28 - 1ª entrega\; Prova\; Desenvolvimento
+DTEND:20261113T025959Z
+DTSTART:20261112T030000Z
+SUMMARY:Prova Patogê Verão 28 1ª entrega (Grupo 7)
+UID:31385f68-0eba-4859-a1eb-c53ee257fa4d@3138.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 2ª entrega que foram na ultima banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20260828T025959Z
+DTSTART:20260827T030000Z
+SUMMARY:Prova Patogê Inverno 27 2ª entrega (Grupo 5)
+UID:5a2ff76f-7d09-4df3-b515-19513696e481@5a2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Acabamento\; Produção
+DTEND:20260825T025959Z
+DTSTART:20260824T030000Z
+SUMMARY:Acabamento Grupo 09 Patogê Verão 27
+UID:bec37bff-a76e-4335-8e4c-a59310ad8a4e@bec3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
+DTEND:20261104T025959Z
+DTSTART:20261103T030000Z
+SUMMARY:Costura Moda Grupo 02 Patogê Inverno 27
+UID:44918780-2a57-48e1-bd8c-c6fbdd2e52c8@4491.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Inverno 27 Grupo 03\; Patogê\; Inverno 27 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20260923T025959Z
+DTSTART:20260922T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Inverno 27 (Grupo 03)
+UID:533ea541-2737-465e-8990-3cef166616f0@533e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patoge Inverno 26. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Inverno 26 - 2ª entrega\; Estilo\; Desenvolvimento
+DTEND:20250702T025959Z
+DTSTART:20250701T030000Z
+SUMMARY:Entrega Desenhos Patoge Inverno 26 (Grupo 04 e 05)
+UID:7aef0a36-c7eb-4b7e-8d3c-f8cde6c3aebb@7aef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de mostruário da Patogê Inverno 27 Grupo 01\, 02 e 03\; Patogê\; Inverno 27 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20260801T025959Z
+DTSTART:20260731T030000Z
+SUMMARY:Liberação Mostruário Patogê Inverno 27 (Grupo 1\, 2 e 3)
+UID:606d2b2e-b670-4e99-a6d4-4f58440aa9a0@606d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Envio do Mostruário 2ª entrega Patogê Verão 27 para os representantes\; Patogê\; Verão 27 - 2ª entrega\; Expedição\; Mostruário
+DTEND:20260623T025959Z
+DTSTART:20260622T030000Z
+SUMMARY:Envio Mostruário 2ª entrega Patogê Verão 27
+UID:7a01b904-00c6-4fec-a632-fe1759e51f75@7a01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Inverno 26 Grupo 02\; Patogê\; Inverno 26 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20250902T025959Z
+DTSTART:20250901T030000Z
+SUMMARY:Liberação Lacre Vermelho Patoge Inverno 26 (Grupo 02)
+UID:f942373b-65fa-437f-9089-2765035af8f8@f942.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patogê Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Inverno 27 - 2ª entrega\; Estilo\; Desenvolvimento
+DTEND:20260707T025959Z
+DTSTART:20260706T030000Z
+SUMMARY:Limite Entrega Desenhos Patogê Inverno 27 (Grupo 04 e 05)
+UID:8060510b-761d-4643-ad85-033f8b65a63e@8060.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 2ª entrega que foram na primeira banca\; Patogê\; Verão 28 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20270205T025959Z
+DTSTART:20270204T030000Z
+SUMMARY:Prova Patogê Verão 28 2ª entrega (Grupo 10)
+UID:25f89cd3-f195-4289-9f83-ca822f35391f@25f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Verão 28 1ª entrega\, preferencialmente todas as peças do grupo 7\; Patogê\; Verão 28 - 1ª entrega\; Banca\; Desenvolvimento
+DTEND:20261106T025959Z
+DTSTART:20261105T030000Z
+SUMMARY:Primeira Banca Patogê Verão 28 1ª entrega (Grupo 7)
+UID:0400a2f4-5db7-4910-9737-5550f475ac42@0400.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 04 Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Expedição\; Produção
+DTEND:20260402T025959Z
+DTSTART:20260401T030000Z
+SUMMARY:Expedição Grupo 04 Patoge Inverno 26
+UID:20206351-b8b1-4384-b5cd-082e1edfd815@2020.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Verão 28 2ª entrega\, preferencialmente todas as peças do grupo 10\; Patogê\; Verão 28 - 2ª entrega\; Banca\; Desenvolvimento
+DTEND:20270203T025959Z
+DTSTART:20270202T030000Z
+SUMMARY:Primeira Banca Patogê Verão 28 2ª entrega (Grupo 10)
+UID:f54ea21f-2419-4011-a5e0-32e61258bdfc@f54e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Mostruário 2ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 2ª entrega\; Lavanderia\; Mostruário
+DTEND:20270608T025959Z
+DTSTART:20270607T030000Z
+SUMMARY:Lavanderia Mostruário 2ª entrega Patogê Verão 28
+UID:1b5cee46-ba69-4863-980c-6d1329aac18d@1b5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
+DTEND:20260626T025959Z
+DTSTART:20260625T030000Z
+SUMMARY:Costura Moda Jeans Grupo 09 Patogê Verão 27
+UID:95032f2f-4c93-480b-9fad-6658ba3641e8@9503.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Mostruário 1ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Lavanderia\; Mostruário
+DTEND:20260314T025959Z
+DTSTART:20260313T030000Z
+SUMMARY:Lavanderia Mostruário 1ª entrega Patogê Verão 27
+UID:71f00c0b-4d6e-471a-a7fb-3ff620a662aa@71f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Produção
+DTEND:20260806T025959Z
+DTSTART:20260805T030000Z
+SUMMARY:Costura Moda Jeans Grupo 11 Patogê Verão 27
+UID:74ec4a77-9381-4107-b4b2-8b3c78e9ee1e@74ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Patogê Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Modelagem\; Desenvolvimento
+DTEND:20260513T025959Z
+DTSTART:20260512T030000Z
+SUMMARY:Modelagem Patogê Inverno 27 (Grupo 1\, 2 e 3)
+UID:1b95f170-fb61-4c5b-a870-922decfd3b55@1b95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 27 grupo 09\; Patogê\; Verão 27 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20260424T025959Z
+DTSTART:20260423T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Verão 27 (Grupo 09)
+UID:ec5f769b-15e2-49b0-bbb3-da42d2beecc0@ec5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 2ª entrega que foram na primeira banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20260812T025959Z
+DTSTART:20260811T030000Z
+SUMMARY:Prova Patogê Inverno 27 2ª entrega (Grupo 4)
+UID:8f0d5104-9d06-4adb-aba4-ba8c588bfa9e@8f0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Inverno 27 2ª entrega\, preferencialmente todas as peças do Grupo 04\; Patogê\; Inverno 27 - 2ª entrega\; Banca\; Desenvolvimento
+DTEND:20260805T025959Z
+DTSTART:20260804T030000Z
+SUMMARY:Primeira Banca Patogê Inverno 27 2ª entrega (Grupo 04)
+UID:fc21f674-5d79-4ea0-8d8b-eea5c4c38113@fc21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Acabamento\; Produção
+DTEND:20261113T025959Z
+DTSTART:20261112T030000Z
+SUMMARY:Acabamento Grupo 01 Patogê Inverno 27
+UID:ef69e1bd-412f-488d-86c2-04193eb003d6@ef69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 27 grupo 08\; Patogê\; Verão 27 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20260321T025959Z
+DTSTART:20260320T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Verão 27 (Grupo 08)
+UID:5ae8de88-c270-4367-aba3-15f72e3d00ee@5ae8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Produção
+DTEND:20270120T025959Z
+DTSTART:20270119T030000Z
+SUMMARY:Costura Moda Jeans Grupo 05 Patogê Inverno 27
+UID:09677380-cd45-41bd-bc6a-a885ad0e4b2a@0967.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fotos do Mostruário 1ª entrega Patogê Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Marketing\; Mostruário
+DTEND:20260909T025959Z
+DTSTART:20260908T030000Z
+SUMMARY:Fotografia Mostruário 1ª entrega Patogê Inverno 27
+UID:054f0cd2-e61c-4278-8f4e-906d938e029e@054f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento da 1ª entrega Patogê Verão 28 no Showroom\; Patogê\; Verão 28 - 1ª entrega\; Comercial\; Mostruário
+DTEND:20270413T025959Z
+DTSTART:20270412T030000Z
+SUMMARY:Lançamento Showroom 1ª entrega Patogê Verão 28
+UID:845c8581-afce-46d7-96ec-162d292753c7@845c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Envio do Mostruário 2ª entrega Patogê Verão 28 para os representantes\; Patogê\; Verão 28 - 2ª entrega\; Expedição\; Mostruário
+DTEND:20270622T025959Z
+DTSTART:20270621T030000Z
+SUMMARY:Envio Mostruário 2ª entrega Patogê Verão 28
+UID:7ca846eb-34c8-4add-a64d-4f2282c155cf@7ca8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 05 Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Expedição\; Produção
+DTEND:20260505T025959Z
+DTSTART:20260504T030000Z
+SUMMARY:Expedição Grupo 05 Patoge Inverno 26
+UID:e12e87c6-e4ee-4804-9006-ac871b687924@e12e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 28 grupo 07\; Patogê\; Verão 28 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20270220T025959Z
+DTSTART:20270219T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Verão 28 (Grupo 07)
+UID:5a321367-2d93-4ecd-afe5-75a5a19a5274@5a32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Corte\; Produção
+DTEND:20260804T025959Z
+DTSTART:20260803T030000Z
+SUMMARY:Corte Grupo 01 Patogê Inverno 27
+UID:84d3aeaf-dece-4dbc-88d5-3a7c91a9c867@84d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Patogê Verão 28\; Patogê\; Verão 28 - 1ª entrega\; Modelagem\; Desenvolvimento
+DTEND:20261113T025959Z
+DTSTART:20261112T030000Z
+SUMMARY:Modelagem Patogê Verão 28 (Grupo 7\, 8 e 9)
+UID:df34378f-2ca7-4092-aed6-5e984da54756@df34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Envio do Mostruário 2ª entrega Patoge Inverno 26 para os representantes\; Patogê\; Inverno 26 - 2ª entrega\; Expedição\; Mostruário
+DTEND:20260128T025959Z
+DTSTART:20260127T030000Z
+SUMMARY:Envio Mostruário 2ª entrega Patoge Inverno 26
+UID:8e34f266-fa95-4773-adf4-da34585e518b@8e34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Envio do Mostruário 1ª entrega Patogê Verão 27 para os representantes\; Patogê\; Verão 27 - 1ª entrega\; Expedição\; Mostruário
+DTEND:20260408T025959Z
+DTSTART:20260407T030000Z
+SUMMARY:Envio Mostruário 1ª entrega Patogê Verão 27
+UID:5d353622-55cd-458c-b92f-f732f3574787@5d35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fotos do Mostruário 2ª entrega Patogê Inverno 27\; Patogê\; Inverno 27 - 2ª entrega\; Marketing\; Mostruário
+DTEND:20261209T025959Z
+DTSTART:20261208T030000Z
+SUMMARY:Fotografia Mostruário 2ª entrega Patogê Inverno 27
+UID:8136f0e3-12f3-4bf6-8192-fd0edd4920ba@8136.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Patoge Inverno 26\; Patogê\; Inverno 26 - 2ª entrega\; Pilotagem\; Desenvolvimento
+DTEND:20250716T025959Z
+DTSTART:20250715T030000Z
+SUMMARY:Pilotagem Patoge Inverno 26 (Grupo 04 e 05)
+UID:fc6b10f2-7e4f-40d8-93d1-28fcef9f5a31@fc6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Lavanderia\; Produção
+DTEND:20260526T025959Z
+DTSTART:20260525T030000Z
+SUMMARY:Lavanderia Grupo 07 Patogê Verão 27
+UID:8ba81f4e-af88-4f5f-83c1-853ab3e33aa2@8ba8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento da 2ª entrega Patogê Inverno 27 no Showroom\; Patogê\; Inverno 27 - 2ª entrega\; Comercial\; Mostruário
+DTEND:20270126T025959Z
+DTSTART:20270125T030000Z
+SUMMARY:Lançamento Showroom 2ª entrega Patogê Inverno 27
+UID:36f6bb20-d2a6-474e-9c4b-4b11361d1f2a@36f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Mostruário 2ª entrega Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Expedição\; Mostruário
+DTEND:20251213T025959Z
+DTSTART:20251212T030000Z
+SUMMARY:Expedição Mostruário 2ª entrega Patoge Inverno 26
+UID:d56d514b-4adb-4558-81d5-b61db00044a4@d56d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
+DTEND:20260425T025959Z
+DTSTART:20260424T030000Z
+SUMMARY:Costura Moda Jeans Grupo 07 Patogê Verão 27
+UID:a34f7f4b-6021-4e82-8f8b-dbab22b7fe94@a34f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Produção
+DTEND:20260718T025959Z
+DTSTART:20260717T030000Z
+SUMMARY:Costura Jeans Grupo 10 Patogê Verão 27
+UID:3f48a23a-59c2-465c-b841-f6c4e9855ef0@3f48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Mostruário 2ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 2ª entrega\; Expedição\; Mostruário
+DTEND:20270622T025959Z
+DTSTART:20270621T030000Z
+SUMMARY:Expedição Mostruário 2ª entrega Patogê Verão 28
+UID:976a9b0a-6d4d-4211-bba0-c03a59a45680@976a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Lavanderia\; Produção
+DTEND:20260724T025959Z
+DTSTART:20260723T030000Z
+SUMMARY:Lavanderia Grupo 09 Patogê Verão 27
+UID:b121fa67-9ab9-4a65-8577-cb463426fc5c@b121.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 1ª entrega que foram na ultima banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20260619T025959Z
+DTSTART:20260618T030000Z
+SUMMARY:Prova Patogê Inverno 27 1ª entrega (Grupo 3)
+UID:1ab3c784-0ac1-4d91-befd-64b716d7154d@1ab3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Patogê Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Pilotagem\; Desenvolvimento
+DTEND:20251118T025959Z
+DTSTART:20251117T030000Z
+SUMMARY:Pilotagem Patogê Verão 27 (Grupo 7\, 8 e 9)
+UID:24ffe1e2-e8e5-420a-aa1d-f6cf7901abd6@24ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Convenção de Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Comercial\; Mostruário
+DTEND:20261006T025959Z
+DTSTART:20261005T030000Z
+SUMMARY:Convenção de Inverno 27
+UID:b0a4affc-f2e5-4090-b1e0-4f9d244bd8c5@b0a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Mostruário 1ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Acabamento\; Mostruário
+DTEND:20270310T025959Z
+DTSTART:20270309T030000Z
+SUMMARY:Acabamento Mostruário 1ª entrega Patogê Verão 28
+UID:ac41a80d-b0ff-45bf-9dfc-c0cf13631253@ac41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Mostruário 2ª entrega Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Acabamento\; Mostruário
+DTEND:20251204T025959Z
+DTSTART:20251203T030000Z
+SUMMARY:Acabamento Mostruário 2ª entrega Patoge Inverno 26
+UID:6d193e82-8fc5-4a37-85e3-2635e6118a7a@6d19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Acabamento\; Produção
+DTEND:20270218T025959Z
+DTSTART:20270217T030000Z
+SUMMARY:Acabamento Grupo 03 Patogê Inverno 27
+UID:96f1c18a-5a0d-4e69-a964-dee2b7555c0e@96f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Patogê Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Acabamento Dsv.\; Desenvolvimento
+DTEND:20251204T025959Z
+DTSTART:20251203T030000Z
+SUMMARY:Acabamento Pilotos Patogê Verão 27 (Grupo 7\, 8 e 9)
+UID:c4425e92-28bb-4abf-bcf0-f6eff15c61c7@c442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 2ª entrega que foram na ultima banca\; Patogê\; Verão 28 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20270305T025959Z
+DTSTART:20270304T030000Z
+SUMMARY:Prova Patogê Verão 28 2ª entrega (Grupo 11)
+UID:cbc061f3-9dad-4ce1-8689-a300639ad776@cbc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Acabamento\; Produção
+DTEND:20261016T025959Z
+DTSTART:20261015T030000Z
+SUMMARY:Acabamento Grupo 11 Patogê Verão 27
+UID:d27029c0-5ca1-4834-8fdb-8fc707c5fb8b@d270.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento da 1ª entrega Patogê Verão 27 no Showroom\; Patogê\; Verão 27 - 1ª entrega\; Comercial\; Mostruário
+DTEND:20260416T025959Z
+DTSTART:20260415T030000Z
+SUMMARY:Lançamento da 1ª entrega Patogê Verão 27
+UID:f22e5267-252c-4c3b-b9c4-8b714e4ba78a@f22e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Mostruário 2ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Mostruário
+DTEND:20260529T025959Z
+DTSTART:20260528T030000Z
+SUMMARY:Costura Mostruário 2ª entrega Patogê Verão 27
+UID:1caba209-7d7f-4a2a-94ab-c801ac4a32ca@1cab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Expedição\; Produção
+DTEND:20261105T025959Z
+DTSTART:20261104T030000Z
+SUMMARY:Expedição Grupo 11 Patogê Verão 27
+UID:182feaba-99b6-4566-a849-caa47dd200fb@182f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Inverno 27 Grupo 05\; Patogê\; Inverno 27 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20261201T025959Z
+DTSTART:20261130T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Inverno 27 (Grupo 05)
+UID:5f2312d9-94c9-49f2-bc67-e6eb73631512@5f23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
+DTEND:20260901T025959Z
+DTSTART:20260831T030000Z
+SUMMARY:Costura Moda Jeans Grupo 01 Patogê Inverno 27
+UID:00af6e34-2cc0-4692-82bc-3df39c1a3b74@00af.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Expedição Mostruário 1ª entrega Patogê Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Expedição\; Mostruário
 DTEND:20260328T025959Z
 DTSTART:20260327T030000Z
 SUMMARY:Expedição Mostruário 1ª entrega Patogê Verão 27
-UID:41e0d6bc-7163-4a60-8e91-c5a33100aa9f@41e0.org
+UID:22759213-d639-4489-96f2-1b898ab27817@2275.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Expedição\; Produção
+DTEND:20260703T025959Z
+DTSTART:20260702T030000Z
+SUMMARY:Expedição Grupo 07 Patogê Verão 27
+UID:ba6d1105-aef9-46ce-a74d-d230917f77c1@ba6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 7\; Patogê\; Verão 27 - 1ª entrega\; Banca\; Desenvolvimento
+DTEND:20251104T025959Z
+DTSTART:20251103T030000Z
+SUMMARY:Primeira Banca Patogê Verão 27 1ª entrega (Grupo 7)
+UID:0f6e7ca0-77f1-4882-b5da-26ab6a801edf@0f6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patoge Inverno 26 1ª entrega\, preferencialmente todas as peças do Grupo 04\; Patogê\; Inverno 26 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20250806T025959Z
+DTSTART:20250805T030000Z
+SUMMARY:Primeira Banca Patoge Inverno 26 1ª entrega (Grupo 04)
+UID:8e388755-3c9f-45b1-ac89-60ceecf77791@8e38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Mostruário 1ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Lavanderia\; Mostruário
+DTEND:20270303T025959Z
+DTSTART:20270302T030000Z
+SUMMARY:Lavanderia Mostruário 1ª entrega Patogê Verão 28
+UID:7c81319e-5803-4fde-95b9-3212ea80038d@7c81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Mostruário 2ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Expedição\; Mostruário
+DTEND:20260620T025959Z
+DTSTART:20260619T030000Z
+SUMMARY:Expedição Mostruário 2ª entrega Patogê Verão 27
+UID:ff690da0-60ba-435e-a8fb-2f762c72d977@ff69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Corte\; Produção
+DTEND:20260414T025959Z
+DTSTART:20260413T030000Z
+SUMMARY:Corte Grupo 08 Patogê Verão 27
+UID:4a829783-039b-4fd5-acc9-e42efe9b26e9@4a82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 1ª entrega que foram na primeira banca\; Patogê\; Verão 28 - 1ª entrega\; Prova\; Desenvolvimento
+DTEND:20261110T025959Z
+DTSTART:20261109T030000Z
+SUMMARY:Prova Patogê Verão 28 1ª entrega (Grupo 7)
+UID:23d5bafe-13f1-4753-8dfb-bf7d8793c5cd@23d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Mostruário 1ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Mostruário
+DTEND:20260815T025959Z
+DTSTART:20260814T030000Z
+SUMMARY:Costura Jeans Mostruário 1ª entrega Patogê Inverno 27
+UID:e20c1e45-2265-422d-b1b3-b805a7be9e9d@e20c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Patogê Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Lavanderia Dsv. \; Desenvolvimento
+DTEND:20251126T025959Z
+DTSTART:20251125T030000Z
+SUMMARY:Lavanderia Pilotos Patogê Verão 27 (Grupo 7\, 8 e 9)
+UID:80795b73-a170-4d7b-ac05-ed33d8f53312@8079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Produção
+DTEND:20260718T025959Z
+DTSTART:20260717T030000Z
+SUMMARY:Costura Moda Jeans Grupo 10 Patogê Verão 27
+UID:eca979bd-2d7c-4c59-8ee8-cf8d67bf7207@eca9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Mostruário 1ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Corte\; Mostruário
+DTEND:20260808T025959Z
+DTSTART:20260807T030000Z
+SUMMARY:Corte Mostruário 1ª entrega Patogê Inverno 27
+UID:8a5e5468-88bb-4f42-8054-d29a9f47368a@8a5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Produção
+DTEND:20270224T025959Z
+DTSTART:20270223T030000Z
+SUMMARY:Costura Moda Grupo 05 Patogê Inverno 27
+UID:f701e165-5a8d-4647-b8ab-5daf209f33c6@f701.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patoge Inverno 26 1ª entrega\, preferencialmente todas as peças do Grupo 05\; Patogê\; Inverno 26 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20250827T025959Z
+DTSTART:20250826T030000Z
+SUMMARY:Última Banca Patoge Inverno 26 1ª entrega (Grupo 05)
+UID:735fcc80-2fca-46f6-91db-4d073eca0bb8@735f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 2ª entrega que foram na primeira banca\; Patogê\; Verão 28 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20270212T025959Z
+DTSTART:20270211T030000Z
+SUMMARY:Prova Patogê Verão 28 2ª entrega (Grupo 10)
+UID:da4a6ebb-014e-4fb9-9ed7-0171ba230169@da4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fotos do Mostruário 2ª entrega Patogê Verão 28\; Patogê\; Verão 28 - 2ª entrega\; Marketing\; Mostruário
+DTEND:20270622T025959Z
+DTSTART:20270621T030000Z
+SUMMARY:Fotografia Mostruário 2ª entrega Patogê Verão 28
+UID:b9812f77-9149-4b20-8299-52836b52c5ff@b981.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Mostruário 2ª entrega Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Corte\; Mostruário
+DTEND:20251111T025959Z
+DTSTART:20251110T030000Z
+SUMMARY:Corte Mostruário 2ª entrega Patoge Inverno 26
+UID:1576df96-f9af-4858-9b7c-35b9b7a66b07@1576.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Acabamento\; Produção
+DTEND:20270427T025959Z
+DTSTART:20270426T030000Z
+SUMMARY:Acabamento Grupo 05 Patogê Inverno 27
+UID:aa27474b-58c6-46a7-80ce-cf667ec3ebe6@aa27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patogê Verão 28. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 28 - 2ª entrega\; Estilo\; Desenvolvimento
+DTEND:20261210T025959Z
+DTSTART:20261209T030000Z
+SUMMARY:Limite Entrega Desenhos Patogê Verão 28 (Grupo 10 e 11)
+UID:d6553330-08a2-4004-af00-f303773afcca@d655.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 28 grupo 09\; Patogê\; Verão 28 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20270428T025959Z
+DTSTART:20270427T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Verão 28 (Grupo 09)
+UID:fa896e68-7c33-43f2-ad9f-1b55edfbc1e2@fa89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 1ª entrega que foram na ultima banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20260624T025959Z
+DTSTART:20260623T030000Z
+SUMMARY:Prova Patogê Inverno 27 1ª entrega (Grupo 3)
+UID:45b80886-e031-4afe-9e5d-c04f63cb01e2@45b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Inverno 27 1ª entrega\, preferencialmente todas as peças do grupo 1\; Patogê\; Inverno 27 - 1ª entrega\; Banca\; Desenvolvimento
+DTEND:20260506T025959Z
+DTSTART:20260505T030000Z
+SUMMARY:Primeira Banca Patogê Inverno 27 1ª entrega (Grupo 1)
+UID:0c65baf3-60ff-4d6d-83f9-4819fd7143dc@0c65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Expedição\; Produção
+DTEND:20261003T025959Z
+DTSTART:20261002T030000Z
+SUMMARY:Expedição Grupo 10 Patogê Verão 27
+UID:bf391990-5881-4595-a828-4511e978b70e@bf39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 1ª entrega que foram na segunda banca\; Patogê\; Verão 28 - 1ª entrega\; Prova\; Desenvolvimento
+DTEND:20261203T025959Z
+DTSTART:20261202T030000Z
+SUMMARY:Prova Patogê Verão 28 1ª entrega (Grupo 8)
+UID:17797342-77d0-403d-92ad-8a6046e2a8e0@1779.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Convenção de Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Comercial\; Mostruário
+DTEND:20260415T025959Z
+DTSTART:20260414T030000Z
+SUMMARY:Convenção de Verão 27
+UID:5c0e4a0a-2566-4d25-9225-3b6e43632778@5c0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de mostruário da Patogê Verão 27 grupo 07\, 08 e 09\; Patogê\; Verão 27 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20260221T025959Z
+DTSTART:20260220T030000Z
+SUMMARY:Liberação Mostruário Patogê Verão 27 (Grupo 7\, 8 e 9)
+UID:a8dc3e31-ccda-414d-b125-049a2b949e0b@a8dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento da 2ª entrega Patoge Inverno 26 no Showroom\; Patogê\; Inverno 26 - 2ª entrega\; Expedição\; Mostruário
+DTEND:20260224T025959Z
+DTSTART:20260223T030000Z
+SUMMARY:Lançamento Showroom 2ª entrega Patoge Inverno 26
+UID:47f1987c-7c44-4281-9f70-ba0e57c8673f@47f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Corte\; Produção
+DTEND:20261119T025959Z
+DTSTART:20261118T030000Z
+SUMMARY:Corte Grupo 04 Patogê Inverno 27
+UID:8af6632c-7916-4a3a-920d-d68d009a7945@8af6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
+DTEND:20260527T025959Z
+DTSTART:20260526T030000Z
+SUMMARY:Costura Jeans Grupo 08 Patogê Verão 27
+UID:82a966f0-03ad-4a79-8dde-2c68c3966e02@82a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Mostruário 2ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Corte\; Mostruário
+DTEND:20260522T025959Z
+DTSTART:20260521T030000Z
+SUMMARY:Corte Mostruário 2ª entrega Patogê Verão 27
+UID:0a702707-df43-498b-8472-dba37b0fe8ea@0a70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
+DTEND:20261030T025959Z
+DTSTART:20261029T030000Z
+SUMMARY:Costura Jeans Grupo 03 Patogê Inverno 27
+UID:4c12909e-1af2-4078-ba7b-d1bf43332a55@4c12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Corte\; Produção
+DTEND:20261015T025959Z
+DTSTART:20261014T030000Z
+SUMMARY:Corte Grupo 03 Patogê Inverno 27
+UID:591ab351-2bbb-4bff-9031-5c2bc702d38e@591a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
+DTEND:20261030T025959Z
+DTSTART:20261029T030000Z
+SUMMARY:Costura Moda Jeans Grupo 03 Patogê Inverno 27
+UID:900b9e85-e5a1-4d60-93ef-079dde9658b5@900b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 03 Patoge Inverno 26\;\; Patogê\; Inverno 26 - 1ª entrega\; Expedição\; Produção
+DTEND:20260303T025959Z
+DTSTART:20260302T030000Z
+SUMMARY:Expedição Grupo 03 Patoge Inverno 26
+UID:ce40e297-2af4-4fac-b35e-34a10d5608c3@ce40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
+DTEND:20260724T025959Z
+DTSTART:20260723T030000Z
+SUMMARY:Costura Moda Grupo 09 Patogê Verão 27
+UID:cad99f6a-eacb-4ede-96a7-4b3e154cd3dc@cad9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
+DTEND:20260626T025959Z
+DTSTART:20260625T030000Z
+SUMMARY:Costura Jeans Grupo 09 Patogê Verão 27
+UID:98f1207f-3e9f-459b-b674-09eae1d97dfb@98f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Mostruário 1ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Lavanderia\; Mostruário
+DTEND:20260822T025959Z
+DTSTART:20260821T030000Z
+SUMMARY:Lavanderia Mostruário 1ª entrega Patogê Inverno 27
+UID:d0ec63f6-7d3a-40f6-88e6-336e2ea9db59@d0ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 1ª entrega que foram na segunda banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20260603T025959Z
+DTSTART:20260602T030000Z
+SUMMARY:Prova Patogê Inverno 27 1ª entrega (Grupo 2)
+UID:af8bf884-228e-4371-820f-67c121ea4fb4@af8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Inverno 27 Grupo 01\; Patogê\; Inverno 27 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20260714T025959Z
+DTSTART:20260713T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Inverno 27 (Grupo 01)
+UID:823cef52-21b7-420b-a008-242724fb42a6@823c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patogê Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Inverno 27 - 1ª entrega\; Estilo\; Desenvolvimento
+DTEND:20260506T025959Z
+DTSTART:20260505T030000Z
+SUMMARY:Limite Entrega Desenhos Patogê Inverno 27 (Grupo 1\, 2 e 3)
+UID:a94e96bc-0970-409a-af31-2907b8befd10@a94e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Envio do Mostruário 1ª entrega Patogê Inverno 27 para os representantes\; Patogê\; Inverno 27 - 1ª entrega\; Expedição\; Mostruário
+DTEND:20260916T025959Z
+DTSTART:20260915T030000Z
+SUMMARY:Envio Mostruário 1ª entrega Patogê Inverno 27
+UID:e4be4e74-da44-4f04-be9e-1da753eb13a8@e4be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 10 Patogê Verão 28\;\; Patogê\; Verão 28 - 2ª entrega\; Expedição\; Produção
+DTEND:20271002T025959Z
+DTSTART:20271001T030000Z
+SUMMARY:Expedição Grupo 10 Patogê Verão 28
+UID:4a2ce097-4a34-4d07-a988-7e6740cab968@4a2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Verão 28 1ª entrega\, preferencialmente todas as peças do grupo 9\; Patogê\; Verão 28 - 1ª entrega\; Banca\; Desenvolvimento
+DTEND:20270112T025959Z
+DTSTART:20270111T030000Z
+SUMMARY:Última Banca Patogê Verão 28 1ª entrega (Grupo 9)
+UID:1d7aec6f-8c3a-4129-8e61-17e17d02d078@1d7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Patogê Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Acabamento Dsv.\; Desenvolvimento
+DTEND:20260603T025959Z
+DTSTART:20260602T030000Z
+SUMMARY:Acabamento Pilotos Patogê Inverno 27 (Grupo 1\, 2 e 3)
+UID:192ba87c-f5ab-4524-971c-380266617524@192b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patogê Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 27 - 1ª entrega\; Estilo\; Desenvolvimento
+DTEND:20251104T025959Z
+DTSTART:20251103T030000Z
+SUMMARY:Limite Entrega Desenhos Patogê Verão 27 (Grupo 7\, 8 e 9)
+UID:93d923c8-2088-40e4-866f-2955df075d2e@93d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Mostruário 1ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Corte\; Mostruário
+DTEND:20260228T025959Z
+DTSTART:20260227T030000Z
+SUMMARY:Corte Mostruário 1ª entrega Patogê Verão 27
+UID:51d379c0-cb39-420a-bb3d-ab54df1cd2da@51d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 09 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Corte\; Produção
+DTEND:20260516T025959Z
+DTSTART:20260515T030000Z
+SUMMARY:Corte Grupo 09 Patogê Verão 27
+UID:41aca24b-46e7-4a39-94bd-02532e49eb64@41ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Patogê Verão 28\; Patogê\; Verão 28 - 1ª entrega\; Acabamento Dsv.\; Desenvolvimento
+DTEND:20261208T025959Z
+DTSTART:20261207T030000Z
+SUMMARY:Acabamento Pilotos Patogê Verão 28 (Grupo 7\, 8 e 9)
+UID:460cdbd2-c3f2-466f-bb60-27df80d42395@460c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patogê Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Inverno 27 - 1ª entrega\; Estilo\; Desenvolvimento
+DTEND:20260310T025959Z
+DTSTART:20260309T030000Z
+SUMMARY:Entrega Desenhos Patogê Inverno 27 (Grupo 1\, 2 e 3)
+UID:e5421213-91a5-410c-b629-1a38670bd8d9@e542.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Mostruário 1ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Corte\; Mostruário
+DTEND:20270216T025959Z
+DTSTART:20270215T030000Z
+SUMMARY:Corte Mostruário 1ª entrega Patogê Verão 28
+UID:ed8e0737-fcb0-4d9c-b9c1-4452c5a2ac5f@ed8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Mostruário 1ª entrega Patogê Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Expedição\; Mostruário
+DTEND:20260905T025959Z
+DTSTART:20260904T030000Z
+SUMMARY:Expedição Mostruário 1ª entrega Patogê Inverno 27
+UID:13a664aa-d9d2-48a3-90a7-971c9d3eda22@13a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patogê Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Inverno 27 - 2ª entrega\; Estilo\; Desenvolvimento
+DTEND:20260609T025959Z
+DTSTART:20260608T030000Z
+SUMMARY:Entrega Desenhos Patogê Inverno 27 (Grupo 04 e 05)
+UID:325dc060-cdf4-4b60-ace8-51e92fec727d@325d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patogê Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 27 - 2ª entrega\; Estilo\; Desenvolvimento
+DTEND:20251118T025959Z
+DTSTART:20251117T030000Z
+SUMMARY:Entrega Desenhos Patogê Verão 27 (Grupo 10 e 11)
+UID:dd89158b-c00e-489f-82fc-9abb3adde038@dd89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Mostruário 1ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Costura\; Mostruário
+DTEND:20270223T025959Z
+DTSTART:20270222T030000Z
+SUMMARY:Costura Jeans Mostruário 1ª entrega Patogê Verão 28
+UID:1d60dacf-d3df-4e4b-aa17-2bccbc022b2f@1d60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Envio do Mostruário 1ª entrega Patogê Verão 28 para os representantes\; Patogê\; Verão 28 - 1ª entrega\; Expedição\; Mostruário
+DTEND:20270318T025959Z
+DTSTART:20270317T030000Z
+SUMMARY:Envio Mostruário 1ª entrega Patogê Verão 28
+UID:213f1591-7683-47df-ae2b-d150a4da74ac@213f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Patogê Verão 28\; Patogê\; Verão 28 - 2ª entrega\; Modelagem\; Desenvolvimento
+DTEND:20270129T025959Z
+DTSTART:20270128T030000Z
+SUMMARY:Modelagem Patogê Verão 28 (Grupo 10 e 11)
+UID:aedd0fcf-a468-404e-8acb-d7cdf50e6e31@aedd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de mostruário da Patogê Verão 28 grupo 10 e 11\; Patogê\; Verão 28 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20270515T025959Z
+DTSTART:20270514T030000Z
+SUMMARY:Liberação Mostruário Patogê Verão 28 (Grupo 10 e 11)
+UID:8177c7c8-7ea7-4341-8b5a-fbbeb70dff60@8177.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento da 2ª entrega Patogê Verão 28 no Showroom\; Patogê\; Verão 28 - 2ª entrega\; Comercial\; Mostruário
+DTEND:20270720T025959Z
+DTSTART:20270719T030000Z
+SUMMARY:Lançamento Showroom 2ª entrega Patogê Verão 28
+UID:c18b298e-8e66-4b9f-ba7b-102b8d212704@c18b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 2ª entrega que foram na ultima banca\; Patogê\; Verão 28 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20270310T025959Z
+DTSTART:20270309T030000Z
+SUMMARY:Prova Patogê Verão 28 2ª entrega (Grupo 11)
+UID:abe09cc9-b84e-449e-83fd-c56e04d3ef9d@abe0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Corte\; Produção
+DTEND:20260708T025959Z
+DTSTART:20260707T030000Z
+SUMMARY:Corte Grupo 11 Patogê Verão 27
+UID:79d8ea01-777a-42e5-b729-d74b66d16d1f@79d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
+DTEND:20261002T025959Z
+DTSTART:20261001T030000Z
+SUMMARY:Costura Moda Jeans Grupo 02 Patogê Inverno 27
+UID:56971ead-05b2-4869-984f-1f1aaaf88208@5697.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Lavanderia\; Produção
+DTEND:20260904T025959Z
+DTSTART:20260903T030000Z
+SUMMARY:Lavanderia Grupo 11 Patogê Verão 27
+UID:051f0a90-d938-4688-97d2-b662bffa57fe@051f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Expedição\; Produção
+DTEND:20270304T025959Z
+DTSTART:20270303T030000Z
+SUMMARY:Expedição Grupo 03 Patogê Inverno 27
+UID:e772f8cb-7565-43fa-9971-097e63d1c74f@e772.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Verão 28 2ª entrega\, preferencialmente todas as peças do grupo 11\; Patogê\; Verão 28 - 2ª entrega\; Banca\; Desenvolvimento
+DTEND:20270303T025959Z
+DTSTART:20270302T030000Z
+SUMMARY:Última Banca Patogê Verão 28 2ª entrega (Grupo 11)
+UID:aa7ef75c-303d-488a-96b4-e8b7a5fea083@aa7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 11 Patogê Verão 28\; Patogê\; Verão 28 - 2ª entrega\; Expedição\; Produção
+DTEND:20271102T025959Z
+DTSTART:20271101T030000Z
+SUMMARY:Expedição Grupo 11 Patogê Verão 28
+UID:b86c6301-e38b-4de9-8daf-28ab07adb479@b86c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Mostruário 2ª entrega Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Costura\; Mostruário
+DTEND:20251118T025959Z
+DTSTART:20251117T030000Z
+SUMMARY:Costura Mostruário 2ª entrega Patoge Inverno 26
+UID:0d75ad75-353e-4abb-a061-9f4e7a3ce8b2@0d75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patogê Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 27 - 1ª entrega\; Estilo\; Desenvolvimento
+DTEND:20250909T025959Z
+DTSTART:20250908T030000Z
+SUMMARY:Entrega Desenhos Patogê Verão 27 (Grupo 7\, 8 e 9)
+UID:00d80f67-8002-4746-bdd0-916b92fe0cc9@00d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento da 1ª entrega Patogê Inverno 27 no Showroom\; Patogê\; Inverno 27 - 1ª entrega\; Comercial\; Mostruário
+DTEND:20261007T025959Z
+DTSTART:20261006T030000Z
+SUMMARY:Lançamento Showroom 1ª entrega Patogê Inverno 27
+UID:bae91ab7-ccc1-434f-a347-fcffb0e7b69e@bae9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Patogê Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Pilotagem\; Desenvolvimento
+DTEND:20260520T025959Z
+DTSTART:20260519T030000Z
+SUMMARY:Pilotagem Patogê Inverno 27 (Grupo 1\, 2 e 3)
+UID:9c115b27-f10d-4882-8b0f-2d7154398c8a@9c11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 1ª entrega que foram na primeira banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20260513T025959Z
+DTSTART:20260512T030000Z
+SUMMARY:Prova Patogê Inverno 27 1ª entrega (Grupo 1)
+UID:b4f28862-5c74-48bb-a11f-2839d0e72492@b4f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Acabamento\; Produção
+DTEND:20270325T025959Z
+DTSTART:20270324T030000Z
+SUMMARY:Acabamento Grupo 04 Patogê Inverno 27
+UID:2e3e8e33-ef95-49f7-8075-588496197b9a@2e3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patogê Verão 28. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 28 - 1ª entrega\; Estilo\; Desenvolvimento
+DTEND:20261106T025959Z
+DTSTART:20261105T030000Z
+SUMMARY:Limite Entrega Desenhos Patogê Verão 28 (Grupo 7\, 8 e 9)
+UID:c75c186d-1341-4d33-b64a-f7731b3ace01@c75c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 10\; Patogê\; Verão 27 - 2ª entrega\; Banca\; Desenvolvimento
+DTEND:20260210T025959Z
+DTSTART:20260209T030000Z
+SUMMARY:Primeira Banca Patogê Verão 27 1ª entrega (Grupo 10)
+UID:9bf1ebd8-b33b-4102-92ce-68dde2bdf576@9bf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Inverno 27 2ª entrega\, preferencialmente todas as peças do Grupo 05\; Patogê\; Inverno 27 - 2ª entrega\; Banca\; Desenvolvimento
+DTEND:20260826T025959Z
+DTSTART:20260825T030000Z
+SUMMARY:Última Banca Patogê Inverno 27 2ª entrega (Grupo 05)
+UID:d1549a61-d885-4a16-a796-7d6df95a9fe0@d154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Patogê Verão 27\; Patogê\; Verão 27 - 2ª entrega\; Pilotagem\; Desenvolvimento
+DTEND:20260210T025959Z
+DTSTART:20260209T030000Z
+SUMMARY:Pilotagem Patogê Verão 27 (Grupo 10 e 11)
+UID:a7c5de1a-1cf4-4126-be5a-f1edc21dd583@a7c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Mostruário 1ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Mostruário
+DTEND:20260307T025959Z
+DTSTART:20260306T030000Z
+SUMMARY:Costura Jeans Mostruário 1ª entrega Patogê Verão 27
+UID:5c76f579-1643-4899-bd3a-2a93a1b99b20@5c76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
+DTEND:20260527T025959Z
+DTSTART:20260526T030000Z
+SUMMARY:Costura Moda Jeans Grupo 08 Patogê Verão 27
+UID:411f1ee1-f82d-421a-8f27-56150137cbe2@411f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Patogê Inverno 27\; Patogê\; Inverno 27 - 2ª entrega\; Modelagem\; Desenvolvimento
+DTEND:20260729T025959Z
+DTSTART:20260728T030000Z
+SUMMARY:Modelagem Patogê Inverno 27 (Grupo 04 e 05)
+UID:23877fab-a51b-438d-abbd-0db06ad3bbeb@2387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Mostruário 2ª entrega Patoge Inverno 26\;\; Patogê\; Inverno 26 - 2ª entrega\; Lavanderia\; Mostruário
+DTEND:20251126T025959Z
+DTSTART:20251125T030000Z
+SUMMARY:Lavanderia Mostruário 2ª entrega Patoge Inverno 26
+UID:fa80d9c6-df50-4d16-a1b8-6862c4afa0f1@fa80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 08 Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Expedição\; Produção
+DTEND:20270803T025959Z
+DTSTART:20270802T030000Z
+SUMMARY:Expedição Grupo 08 Patogê Verão 28
+UID:40b1af19-cbc5-45e8-8b5e-0fe6ec434dbe@40b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Produção
+DTEND:20260806T025959Z
+DTSTART:20260805T030000Z
+SUMMARY:Costura Jeans Grupo 11 Patogê Verão 27
+UID:0aad8215-5dff-44e1-8afa-76b2259403bd@0aad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 09 Patogê Verão 28\;\; Patogê\; Verão 28 - 1ª entrega\; Expedição\; Produção
+DTEND:20270902T025959Z
+DTSTART:20270901T030000Z
+SUMMARY:Expedição Grupo 09 Patogê Verão 28
+UID:8a7f0873-f309-4ab4-b372-6299418b595a@8a7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Inverno 26 Grupo 04\; Patogê\; Inverno 26 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20251024T025959Z
+DTSTART:20251023T030000Z
+SUMMARY:Liberação Lacre Vermelho Patoge Inverno 26 (Grupo 04)
+UID:14f61570-3067-45d5-90ff-510e32d6fe5a@14f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Acabamento\; Produção
+DTEND:20270112T025959Z
+DTSTART:20270111T030000Z
+SUMMARY:Acabamento Grupo 02 Patogê Inverno 27
+UID:15b2cba3-ccb8-4ebd-b52d-bab9c19f86c6@15b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Mostruário 2ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Corte\; Mostruário
+DTEND:20261106T025959Z
+DTSTART:20261105T030000Z
+SUMMARY:Corte Mostruário 2ª entrega Patogê Inverno 27
+UID:3bd5e484-33da-4d97-a901-a34f7020772d@3bd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Patogê Verão 28\; Patogê\; Verão 28 - 2ª entrega\; Lavanderia Dsv. \; Desenvolvimento
+DTEND:20270216T025959Z
+DTSTART:20270215T030000Z
+SUMMARY:Lavanderia Pilotos Patogê Verão 28 (Grupo 10 e 11)
+UID:1341b7f3-513e-429b-8f42-20af977f03a3@1341.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de mostruário da Patoge Inverno 26 Grupo 04 e 05\; Patogê\; Inverno 26 - 2ª entrega\; PCP\; Mostruário
+DTEND:20251104T025959Z
+DTSTART:20251103T030000Z
+SUMMARY:Liberação Mostruário Patoge Inverno 26 (Grupo 04 e 05)
+UID:38443703-cb45-495a-bc19-25c08813cb40@3844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Mostruário 1ª entrega Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Acabamento\; Mostruário
+DTEND:20260321T025959Z
+DTSTART:20260320T030000Z
+SUMMARY:Acabamento Mostruário 1ª entrega Patogê Verão 27
+UID:26fa8715-3838-4898-8591-c9d57a2981d7@26fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Produção
+DTEND:20260815T025959Z
+DTSTART:20260814T030000Z
+SUMMARY:Costura Moda Grupo 10 Patogê Verão 27
+UID:8a18c4f1-8477-4360-8446-101e93df4775@8a18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento da 2ª entrega Patogê Verão 27 no Showroom\; Patogê\; Verão 27 - 2ª entrega\; Comercial\; Mostruário
+DTEND:20260714T025959Z
+DTSTART:20260713T030000Z
+SUMMARY:Lançamento Showroom 2ª entrega Patogê Verão 27
+UID:e2d333ad-5d3a-4aed-b643-23ffcef0a7d4@e2d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Patogê Verão 28\; Patogê\; Verão 28 - 1ª entrega\; Lavanderia Dsv. \; Desenvolvimento
+DTEND:20261201T025959Z
+DTSTART:20261130T030000Z
+SUMMARY:Lavanderia Pilotos Patogê Verão 28 (Grupo 7\, 8 e 9)
+UID:f508d46e-88a2-4573-9989-39bfdd23d75e@f508.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Lavanderia\; Produção
+DTEND:20261204T025959Z
+DTSTART:20261203T030000Z
+SUMMARY:Lavanderia Grupo 03 Patogê Inverno 27
+UID:b2f2c517-e108-4007-9336-548e9ec20e3a@b2f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Mostruário 2ª entrega Patogê Verão 28\;\; Patogê\; Verão 28 - 2ª entrega\; Corte\; Mostruário
+DTEND:20270522T025959Z
+DTSTART:20270521T030000Z
+SUMMARY:Corte Mostruário 2ª entrega Patogê Verão 28
+UID:e7e76776-1260-433a-9943-2c29dfbc0885@e7e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 03 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
+DTEND:20261204T025959Z
+DTSTART:20261203T030000Z
+SUMMARY:Costura Moda Grupo 03 Patogê Inverno 27
+UID:9089b8a6-d57a-4f8f-96a2-a4be3d6f78f8@9089.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Corte\; Produção
+DTEND:20260909T025959Z
+DTSTART:20260908T030000Z
+SUMMARY:Corte Grupo 02 Patogê Inverno 27
+UID:8970af3c-8d3c-4d56-9e65-8056ae383903@8970.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 28 grupo 11\; Patogê\; Verão 28 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20270625T025959Z
+DTSTART:20270624T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Verão 28 (Grupo 11)
+UID:b8a3e1e1-aba6-456d-a6fb-6dcafc7e7beb@b8a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Patogê Verão 27\; Patogê\; Verão 27 - 1ª entrega\; Modelagem\; Desenvolvimento
+DTEND:20251111T025959Z
+DTSTART:20251110T030000Z
+SUMMARY:Modelagem Patogê Verão 27 (Grupo 7\, 8 e 9)
+UID:e157451f-b3de-4c92-9b18-d8135ac2ef25@e157.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Mostruário 1ª entrega Patogê Verão 28\; Patogê\; Verão 28 - 1ª entrega\; Expedição\; Mostruário
+DTEND:20270317T025959Z
+DTSTART:20270316T030000Z
+SUMMARY:Expedição Mostruário 1ª entrega Patogê Verão 28
+UID:95998df8-ea43-4309-981e-acfe411a3278@9599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fotos do Mostruário 2ª entrega Patoge Inverno 26\; Patogê\; Inverno 26 - 2ª entrega\; Expedição\; Mostruário
+DTEND:20251218T025959Z
+DTSTART:20251217T030000Z
+SUMMARY:Fotografia Mostruário 2ª entrega Patoge Inverno 26
+UID:e8d56ff9-b6b3-4c0d-a1b8-04053a83d5f1@e8d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Inverno 27 1ª entrega\, preferencialmente todas as peças do grupo 3\; Patogê\; Inverno 27 - 1ª entrega\; Banca\; Desenvolvimento
+DTEND:20260617T025959Z
+DTSTART:20260616T030000Z
+SUMMARY:Última Banca Patogê Inverno 27 1ª entrega (Grupo 3)
+UID:83b8d5f4-b38d-480c-b6bd-f5f159cc2dbe@83b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Expedição\; Produção
+DTEND:20270106T025959Z
+DTSTART:20270105T030000Z
+SUMMARY:Expedição Grupo 01 Patogê Inverno 27
+UID:5526762f-8b1e-44a7-a143-6cb29b763071@5526.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Lavanderia\; Produção
+DTEND:20261001T025959Z
+DTSTART:20260930T030000Z
+SUMMARY:Lavanderia Grupo 01 Patogê Inverno 27
+UID:9a1bcf0f-e38d-479d-8556-d05204f63d57@9a1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Verão 27 1ª entrega\, preferencialmente todas as peças do grupo 11\; Patogê\; Verão 27 - 2ª entrega\; Banca\; Desenvolvimento
+DTEND:20260307T025959Z
+DTSTART:20260306T030000Z
+SUMMARY:Última Banca Patogê Verão 27 1ª entrega (Grupo 11)
+UID:5340e67c-ab92-401f-b013-e91c71d11bd2@5340.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Lavanderia\; Produção
+DTEND:20261104T025959Z
+DTSTART:20261103T030000Z
+SUMMARY:Lavanderia Grupo 02 Patogê Inverno 27
+UID:1b2a5d91-0584-44db-8597-5ed5c1656fe3@1b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Patoge Inverno 26\; Patogê\; Inverno 26 - 2ª entrega\; Modelagem\; Desenvolvimento
+DTEND:20250709T025959Z
+DTSTART:20250708T030000Z
+SUMMARY:Modelagem Patoge Inverno 26 (Grupo 04 e 05)
+UID:78cbec79-660b-456d-94b9-691813c2bd2f@78cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Acabamento\; Produção
+DTEND:20260922T025959Z
+DTSTART:20260921T030000Z
+SUMMARY:Acabamento Grupo 10 Patogê Verão 27
+UID:b54c05f1-25fc-4a87-9558-464c5b555d13@b54c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Patogê Inverno 27\; Patogê\; Inverno 27 - 2ª entrega\; Pilotagem\; Desenvolvimento
+DTEND:20260805T025959Z
+DTSTART:20260804T030000Z
+SUMMARY:Pilotagem Patogê Inverno 27 (Grupo 04 e 05)
+UID:4c01d818-cd22-4d38-83f0-da4c1dcdada9@4c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Acabamento\; Produção
+DTEND:20260724T025959Z
+DTSTART:20260723T030000Z
+SUMMARY:Acabamento Grupo 08 Patogê Verão 27
+UID:d7076ccf-4be2-47db-a152-09e0c37e2af8@d707.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Inverno 27 Grupo 04\; Patogê\; Inverno 27 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20261028T025959Z
+DTSTART:20261027T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Inverno 27 (Grupo 04)
+UID:613bad9a-6d61-4e19-8b6d-a3e88655dde5@613b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patoge Inverno 26 Grupo 05\; Patogê\; Inverno 26 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20251122T025959Z
+DTSTART:20251121T030000Z
+SUMMARY:Liberação Lacre Vermelho Patoge Inverno 26 (Grupo 05)
+UID:3c5512aa-9d60-4a30-b520-fc145d9c372e@3c55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 27 grupo 10\; Patogê\; Verão 27 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20260522T025959Z
+DTSTART:20260521T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Verão 27 (Grupo 10)
+UID:46510b68-ba4a-4732-803d-b6f8a4c25dfc@4651.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 2ª entrega que foram na ultima banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20260902T025959Z
+DTSTART:20260901T030000Z
+SUMMARY:Prova Patogê Inverno 27 2ª entrega (Grupo 5)
+UID:6febaddc-b931-4ba3-8a1d-85fc2ca737ef@6feb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Costura\; Produção
+DTEND:20260425T025959Z
+DTSTART:20260424T030000Z
+SUMMARY:Costura Jeans Grupo 07 Patogê Verão 27
+UID:ddf0fd2c-438b-410e-8f79-40558b03d0f3@ddf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 07 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Corte\; Produção
+DTEND:20260312T025959Z
+DTSTART:20260311T030000Z
+SUMMARY:Corte Grupo 07 Patogê Verão 27
+UID:3e259727-2835-4b5f-8cf3-e3d662df4ef0@3e25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Inverno 27 1ª entrega que foram na segunda banca\; Patogê\; Inverno 27 - 2ª entrega\; Prova\; Desenvolvimento
+DTEND:20260529T025959Z
+DTSTART:20260528T030000Z
+SUMMARY:Prova Patogê Inverno 27 1ª entrega (Grupo 2)
+UID:373fb51c-9add-460a-8269-61687441121e@373f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Patogê Verão 27\; Patogê\; Verão 27 - 2ª entrega\; Acabamento Dsv.\; Desenvolvimento
+DTEND:20260228T025959Z
+DTSTART:20260227T030000Z
+SUMMARY:Acabamento Pilotos Patogê Verão 27 (Grupo 10 e 11)
+UID:02dc3df0-2de0-424d-bdcb-b76425f13fe5@02dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
+DTEND:20261001T025959Z
+DTSTART:20260930T030000Z
+SUMMARY:Costura Moda Grupo 01 Patogê Inverno 27
+UID:bfa402eb-6d81-4743-88ca-84ad9e2217cd@bfa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Mostruário 2ª entrega Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Acabamento\; Mostruário
+DTEND:20261201T025959Z
+DTSTART:20261130T030000Z
+SUMMARY:Acabamento Mostruário 2ª entrega Patogê Inverno 27
+UID:11819e9a-c8fc-4714-ab32-4e9b1d874bb9@1181.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Patogê Verão 28\; Patogê\; Verão 28 - 1ª entrega\; Pilotagem\; Desenvolvimento
+DTEND:20261120T025959Z
+DTSTART:20261119T030000Z
+SUMMARY:Pilotagem Patogê Verão 28 (Grupo 7\, 8 e 9)
+UID:818b49b9-9b82-4b57-8dea-9c50177b9c13@818b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patogê Verão 28. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 28 - 2ª entrega\; Estilo\; Desenvolvimento
+DTEND:20261117T025959Z
+DTSTART:20261116T030000Z
+SUMMARY:Entrega Desenhos Patogê Verão 28 (Grupo 10 e 11)
+UID:d40a79c0-eba1-478c-be64-333e805acb9e@d40a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Patogê Verão 27\; Patogê\; Verão 27 - 2ª entrega\; Lavanderia Dsv. \; Desenvolvimento
+DTEND:20260221T025959Z
+DTSTART:20260220T030000Z
+SUMMARY:Lavanderia Pilotos Patogê Verão 27 (Grupo 10 e 11)
+UID:71bbeb3d-5b2f-4635-a986-679ef30df3a8@71bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Lavanderia\; Produção
+DTEND:20270224T025959Z
+DTSTART:20270223T030000Z
+SUMMARY:Lavanderia Grupo 05 Patogê Inverno 27
+UID:9af3b8a3-00be-4887-9abd-05fab01f3491@9af3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Verão 28 grupo 08\; Patogê\; Verão 28 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20270325T025959Z
+DTSTART:20270324T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Verão 28 (Grupo 08)
+UID:8d9e31b7-16c0-4f1b-8425-16ba669127fe@8d9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Patogê Inverno 27 1ª entrega\, preferencialmente todas as peças do grupo 2\; Patogê\; Inverno 27 - 1ª entrega\; Banca\; Desenvolvimento
+DTEND:20260527T025959Z
+DTSTART:20260526T030000Z
+SUMMARY:Segunda Banca Patogê Inverno 27 1ª entrega (Grupo 2)
+UID:74d48b51-9710-4d9d-8786-135aa9fa5149@74d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de mostruário da Patogê Inverno 27 Grupo 04 e 05\; Patogê\; Inverno 27 - 2ª entrega\; PCP\; Desenvolvimento
+DTEND:20261029T025959Z
+DTSTART:20261028T030000Z
+SUMMARY:Liberação Mostruário Patogê Inverno 27 (Grupo 04 e 05)
+UID:39ce5f37-b5aa-4415-9a4f-9749397b5805@39ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova de metade das peças piloto da Patogê Verão 28 1ª entrega que foram na segunda banca\; Patogê\; Verão 28 - 1ª entrega\; Prova\; Desenvolvimento
+DTEND:20261208T025959Z
+DTSTART:20261207T030000Z
+SUMMARY:Prova Patogê Verão 28 1ª entrega (Grupo 8)
+UID:74a93c61-699c-49de-8678-2515c0563e87@74a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fotos do Mostruário 2ª entrega Patogê Verão 27\; Patogê\; Verão 27 - 2ª entrega\; Marketing\; Mostruário
+DTEND:20260624T025959Z
+DTSTART:20260623T030000Z
+SUMMARY:Fotografia Mostruário 2ª entrega Patogê Verão 27
+UID:a10f983c-c069-4490-929f-6c383a5327a1@a10f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 02 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
+DTEND:20261002T025959Z
+DTSTART:20261001T030000Z
+SUMMARY:Costura Jeans Grupo 02 Patogê Inverno 27
+UID:b6066c6d-b4b3-423d-bc20-44622b05b524@b606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 01 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 1ª entrega\; Costura\; Produção
+DTEND:20260901T025959Z
+DTSTART:20260831T030000Z
+SUMMARY:Costura Jeans Grupo 01 Patogê Inverno 27
+UID:e6bbf91c-ca6d-45da-ad91-bd7b23cbf114@e6bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 10 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Lavanderia\; Produção
+DTEND:20260815T025959Z
+DTSTART:20260814T030000Z
+SUMMARY:Lavanderia Grupo 10 Patogê Verão 27
+UID:7a9d7eca-3a45-435f-a127-48ce223acbbb@7a9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Patoge Inverno 26\; Patogê\; Inverno 26 - 2ª entrega\; Acabamento Dsv.\; Desenvolvimento
+DTEND:20250730T025959Z
+DTSTART:20250729T030000Z
+SUMMARY:Acabamento Pilotos Patoge Inverno 26 (Grupo 04 e 05)
+UID:6bfb890f-bbd3-441a-9b75-d5ae364e7566@6bfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 08 Patogê Verão 27\;\; Patogê\; Verão 27 - 1ª entrega\; Lavanderia\; Produção
+DTEND:20260625T025959Z
+DTSTART:20260624T030000Z
+SUMMARY:Lavanderia Grupo 08 Patogê Verão 27
+UID:5622be53-defb-453f-842d-a6267273e708@5622.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Produção
+DTEND:20261203T025959Z
+DTSTART:20261202T030000Z
+SUMMARY:Costura Jeans Grupo 04 Patogê Inverno 27
+UID:7d6a57b4-9e58-44af-bce3-d87f7288c7b5@7d6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Patogê Verão 28. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Patogê\; Verão 28 - 1ª entrega\; Estilo\; Desenvolvimento
+DTEND:20260909T025959Z
+DTSTART:20260908T030000Z
+SUMMARY:Entrega Desenhos Patogê Verão 28 (Grupo 7\, 8 e 9)
+UID:8c09dd21-db1c-4a27-9c40-0f6405475441@8c09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Patoge Inverno 26\; Patogê\; Inverno 26 - 2ª entrega\; Lavanderia Dsv.\; Desenvolvimento
+DTEND:20250723T025959Z
+DTSTART:20250722T030000Z
+SUMMARY:Lavanderia Pilotos Patoge Inverno 26 (Grupo 04 e 05)
+UID:d56f14b8-169d-45c5-8412-a6bff95edb19@d56f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 11 Patogê Verão 27\;\; Patogê\; Verão 27 - 2ª entrega\; Costura\; Produção
+DTEND:20260904T025959Z
+DTSTART:20260903T030000Z
+SUMMARY:Costura Moda Grupo 11 Patogê Verão 27
+UID:35464089-ad80-4714-a6ac-d6f431d5292f@3546.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Costura\; Produção
+DTEND:20261203T025959Z
+DTSTART:20261202T030000Z
+SUMMARY:Costura Moda Jeans Grupo 04 Patogê Inverno 27
+UID:14636127-336b-4d70-b976-b696cae42b18@1463.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 04 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Lavanderia\; Produção
+DTEND:20270126T025959Z
+DTSTART:20270125T030000Z
+SUMMARY:Lavanderia Grupo 04 Patogê Inverno 27
+UID:3c74ed54-e22a-4488-a61f-acff62a28aa6@3c74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Patogê Verão 28\; Patogê\; Verão 28 - 2ª entrega\; Pilotagem\; Desenvolvimento
+DTEND:20270205T025959Z
+DTSTART:20270204T030000Z
+SUMMARY:Pilotagem Patogê Verão 28 (Grupo 10 e 11)
+UID:b4dbfd3d-613e-44f0-91e6-bb70745a83b9@b4db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Patogê Inverno 27\; Patogê\; Inverno 27 - 1ª entrega\; Lavanderia Dsv. \; Desenvolvimento
+DTEND:20260527T025959Z
+DTSTART:20260526T030000Z
+SUMMARY:Lavanderia Pilotos Patogê Inverno 27 (Grupo 1\, 2 e 3)
+UID:b6e853c0-b12a-497c-91da-17fd64cd1377@b6e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Patogê Inverno 27 Grupo 02\; Patogê\; Inverno 27 - 1ª entrega\; PCP\; Desenvolvimento
+DTEND:20260818T025959Z
+DTSTART:20260817T030000Z
+SUMMARY:Liberação Lacre Vermelho Patogê Inverno 27 (Grupo 02)
+UID:1265ad59-7be3-4842-9c03-6977404efa31@1265.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 05 Patogê Inverno 27\;\; Patogê\; Inverno 27 - 2ª entrega\; Expedição\; Produção
+DTEND:20270505T025959Z
+DTSTART:20270504T030000Z
+SUMMARY:Expedição Grupo 05 Patogê Inverno 27
+UID:958f730c-1310-4668-a02c-1e82a7244821@958f.org
 END:VEVENT
 END:VCALENDAR
