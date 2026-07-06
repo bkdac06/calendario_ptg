@@ -2,1235 +2,1235 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Corte\; Produção
-DTEND:20260909T025959Z
-DTSTART:20260908T030000Z
-SUMMARY:Corte Grupo 02 Noven Inverno 27
-UID:db00b88f-d196-4267-b0ef-285bd0a75674@db00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Verão 28\; Noven\; Verão 28\; Banca\; Desenvolvimento
-DTEND:20270120T025959Z
-DTSTART:20270119T030000Z
-SUMMARY:Segunda Banca Noven Verão 28
-UID:9431dd7d-a7ef-4baf-8e66-0f0ffb72decc@9431.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 10 Noven Verão 28\; Noven\; Verão 28\; Expedição\; Produção
-DTEND:20271002T025959Z
-DTSTART:20271001T030000Z
-SUMMARY:Expedição Grupo 10 Noven Verão 28
-UID:5d9c5757-a702-4ce5-9b91-696387eb013d@5d9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Corte\; Produção
-DTEND:20250916T025959Z
-DTSTART:20250915T030000Z
-SUMMARY:Corte Grupo 02 Noven Inverno 26
-UID:1f5e0275-7899-43c5-a63e-1e07c3d5f6fc@1f5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 01\; Noven\; Inverno 27\; PCP\; Desenvolvimento
-DTEND:20260714T025959Z
-DTSTART:20260713T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 01)
-UID:e81c457f-bb84-479e-b50d-0cff15500390@e81c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260815T025959Z
-DTSTART:20260814T030000Z
-SUMMARY:Costura Moda Grupo 10 Noven Verão 27
-UID:38aea0f4-e543-4b0e-8847-741054108f9f@38ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 01\; Noven\; Inverno 27\; Comercial\; Produto Acabado
-DTEND:20270120T025959Z
-DTSTART:20270119T030000Z
-SUMMARY:Lançamento Noven Grupo 01
-UID:c17f3487-51f7-4a40-8597-4677f97186d7@c17f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Acabamento\; Produção
-DTEND:20260127T025959Z
-DTSTART:20260126T030000Z
-SUMMARY:Acabamento Grupo 02 Noven Inverno 26
-UID:aad64aef-57c9-44aa-85a9-58b92e61abaf@aad6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Lavanderia\; Produção
-DTEND:20270224T025959Z
-DTSTART:20270223T030000Z
-SUMMARY:Lavanderia Grupo 05 Noven Inverno 27
-UID:99957cb5-1d90-4800-b285-c51eab734267@9995.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 03\; Noven\; Inverno 27\; PCP\; Desenvolvimento
-DTEND:20260923T025959Z
-DTSTART:20260922T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 03)
-UID:9c49825e-56ac-4a9c-ba37-f86fd1b4451c@9c49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Expedição\; Produção
-DTEND:20260203T025959Z
-DTSTART:20260202T030000Z
-SUMMARY:Expedição Grupo 02 Noven Inverno 26
-UID:ec277c3b-13cd-434a-93a9-0f5a1363c02c@ec27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260625T025959Z
-DTSTART:20260624T030000Z
-SUMMARY:Costura Moda Grupo 08 Noven Verão 27
-UID:c5c99a53-e5e6-43da-bfa3-ef1ffcb57b97@c5c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Lavanderia\; Produção
-DTEND:20260526T025959Z
-DTSTART:20260525T030000Z
-SUMMARY:Lavanderia Grupo 07 Noven Verão 27
-UID:7db52657-07b1-416b-b2bc-b3381efdffb1@7db5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Lavanderia\; Produção
-DTEND:20261001T025959Z
-DTSTART:20260930T030000Z
-SUMMARY:Lavanderia Grupo 01 Noven Inverno 27
-UID:2dbe14c5-adc4-4878-91c8-108b76c15c62@2dbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fotos da Noven Verão 28\; Noven\; Verão 28\; Marketing\; Desenvolvimento
-DTEND:20270525T025959Z
-DTSTART:20270524T030000Z
-SUMMARY:Fotos Noven Verão 28
-UID:5bc0ba10-ebb3-4015-bb09-87cd17fb3020@5bc0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 05\; Noven\; Inverno 27\; PCP\; Desenvolvimento
 DTEND:20261201T025959Z
 DTSTART:20261130T030000Z
 SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 05)
-UID:89eb674d-613e-48a0-9fc6-093f166c2959@89eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20261002T025959Z
-DTSTART:20261001T030000Z
-SUMMARY:Costura Jeans Grupo 02 Noven Inverno 27
-UID:150b871f-fd22-40e9-b67f-68620b1046fa@150b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 09 Noven Verão 28\; Noven\; Verão 28\; Expedição\; Produção
-DTEND:20270902T025959Z
-DTSTART:20270901T030000Z
-SUMMARY:Expedição Grupo 09 Noven Verão 28
-UID:76066902-efcc-4956-b749-6d55f55bb11a@7606.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260806T025959Z
-DTSTART:20260805T030000Z
-SUMMARY:Costura Moda Jeans Grupo 11 Noven Verão 27
-UID:d77c7418-db9e-4d5f-8249-c2d7be5b0ceb@d77c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Noven Verão 28. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Noven\; Verão 28\; Estilo\; Desenvolvimento
-DTEND:20270129T025959Z
-DTSTART:20270128T030000Z
-SUMMARY:Limite Entrega Desenhos Noven Verão 28
-UID:e5c08212-76da-4b7a-9546-fd5058521820@e5c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 26 Grupo 05\; Noven\; Inverno 26\; PCP\; Desenvolvimento
-DTEND:20251122T025959Z
-DTSTART:20251121T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 26 (Grupo 05)
-UID:03e6ffaa-ee19-451f-98ef-625683bca3a9@03e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Noven Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Noven\; Verão 27\; Estilo\; Desenvolvimento
-DTEND:20250812T025959Z
-DTSTART:20250811T030000Z
-SUMMARY:Entrega Desenhos Noven Verão 27
-UID:487a5245-fabd-46c4-80d3-435fea08f04e@487a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Inverno 27\; Noven\; Inverno 27\; Banca\; Desenvolvimento
-DTEND:20260708T025959Z
-DTSTART:20260707T030000Z
-SUMMARY:Segunda Banca Noven Inverno 27
-UID:3544050d-4980-4d3a-a8fb-22fdbf33851a@3544.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Inverno 27\; Noven\; Inverno 27\; Banca\; Desenvolvimento
-DTEND:20260415T025959Z
-DTSTART:20260414T030000Z
-SUMMARY:Primeira Banca Noven Inverno 27
-UID:78dedc5e-9529-4f31-99d3-a8855fbccbb6@78de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20261030T025959Z
-DTSTART:20261029T030000Z
-SUMMARY:Costura Moda Jeans Grupo 03 Noven Inverno 27
-UID:125e2f76-d0c5-40bc-8763-1904c1f9b409@125e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Noven Verão 27\; Noven\; Verão 27\; Acabamento Dsv.\; Desenvolvimento
-DTEND:20260311T025959Z
-DTSTART:20260310T030000Z
-SUMMARY:Acabamento Pilotos Noven Verão 27
-UID:3963a348-6cf2-4a07-bd28-ec1b3eaa80b5@3963.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260526T025959Z
-DTSTART:20260525T030000Z
-SUMMARY:Costura Moda Grupo 07 Noven Verão 27
-UID:1d200e8e-d50c-4a3a-bd1d-9237de8498e8@1d20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Noven Verão 28.\; Noven\; Verão 28\; Pilotagem\; Desenvolvimento
-DTEND:20270216T025959Z
-DTSTART:20270215T030000Z
-SUMMARY:Pilotagem Noven Verão 28
-UID:1aa63628-c74e-4081-9e60-06215ff2d4d3@1aa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260806T025959Z
-DTSTART:20260805T030000Z
-SUMMARY:Costura Jeans Grupo 11 Noven Verão 27
-UID:4982324a-ad12-429f-8241-867769dac765@4982.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 28 grupo 10.\; Noven\; Verão 28\; PCP\; Desenvolvimento
-DTEND:20270527T025959Z
-DTSTART:20270526T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 28 (Grupo 10)
-UID:94a50dfa-6545-4845-aee7-e3a8d5caa822@94a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Noven Inverno 27\; Noven\; Inverno 27\; Modelagem\; Desenvolvimento
-DTEND:20260811T025959Z
-DTSTART:20260810T030000Z
-SUMMARY:Modelagem Noven Inverno 27
-UID:141a8911-0e53-42d1-81e0-f0985d9fe0a3@141a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Corte\; Produção
-DTEND:20260312T025959Z
-DTSTART:20260311T030000Z
-SUMMARY:Corte Grupo 07 Noven Verão 27
-UID:7fb2aeeb-a4f5-4c39-bed1-0e9291c22d3f@7fb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20261002T025959Z
-DTSTART:20261001T030000Z
-SUMMARY:Costura Moda Jeans Grupo 02 Noven Inverno 27
-UID:8e3731df-34c2-426b-b33c-83aeb546417b@8e37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 07\; Noven\; Verão 27\; Comercial\; Produto Acabado
-DTEND:20260715T025959Z
-DTSTART:20260714T030000Z
-SUMMARY:Lançamento Noven Grupo 07
-UID:b7018b18-bf78-497d-be1d-0a14471fafa5@b701.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260527T025959Z
-DTSTART:20260526T030000Z
-SUMMARY:Costura Moda Jeans Grupo 08 Noven Verão 27
-UID:48ef49f6-5f29-4018-b98d-a4ef16c0d8d8@48ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Acabamento\; Produção
-DTEND:20270427T025959Z
-DTSTART:20270426T030000Z
-SUMMARY:Acabamento Grupo 05 Noven Inverno 27
-UID:1f2ad8b3-425f-4233-b07a-cbb7af1b4a68@1f2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Acabamento\; Produção
-DTEND:20261016T025959Z
-DTSTART:20261015T030000Z
-SUMMARY:Acabamento Grupo 11 Noven Verão 27
-UID:fb44b845-e7f1-4656-871d-64dfcacc8d5e@fb44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Expedição\; Produção
-DTEND:20270403T025959Z
-DTSTART:20270402T030000Z
-SUMMARY:Expedição Grupo 04 Noven Inverno 27
-UID:8507e845-6c9c-4390-ba71-a6d8a41d3fbf@8507.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 02\; Noven\; Inverno 27\; Comercial\; Produto Acabado
-DTEND:20270224T025959Z
-DTSTART:20270223T030000Z
-SUMMARY:Lançamento Noven Grupo 02
-UID:8b09818b-a637-4f7f-bcbd-667200336863@8b09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Lavanderia\; Produção
-DTEND:20260904T025959Z
-DTSTART:20260903T030000Z
-SUMMARY:Lavanderia Grupo 11 Noven Verão 27
-UID:ec3507d8-003c-4c26-b4de-db76c6f2dbf4@ec35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20251204T025959Z
-DTSTART:20251203T030000Z
-SUMMARY:Costura Moda Grupo 02 Noven Inverno 26
-UID:386f429b-a4dc-4af6-a287-135bb07a51e1@386f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 02\; Noven\; Inverno 26\; Comercial\; Produto Acabado
-DTEND:20260304T025959Z
-DTSTART:20260303T030000Z
-SUMMARY:Lançamento Noven Grupo 02
-UID:7ea54d1e-541c-4267-9096-28f791f69d09@7ea5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Inverno 27\; Noven\; Inverno 27\; Banca\; Desenvolvimento
-DTEND:20260916T025959Z
-DTSTART:20260915T030000Z
-SUMMARY:Última Banca Noven Inverno 27
-UID:48ca01f8-c524-4e5b-b52c-c3ff6ada0dea@48ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Corte\; Produção
-DTEND:20260516T025959Z
-DTSTART:20260515T030000Z
-SUMMARY:Corte Grupo 09 Noven Verão 27
-UID:4b1b818d-bb91-4a67-8d8a-f7f87bc5bb50@4b1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Noven Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Noven\; Verão 27\; Estilo\; Desenvolvimento
-DTEND:20260205T025959Z
-DTSTART:20260204T030000Z
-SUMMARY:Limite Entrega Desenhos Noven Verão 27
-UID:392ea320-0171-4cb0-a7f5-11275028cca5@392e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20270120T025959Z
-DTSTART:20270119T030000Z
-SUMMARY:Costura Jeans Grupo 05 Noven Inverno 27
-UID:8a9fec6d-0ae7-478a-ac8b-b7ae91b5812e@8a9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Expedição\; Produção
-DTEND:20270106T025959Z
-DTSTART:20270105T030000Z
-SUMMARY:Expedição Grupo 01 Noven Inverno 27
-UID:fd1eeedf-6eb7-4680-ab01-2a98c3f7d4eb@fd1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 03. Bh à Porter\; Noven\; Inverno 27\; Comercial\; Produto Acabado
-DTEND:20270324T025959Z
-DTSTART:20270323T030000Z
-SUMMARY:Lançamento Noven Grupo 03
-UID:d23e4d7d-144d-4b2e-a3ad-cedc58371819@d23e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 03 BH Portet\; Noven\; Inverno 26\; Comercial\; Produto Acabado
-DTEND:20260318T025959Z
-DTSTART:20260317T030000Z
-SUMMARY:Lançamento Noven Grupo 03
-UID:15768233-c95e-4f80-84b2-6ea6e7920a4d@1576.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 09\; Noven\; Verão 27\; Comercial\; Produto Acabado
-DTEND:20260916T025959Z
-DTSTART:20260915T030000Z
-SUMMARY:Lançamento Noven Grupo 09
-UID:a9a477ef-d952-4350-96d6-c6f3e562e510@a9a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 04\; Noven\; Inverno 26\; Comercial\; Produto Acabado
-DTEND:20260415T025959Z
-DTSTART:20260414T030000Z
-SUMMARY:Lançamento Noven Grupo 04
-UID:21bf917f-25f1-4083-8b76-be1b2130dfdd@21bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Corte\; Produção
-DTEND:20260414T025959Z
-DTSTART:20260413T030000Z
-SUMMARY:Corte Grupo 08 Noven Verão 27
-UID:41806f16-0e69-466e-b0c3-9f9fafd9933e@4180.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Verão 28\; Noven\; Verão 28\; Banca\; Desenvolvimento
-DTEND:20261014T025959Z
-DTSTART:20261013T030000Z
-SUMMARY:Primeira Banca Noven Verão 28
-UID:74cc9152-d322-409c-aa02-8cfce172ed52@74cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 08. Bh à Porter\; Noven\; Verão 27\; Comercial\; Produto Acabado
-DTEND:20260805T025959Z
-DTSTART:20260804T030000Z
-SUMMARY:Lançamento Noven Grupo 08
-UID:85adc62b-8d13-4eac-93cc-cd8d66255d6f@85ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Acabamento\; Produção
-DTEND:20270325T025959Z
-DTSTART:20270324T030000Z
-SUMMARY:Acabamento Grupo 04 Noven Inverno 27
-UID:81304fae-3e22-4355-805c-c6be4c2de9aa@8130.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 28 grupo 07.\; Noven\; Verão 28\; PCP\; Desenvolvimento
-DTEND:20270220T025959Z
-DTSTART:20270219T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 28 (Grupo 07)
-UID:50431cfc-ebb5-4a5b-b1b0-777a5d152867@5043.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Noven Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial\; Noven\; Inverno 27\; Estilo\; Desenvolvimento
-DTEND:20260804T025959Z
-DTSTART:20260803T030000Z
-SUMMARY:Limite Entrega Desenhos Noven Inverno 27
-UID:e6e8100c-a14a-4416-90fb-89ffc716c891@e6e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 11\; Noven\; Verão 27\; PCP\; Desenvolvimento
-DTEND:20260617T025959Z
-DTSTART:20260616T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 11)
-UID:e51b0bcf-bb30-47fc-9e02-7c76bf64bd29@e51b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20260226T025959Z
-DTSTART:20260225T030000Z
-SUMMARY:Costura Moda Grupo 04 Noven Inverno 26
-UID:b84dff01-a89c-41f4-9e2f-b3895d212e97@b84d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Acabamento\; Produção
-DTEND:20260425T025959Z
-DTSTART:20260424T030000Z
-SUMMARY:Acabamento Grupo 05 Noven Inverno 26
-UID:53b1ac06-255f-44be-ab93-4703adda70c6@53b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Corte\; Produção
-DTEND:20260804T025959Z
-DTSTART:20260803T030000Z
-SUMMARY:Corte Grupo 01 Noven Inverno 27
-UID:38800159-9d66-4a5e-be8e-daf61f1da646@3880.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Expedição\; Produção
-DTEND:20260703T025959Z
-DTSTART:20260702T030000Z
-SUMMARY:Expedição Grupo 07 Noven Verão 27
-UID:4c09be37-59fb-49a8-99b5-af9a26d864e7@4c09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20261104T025959Z
-DTSTART:20261103T030000Z
-SUMMARY:Costura Moda Grupo 02 Noven Inverno 27
-UID:56c33441-1135-429e-8ad7-06c2ce949951@56c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Corte\; Produção
-DTEND:20250819T025959Z
-DTSTART:20250818T030000Z
-SUMMARY:Corte Grupo 01 Noven Inverno 26
-UID:3ecf755d-8e86-47da-b392-0543781e5694@3ecf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 09\; Noven\; Verão 27\; PCP\; Desenvolvimento
-DTEND:20260424T025959Z
-DTSTART:20260423T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 09)
-UID:558f7afd-fba3-4ad0-8fba-8c12bd44c53a@558f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Corte\; Produção
-DTEND:20260613T025959Z
-DTSTART:20260612T030000Z
-SUMMARY:Corte Grupo 10 Noven Verão 27
-UID:599e5c05-e56c-4620-9c13-782ac5380c54@599e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 03 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20251127T025959Z
-DTSTART:20251126T030000Z
-SUMMARY:Costura Moda Jeans Grupo 03 Noven Inverno 26
-UID:b1596cd8-c9d2-456d-8515-350cefff0495@b159.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Expedição\; Produção
-DTEND:20270203T025959Z
-DTSTART:20270202T030000Z
-SUMMARY:Expedição Grupo 02 Noven Inverno 27
-UID:90032c8c-a2a2-4203-81af-d2fce2d27ce8@9003.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Corte\; Produção
-DTEND:20251210T025959Z
-DTSTART:20251209T030000Z
-SUMMARY:Corte Grupo 05 Noven Inverno 26
-UID:306d51c8-b3d4-4152-9fe1-cedaf14af0c0@306d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20250909T025959Z
-DTSTART:20250908T030000Z
-SUMMARY:Costura Jeans Grupo 01 Noven Inverno 26
-UID:dfb5ca60-8f2a-4843-951d-c0c1b9cf3070@dfb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Corte\; Produção
-DTEND:20270112T025959Z
-DTSTART:20270111T030000Z
-SUMMARY:Corte Grupo 05 Noven Inverno 27
-UID:49d90ff6-2edb-400a-8401-22347b3ba8b0@49d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 07 Noven Verão 28\; Noven\; Verão 28\; Expedição\; Produção
-DTEND:20270702T025959Z
-DTSTART:20270701T030000Z
-SUMMARY:Expedição Grupo 07 Noven Verão 28
-UID:d9fad83f-88ed-4dc4-a878-8c2806dd2669@d9fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260626T025959Z
-DTSTART:20260625T030000Z
-SUMMARY:Costura Moda Jeans Grupo 09 Noven Verão 27
-UID:067d877c-35d0-43d1-8e70-ca78020c97d2@067d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 01\; Noven\; Inverno 26\; Comercial\; Produto Acabado
-DTEND:20260121T025959Z
-DTSTART:20260120T030000Z
-SUMMARY:Lançamento Noven Grupo 01
-UID:7b93566c-2bfa-4467-8aef-c441b5c59562@7b93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Acabamento\; Produção
-DTEND:20261113T025959Z
-DTSTART:20261112T030000Z
-SUMMARY:Acabamento Grupo 01 Noven Inverno 27
-UID:59d0e472-8d77-409c-b588-5a7b84db9e59@59d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20261203T025959Z
-DTSTART:20261202T030000Z
-SUMMARY:Costura Moda Jeans Grupo 04 Noven Inverno 27
-UID:2db62e8c-6c54-4cfd-8fa2-de251cb8b21f@2db6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Expedição\; Produção
-DTEND:20270505T025959Z
-DTSTART:20270504T030000Z
-SUMMARY:Expedição Grupo 05 Noven Inverno 27
-UID:b1c07d83-3050-48d8-aeb3-1f5ccc22e81d@b1c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Verão 27\; Noven\; Verão 27\; Banca\; Desenvolvimento
-DTEND:20251015T025959Z
-DTSTART:20251014T030000Z
-SUMMARY:Primeira Banca Noven Verão 27
-UID:0887be17-ec6d-4811-9d32-ecae993cb051@0887.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 04\; Noven\; Inverno 27\; PCP\; Desenvolvimento
-DTEND:20261028T025959Z
-DTSTART:20261027T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 04)
-UID:7749117c-bfc5-40f4-afa5-d9f088f2f1be@7749.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20251202T025959Z
-DTSTART:20251201T030000Z
-SUMMARY:Costura Jeans Grupo 04 Noven Inverno 26
-UID:56a4b1f5-6e9f-48d5-81e4-7d6c2ae83d1d@56a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Noven Verão 27\; Noven\; Verão 27\; Lavanderia Dsv.\; Desenvolvimento
-DTEND:20260304T025959Z
-DTSTART:20260303T030000Z
-SUMMARY:Lavanderia Pilotos Noven Verão 27
-UID:981e2a34-2360-4132-8eae-5dcd39c32846@981e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Acabamento\; Produção
-DTEND:20260624T025959Z
-DTSTART:20260623T030000Z
-SUMMARY:Acabamento Grupo 07 Noven Verão 27
-UID:545a7e63-1d8e-4d80-b16b-0fc57ce2cc3e@545a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 08 Noven Verão 28\; Noven\; Verão 28\; Expedição\; Produção
-DTEND:20270803T025959Z
-DTSTART:20270802T030000Z
-SUMMARY:Expedição Grupo 08 Noven Verão 28
-UID:30a1eadc-9209-4c35-a771-eee15222b1d0@30a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Expedição\; Produção
-DTEND:20260903T025959Z
-DTSTART:20260902T030000Z
-SUMMARY:Expedição Grupo 09 Noven Verão 27
-UID:4e464957-0ae1-40c4-9085-08ac5644de10@4e46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Verão 27\; Noven\; Verão 27\; Banca\; Desenvolvimento
-DTEND:20260114T025959Z
-DTSTART:20260113T030000Z
-SUMMARY:Segunda Banca Noven Verão 27
-UID:655ae9a9-b039-4488-b38c-fcfc976a7f7a@655a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 03 Noven Inverno 26\; Noven\; Inverno 26\; Acabamento\; Produção
-DTEND:20260224T025959Z
-DTSTART:20260223T030000Z
-SUMMARY:Acabamento Grupo 03 Noven Inverno 26
-UID:b2aad146-9271-4a5c-b385-e3c13c3119ed@b2aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Acabamento\; Produção
-DTEND:20260326T025959Z
-DTSTART:20260325T030000Z
-SUMMARY:Acabamento Grupo 04 Noven Inverno 26
-UID:bcdc53d4-6df6-4b3d-bc89-a7169ab09f02@bcdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260626T025959Z
-DTSTART:20260625T030000Z
-SUMMARY:Costura Jeans Grupo 09 Noven Verão 27
-UID:4ec710e7-f69e-413d-aa7a-2c0a25096eb6@4ec7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Acabamento\; Produção
-DTEND:20260825T025959Z
-DTSTART:20260824T030000Z
-SUMMARY:Acabamento Grupo 09 Noven Verão 27
-UID:4fd27932-cb34-488e-8df2-2f924ff489ff@4fd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Corte\; Produção
-DTEND:20261015T025959Z
-DTSTART:20261014T030000Z
-SUMMARY:Corte Grupo 03 Noven Inverno 27
-UID:47cc8f33-c3a6-4927-8000-f7331616c723@47cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20270126T025959Z
-DTSTART:20270125T030000Z
-SUMMARY:Costura Moda Grupo 04 Noven Inverno 27
-UID:578a846d-265c-40ab-89ec-d92514b12084@578a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 26 Grupo 02\; Noven\; Inverno 26\; PCP\; Desenvolvimento
-DTEND:20250902T025959Z
-DTSTART:20250901T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 26 (Grupo 02)
-UID:8e6c058e-9fe4-4daa-b4a1-2d90d37104a4@8e6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fotos da Noven Inverno 27\; Noven\; Inverno 27\; Marketing\; Desenvolvimento
-DTEND:20261124T025959Z
-DTSTART:20261123T030000Z
-SUMMARY:Fotos Noven Inverno 27
-UID:641f25d9-435c-4442-a6e6-0cb655cd603f@641f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20260123T025959Z
-DTSTART:20260122T030000Z
-SUMMARY:Costura Jeans Grupo 05 Noven Inverno 26
-UID:fa636359-91d6-423c-9474-2da3e18b74b5@fa63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 04\; Noven\; Inverno 27\; Comercial\; Produto Acabado
-DTEND:20270414T025959Z
-DTSTART:20270413T030000Z
-SUMMARY:Lançamento Noven Grupo 04
-UID:01e2ce5b-f66f-40ce-92d7-4513fdc253b1@01e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20261030T025959Z
-DTSTART:20261029T030000Z
-SUMMARY:Costura Jeans Grupo 03 Noven Inverno 27
-UID:e5a6d5fe-014f-4b6e-8976-b987a070914e@e5a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260425T025959Z
-DTSTART:20260424T030000Z
-SUMMARY:Costura Jeans Grupo 07 Noven Verão 27
-UID:72ec5655-79ae-47a4-82fa-93c088a7feb8@72ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 26 Grupo 04\; Noven\; Inverno 26\; PCP\; Desenvolvimento
-DTEND:20251024T025959Z
-DTSTART:20251023T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 26 (Grupo 04)
-UID:1f4a10c1-c703-4e95-84ce-f58c3dc0597c@1f4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 03 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20251029T025959Z
-DTSTART:20251028T030000Z
-SUMMARY:Costura Jeans Grupo 03 Noven Inverno 26
-UID:2bca79c9-bab8-4f78-83e7-a4d0f03e40dd@2bca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20261001T025959Z
-DTSTART:20260930T030000Z
-SUMMARY:Costura Moda Grupo 01 Noven Inverno 27
-UID:566d1c30-8818-4753-afef-0e6072fac4d2@566d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Corte\; Produção
-DTEND:20251107T025959Z
-DTSTART:20251106T030000Z
-SUMMARY:Corte Grupo 04 Noven Inverno 26
-UID:43d70566-047b-441d-a7a8-4a4def0302e6@43d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 11\; Noven\; Verão 27\; Comercial\; Produto Acabado
-DTEND:20261021T025959Z
-DTSTART:20261020T030000Z
-SUMMARY:Lançamento Noven Grupo 11
-UID:5b03be53-8aad-4fa8-9f88-16877a6d5fe4@5b03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Lavanderia\; Produção
-DTEND:20260625T025959Z
-DTSTART:20260624T030000Z
-SUMMARY:Lavanderia Grupo 08 Noven Verão 27
-UID:9ba4543c-e4e9-4cd5-af1f-9740d768712c@9ba4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20260326T025959Z
-DTSTART:20260325T030000Z
-SUMMARY:Costura Moda Grupo 05 Noven Inverno 26
-UID:3914698e-74f5-4dd7-868e-3cc37f1ba57a@3914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia das peças piloto da Noven Inverno 27\; Noven\; Inverno 27\; Lavanderia Dsv.\; Desenvolvimento
-DTEND:20260825T025959Z
-DTSTART:20260824T030000Z
-SUMMARY:Lavanderia Pilotos Noven Inverno 27
-UID:ee205a08-a9ed-421d-93d6-a46e0e7ad622@ee20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 05\; Noven\; Inverno 27\; Comercial\; Produto Acabado
-DTEND:20270519T025959Z
-DTSTART:20270518T030000Z
-SUMMARY:Lançamento Noven Grupo 05
-UID:ac63a18a-cc28-4f50-8453-dd8ec54b9e2f@ac63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Corte\; Produção
-DTEND:20260708T025959Z
-DTSTART:20260707T030000Z
-SUMMARY:Corte Grupo 11 Noven Verão 27
-UID:f8a5f842-8ecb-4589-afe0-9d91fd71cc3c@f8a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Verão 28\; Noven\; Verão 28\; Banca\; Desenvolvimento
-DTEND:20270317T025959Z
-DTSTART:20270316T030000Z
-SUMMARY:Última Banca Noven Verão 28
-UID:781c625b-90ad-4c7e-a864-22a6bf179559@781c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 26 Grupo 01\; Noven\; Inverno 26\; PCP\; Desenvolvimento
-DTEND:20250805T025959Z
-DTSTART:20250804T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 26 (Grupo 01)
-UID:083840aa-f971-43b4-90f8-efd6918d6694@0838.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Expedição\; Produção
-DTEND:20261003T025959Z
-DTSTART:20261002T030000Z
-SUMMARY:Expedição Grupo 10 Noven Verão 27
-UID:ea2ac0c0-9a4a-4c03-ad30-6f67d0f044a0@ea2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Noven Inverno 27\; Noven\; Inverno 27\; Acabamento Dsv.\; Desenvolvimento
-DTEND:20260901T025959Z
-DTSTART:20260831T030000Z
-SUMMARY:Acabamento Pilotos Noven Inverno 27
-UID:d0bf530b-cd56-40cd-9156-ac7df66db025@d0bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Noven Verão 28. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Noven\; Verão 28\; Estilo\; Desenvolvimento
-DTEND:20260804T025959Z
-DTSTART:20260803T030000Z
-SUMMARY:Entrega Desenhos Noven Verão 28
-UID:a621717c-d487-4644-85b5-3309cc5bbd53@a621.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 02\; Noven\; Inverno 27\; PCP\; Desenvolvimento
-DTEND:20260818T025959Z
-DTSTART:20260817T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 02)
-UID:919249ee-ba8e-4efd-957b-ac6bd8170966@9192.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Expedição\; Produção
-DTEND:20270304T025959Z
-DTSTART:20270303T030000Z
-SUMMARY:Expedição Grupo 03 Noven Inverno 27
-UID:1880e842-c5f7-4872-bd4a-a4c3c8a7e337@1880.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 08\; Noven\; Verão 27\; PCP\; Desenvolvimento
-DTEND:20260321T025959Z
-DTSTART:20260320T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 08)
-UID:16da2eb0-9d28-4765-b8f4-0af8d2290ab3@16da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Expedição\; Produção
-DTEND:20260805T025959Z
-DTSTART:20260804T030000Z
-SUMMARY:Expedição Grupo 08 Noven Verão 27
-UID:62b97f7d-e325-447c-bbd4-f727a436348a@62b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260527T025959Z
-DTSTART:20260526T030000Z
-SUMMARY:Costura Jeans Grupo 08 Noven Verão 27
-UID:a9f91e74-4ad4-4a55-98d8-8605313b11eb@a9f9.org
+UID:b519a8d6-ce28-45d9-a962-a6d3e0a1508a@b519.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lançamento no showroom da Noven Grupo 05\; Noven\; Inverno 26\; Comercial\; Produto Acabado
 DTEND:20260520T025959Z
 DTSTART:20260519T030000Z
 SUMMARY:Lançamento Noven Grupo 05
-UID:41e24656-512f-429c-bc24-99d07fc190dd@41e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 28 grupo 08.\; Noven\; Verão 28\; PCP\; Desenvolvimento
-DTEND:20270325T025959Z
-DTSTART:20270324T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 28 (Grupo 08)
-UID:993e1f50-f2c7-4a81-99f5-c93f40153a45@993e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20260226T025959Z
-DTSTART:20260225T030000Z
-SUMMARY:Costura Moda Jeans Grupo 05 Noven Inverno 26
-UID:3479f658-adf7-4c31-b4e2-047a010d18dc@3479.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Lavanderia\; Produção
-DTEND:20251204T025959Z
-DTSTART:20251203T030000Z
-SUMMARY:Lavanderia Grupo 02 Noven Inverno 26
-UID:f2feba01-e199-4add-b8e2-41d090dbb94d@f2fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260718T025959Z
-DTSTART:20260717T030000Z
-SUMMARY:Costura Moda Jeans Grupo 10 Noven Verão 27
-UID:531f1225-18ca-45f7-af5a-0ae246d52c85@531f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Acabamento\; Produção
-DTEND:20251204T025959Z
-DTSTART:20251203T030000Z
-SUMMARY:Acabamento Grupo 01 Noven Inverno 26
-UID:1be18d5c-f51a-4abe-88e1-c02da9ccd392@1be1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Lavanderia\; Produção
-DTEND:20260724T025959Z
-DTSTART:20260723T030000Z
-SUMMARY:Lavanderia Grupo 09 Noven Verão 27
-UID:d6e432ca-04d1-4ce0-bf04-e2989f915245@d6e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20260901T025959Z
-DTSTART:20260831T030000Z
-SUMMARY:Costura Jeans Grupo 01 Noven Inverno 27
-UID:5da638fb-6c95-45bd-9693-0becf8812000@5da6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Acabamento\; Produção
-DTEND:20260724T025959Z
-DTSTART:20260723T030000Z
-SUMMARY:Acabamento Grupo 08 Noven Verão 27
-UID:f9c72615-3540-4266-98af-643860565d87@f9c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Lavanderia\; Produção
-DTEND:20260815T025959Z
-DTSTART:20260814T030000Z
-SUMMARY:Lavanderia Grupo 10 Noven Verão 27
-UID:233ffcbe-47f1-4dc8-9243-087a06f03c25@233f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Lavanderia\; Produção
-DTEND:20260326T025959Z
-DTSTART:20260325T030000Z
-SUMMARY:Lavanderia Grupo 05 Noven Inverno 26
-UID:93287c4e-aa03-4547-b4cd-740732b04d68@9328.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 07\; Noven\; Verão 27\; PCP\; Desenvolvimento
-DTEND:20260213T025959Z
-DTSTART:20260212T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 07)
-UID:021da763-b60e-44a1-aff3-4f6844a562bf@021d.org
+UID:1c76d102-ef91-4843-8520-7f1c5634328f@1c76.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Costura Jeans Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
 DTEND:20260718T025959Z
 DTSTART:20260717T030000Z
 SUMMARY:Costura Jeans Grupo 10 Noven Verão 27
-UID:bced9844-ee1b-4d55-8935-ad1183e2447e@bced.org
+UID:1d45ea7b-ddb7-492f-befa-95b5a3fe4e68@1d45.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Expedição\; Produção
-DTEND:20260505T025959Z
-DTSTART:20260504T030000Z
-SUMMARY:Expedição Grupo 05 Noven Inverno 26
-UID:273d048c-7f2a-4cf1-95b3-596431f0e6d6@273d.org
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 03\; Noven\; Inverno 27\; PCP\; Desenvolvimento
+DTEND:20260923T025959Z
+DTSTART:20260922T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 03)
+UID:2785d621-1659-495e-85b6-0340ec184845@2785.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Lavanderia\; Produção
-DTEND:20251104T025959Z
-DTSTART:20251103T030000Z
-SUMMARY:Lavanderia Grupo 01 Noven Inverno 26
-UID:6cffd0e1-4120-46b3-a64b-07042ff92577@6cff.org
+DESCRIPTION:Costura Moda Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20260326T025959Z
+DTSTART:20260325T030000Z
+SUMMARY:Costura Moda Grupo 05 Noven Inverno 26
+UID:1ac3f30f-80bb-48e3-8c02-4419aebc7cb6@1ac3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 10\; Noven\; Verão 27\; PCP\; Desenvolvimento
-DTEND:20260522T025959Z
-DTSTART:20260521T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 10)
-UID:ccf3e639-d969-4039-810b-f14b0305ee0f@ccf3.org
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 26 Grupo 05\; Noven\; Inverno 26\; PCP\; Desenvolvimento
+DTEND:20251122T025959Z
+DTSTART:20251121T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 26 (Grupo 05)
+UID:5fe5fcfa-fa9d-481b-ae8d-bfc3e09f4cd3@5fe5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Expedição\; Produção
-DTEND:20260402T025959Z
-DTSTART:20260401T030000Z
-SUMMARY:Expedição Grupo 04 Noven Inverno 26
-UID:3233a825-1e7d-4060-845b-1f47f14e03ad@3233.org
+DESCRIPTION:Costura Moda Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20251204T025959Z
+DTSTART:20251203T030000Z
+SUMMARY:Costura Moda Grupo 02 Noven Inverno 26
+UID:7ffcab0e-e31d-4ee2-a0f6-c1c280f5b4af@7ffc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Noven Verão 27\; Noven\; Verão 27\; Modelagem\; Desenvolvimento
-DTEND:20260212T025959Z
-DTSTART:20260211T030000Z
-SUMMARY:Modelagem Noven Verão 27
-UID:406896ab-6a4e-4045-b74b-7a4e71590fc6@4068.org
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 28 grupo 07.\; Noven\; Verão 28\; PCP\; Desenvolvimento
+DTEND:20270220T025959Z
+DTSTART:20270219T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 28 (Grupo 07)
+UID:52e89c23-2901-4712-aa9c-f4091475ca46@52e8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Fotos da Noven Verão 27\; Noven\; Verão 27\; Marketing\; Desenvolvimento
-DTEND:20260603T025959Z
-DTSTART:20260602T030000Z
-SUMMARY:Fotos Noven Verão 27
-UID:e7fe062f-800b-4908-8a7a-f3f800acf93e@e7fe.org
+DESCRIPTION:Costura Moda Jeans Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20261002T025959Z
+DTSTART:20261001T030000Z
+SUMMARY:Costura Moda Jeans Grupo 02 Noven Inverno 27
+UID:e832b25a-9c39-40e9-b6a8-954b62e0367a@e832.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Entrega dos desenhos Noven Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial\; Noven\; Inverno 27\; Estilo\; Desenvolvimento
-DTEND:20260203T025959Z
-DTSTART:20260202T030000Z
-SUMMARY:Entrega Desenhos Noven Inverno 27
-UID:6bb700cf-3367-4ad8-9d7a-89273b3898cb@6bb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Acabamento\; Produção
-DTEND:20270218T025959Z
-DTSTART:20270217T030000Z
-SUMMARY:Acabamento Grupo 03 Noven Inverno 27
-UID:ca205db9-105c-485d-8f78-6c393efecd5d@ca20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fotos da Noven Inverno 26\; Noven\; Inverno 26\; Marketing\; Desenvolvimento
-DTEND:20251205T025959Z
-DTSTART:20251204T030000Z
-SUMMARY:Fotos Noven Inverno 26
-UID:c1604400-8d03-40e2-a8bf-abaa1fa13313@c160.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Lavanderia\; Produção
-DTEND:20261204T025959Z
-DTSTART:20261203T030000Z
-SUMMARY:Lavanderia Grupo 03 Noven Inverno 27
-UID:1523475d-b71e-4f48-99ea-543bc2c4e1b4@1523.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20260901T025959Z
-DTSTART:20260831T030000Z
-SUMMARY:Costura Moda Jeans Grupo 01 Noven Inverno 27
-UID:7a0b2760-939f-4fc9-a037-1a412837061e@7a0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 26 Grupo 03\; Noven\; Inverno 26\; PCP\; Desenvolvimento
-DTEND:20250924T025959Z
-DTSTART:20250923T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Inverno 26 (Grupo 03)
-UID:1571f307-56d1-4dff-952b-4bf719b4b2e7@1571.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260904T025959Z
-DTSTART:20260903T030000Z
-SUMMARY:Costura Moda Grupo 11 Noven Verão 27
-UID:e7c4451c-614e-47bc-8fd1-1edabc2906e0@e7c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Modelagem dos desenhos da Noven Verão 28.\; Noven\; Verão 28\; Modelagem\; Desenvolvimento
-DTEND:20270205T025959Z
-DTSTART:20270204T030000Z
-SUMMARY:Modelagem Noven Verão 28
-UID:02723b39-788e-4a3e-9b2c-4810ab804169@0272.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20261203T025959Z
-DTSTART:20261202T030000Z
-SUMMARY:Costura Jeans Grupo 04 Noven Inverno 27
-UID:0bca654d-f4ce-47ac-9416-4698fa06630c@0bca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20251104T025959Z
-DTSTART:20251103T030000Z
-SUMMARY:Costura Moda Jeans Grupo 02 Noven Inverno 26
-UID:a53be24d-d084-4101-9cea-a82a6b102c44@a53b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pilotagem das peças da Noven Inverno 27\; Noven\; Inverno 27\; Pilotagem\; Desenvolvimento
-DTEND:20260818T025959Z
-DTSTART:20260817T030000Z
-SUMMARY:Pilotagem Noven Inverno 27
-UID:089d7305-3003-42b3-af01-72a6bb0f6043@089d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Acabamento\; Produção
-DTEND:20260922T025959Z
-DTSTART:20260921T030000Z
-SUMMARY:Acabamento Grupo 10 Noven Verão 27
-UID:71ea2f6a-d28c-4301-a5e6-3e3b94181b35@71ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Acabamento das peças piloto da Noven Verão 28.\; Noven\; Verão 28\; Acabamento Dsv.\; Desenvolvimento
-DTEND:20270303T025959Z
-DTSTART:20270302T030000Z
-SUMMARY:Acabamento Pilotos Noven Verão 28
-UID:267921b1-8ba8-4378-b2f6-171d2a020b2d@2679.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20251104T025959Z
-DTSTART:20251103T030000Z
-SUMMARY:Costura Moda Grupo 01 Noven Inverno 26
-UID:c560019e-1915-4321-aa12-998626158aa5@c560.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Expedição\; Produção
-DTEND:20260106T025959Z
-DTSTART:20260105T030000Z
-SUMMARY:Expedição Grupo 01 Noven Inverno 26
-UID:c501f8d6-c3d2-4309-8bc2-01061e4d1759@c501.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Corte Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Corte\; Produção
-DTEND:20261119T025959Z
-DTSTART:20261118T030000Z
-SUMMARY:Corte Grupo 04 Noven Inverno 27
-UID:b16d3024-f2c1-48ac-bbb4-5d84f058d519@b16d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 28 grupo 09.\; Noven\; Verão 28\; PCP\; Desenvolvimento
-DTEND:20270428T025959Z
-DTSTART:20270427T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 28 (Grupo 09)
-UID:683e40fb-386d-42e4-a6dc-2971518070e5@683e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Lavanderia\; Produção
-DTEND:20270126T025959Z
-DTSTART:20270125T030000Z
-SUMMARY:Lavanderia Grupo 04 Noven Inverno 27
-UID:6a060fee-a864-48b3-8f55-8d33f8d2c989@6a06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Jeans Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20251007T025959Z
-DTSTART:20251006T030000Z
-SUMMARY:Costura Jeans Grupo 02 Noven Inverno 26
-UID:4c0d8fec-12ca-4512-a60f-4822aa3fab72@4c0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260724T025959Z
-DTSTART:20260723T030000Z
-SUMMARY:Costura Moda Grupo 09 Noven Verão 27
-UID:027f7caf-2783-49df-bff0-d6e08389b03e@027f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 28 grupo 11.\; Noven\; Verão 28\; PCP\; Desenvolvimento
-DTEND:20270625T025959Z
-DTSTART:20270624T030000Z
-SUMMARY:Liberação Lacre Vermelho Noven Verão 28 (Grupo 11)
-UID:f405f4a6-11ff-480b-8fe6-44349d226c42@f405.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 03 Noven Inverno 26\; Noven\; Inverno 26\; Expedição\; Produção
-DTEND:20260303T025959Z
-DTSTART:20260302T030000Z
-SUMMARY:Expedição Grupo 03 Noven Inverno 26
-UID:359410fe-c4b3-427a-961a-33cbb87354f8@3594.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lançamento no showroom da Noven Grupo 10\; Noven\; Verão 27\; Comercial\; Produto Acabado
-DTEND:20260930T025959Z
-DTSTART:20260929T030000Z
-SUMMARY:Lançamento Noven Grupo 10
-UID:403d078a-01e7-4f33-bded-4c3ba179a7b3@403d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
-DTEND:20260425T025959Z
-DTSTART:20260424T030000Z
-SUMMARY:Costura Moda Jeans Grupo 07 Noven Verão 27
-UID:2c3c176e-a0b0-4cc2-a26a-9cb73ee30ade@2c3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 11 Noven Verão 28\; Noven\; Verão 28\; Expedição\; Produção
-DTEND:20271102T025959Z
-DTSTART:20271101T030000Z
-SUMMARY:Expedição Grupo 11 Noven Verão 28
-UID:2aedfcef-e244-4bdc-ab75-05e44b81a059@2aed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 03 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20260121T025959Z
-DTSTART:20260120T030000Z
-SUMMARY:Costura Moda Grupo 03 Noven Inverno 26
-UID:7faa72df-b51e-4c17-bb9c-68915b919809@7faa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20270120T025959Z
-DTSTART:20270119T030000Z
-SUMMARY:Costura Moda Jeans Grupo 05 Noven Inverno 27
-UID:64ab8c80-f0b7-4e32-b4f9-e83666390e83@64ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Expedição Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Expedição\; Produção
-DTEND:20261105T025959Z
-DTSTART:20261104T030000Z
-SUMMARY:Expedição Grupo 11 Noven Verão 27
-UID:ceaaeaa0-6c0e-4d19-a443-817fe13434f9@ceaa.org
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 04\; Noven\; Inverno 27\; PCP\; Desenvolvimento
+DTEND:20261028T025959Z
+DTSTART:20261027T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 04)
+UID:dfd86545-b30a-4acd-934a-0270b9fb189b@dfd8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Corte Grupo 03 Noven Inverno 26\; Noven\; Inverno 26\; Corte\; Produção
 DTEND:20251008T025959Z
 DTSTART:20251007T030000Z
 SUMMARY:Corte Grupo 03 Noven Inverno 26
-UID:17719864-77d9-4bdc-8da8-c54b7a338c91@1771.org
+UID:8a9df85c-3b5c-4d38-9ea1-84b6da57a065@8a9d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Banca das peças piloto da Noven Verão 27\; Noven\; Verão 27\; Banca\; Desenvolvimento
-DTEND:20260325T025959Z
-DTSTART:20260324T030000Z
-SUMMARY:Última Banca Noven Verão 27
-UID:0941c93f-ca26-413f-b3b7-654caf53e31b@0941.org
+DESCRIPTION:Corte Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Corte\; Produção
+DTEND:20251210T025959Z
+DTSTART:20251209T030000Z
+SUMMARY:Corte Grupo 05 Noven Inverno 26
+UID:d72e3a39-5228-4ba0-80bc-e0f679a2a753@d72e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Noven Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial\; Noven\; Inverno 27\; Estilo\; Desenvolvimento
+DTEND:20260804T025959Z
+DTSTART:20260803T030000Z
+SUMMARY:Limite Entrega Desenhos Noven Inverno 27
+UID:1c789ebe-a611-41e0-b7d8-5628330d1d3e@1c78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20251104T025959Z
+DTSTART:20251103T030000Z
+SUMMARY:Costura Moda Jeans Grupo 02 Noven Inverno 26
+UID:2cd7034c-99e2-4962-8477-7cbe38a7ba3f@2cd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Acabamento\; Produção
+DTEND:20270427T025959Z
+DTSTART:20270426T030000Z
+SUMMARY:Acabamento Grupo 05 Noven Inverno 27
+UID:73ea0b9a-2a1c-4409-bd18-de53df5cf62e@73ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Inverno 27\; Noven\; Inverno 27\; Banca\; Desenvolvimento
+DTEND:20260916T025959Z
+DTSTART:20260915T030000Z
+SUMMARY:Última Banca Noven Inverno 27
+UID:628deca0-2d0b-4fa5-820a-fc3ce6f901f3@628d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Corte\; Produção
+DTEND:20260613T025959Z
+DTSTART:20260612T030000Z
+SUMMARY:Corte Grupo 10 Noven Verão 27
+UID:cb04696c-655c-4031-bffb-a8c82cfcc6c9@cb04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 05\; Noven\; Inverno 27\; Comercial\; Produto Acabado
+DTEND:20270519T025959Z
+DTSTART:20270518T030000Z
+SUMMARY:Lançamento Noven Grupo 05
+UID:7a749b70-edec-46eb-8e07-4be54d854604@7a74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Lavanderia\; Produção
+DTEND:20260815T025959Z
+DTSTART:20260814T030000Z
+SUMMARY:Lavanderia Grupo 10 Noven Verão 27
+UID:d8b7cbd5-ada9-4786-82ba-3a72f08b3f53@d8b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Expedição\; Produção
+DTEND:20270403T025959Z
+DTSTART:20270402T030000Z
+SUMMARY:Expedição Grupo 04 Noven Inverno 27
+UID:585e021c-fff7-4cff-9f1e-71c4478803f4@585e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Expedição\; Produção
+DTEND:20260805T025959Z
+DTSTART:20260804T030000Z
+SUMMARY:Expedição Grupo 08 Noven Verão 27
+UID:0f173c1c-fe27-4d7b-a9cf-06a831566c35@0f17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Noven Inverno 27\; Noven\; Inverno 27\; Pilotagem\; Desenvolvimento
+DTEND:20260818T025959Z
+DTSTART:20260817T030000Z
+SUMMARY:Pilotagem Noven Inverno 27
+UID:6e0047f4-c5ee-4c9d-b4da-72d994b56534@6e00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Acabamento\; Produção
+DTEND:20261113T025959Z
+DTSTART:20261112T030000Z
+SUMMARY:Acabamento Grupo 01 Noven Inverno 27
+UID:0b2abef3-521d-4c7b-9da7-5bb2d221294c@0b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fotos da Noven Inverno 26\; Noven\; Inverno 26\; Marketing\; Desenvolvimento
+DTEND:20251205T025959Z
+DTSTART:20251204T030000Z
+SUMMARY:Fotos Noven Inverno 26
+UID:7d9e0bf5-dd97-4529-8029-6d6d7d725586@7d9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260815T025959Z
+DTSTART:20260814T030000Z
+SUMMARY:Costura Moda Grupo 10 Noven Verão 27
+UID:0c6f9f45-1e37-4221-823f-1d85e8751911@0c6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20260226T025959Z
+DTSTART:20260225T030000Z
+SUMMARY:Costura Moda Jeans Grupo 05 Noven Inverno 26
+UID:88eb079c-4014-4138-bf4b-f2a6e2c03958@88eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Costura Moda Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
 DTEND:20270224T025959Z
 DTSTART:20270223T030000Z
 SUMMARY:Costura Moda Grupo 05 Noven Inverno 27
-UID:6ee2b478-e4a0-47fc-8424-42a23120dc61@6ee2.org
+UID:71957c0e-561b-4703-9984-b3e10c56026c@7195.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Acabamento Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Acabamento\; Produção
-DTEND:20270112T025959Z
-DTSTART:20270111T030000Z
-SUMMARY:Acabamento Grupo 02 Noven Inverno 27
-UID:3c062cae-c53b-4cdf-9594-29160cd672a2@3c06.org
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 28 grupo 08.\; Noven\; Verão 28\; PCP\; Desenvolvimento
+DTEND:20270325T025959Z
+DTSTART:20270324T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 28 (Grupo 08)
+UID:116e1624-b658-45ed-a5b7-5ba792cbab31@116e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Costura Moda Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
-DTEND:20261204T025959Z
-DTSTART:20261203T030000Z
-SUMMARY:Costura Moda Grupo 03 Noven Inverno 27
-UID:ed09fca3-3eb8-4cca-9b63-dce59842b8c7@ed09.org
+DESCRIPTION:Lançamento no showroom da Noven Grupo 10\; Noven\; Verão 27\; Comercial\; Produto Acabado
+DTEND:20260930T025959Z
+DTSTART:20260929T030000Z
+SUMMARY:Lançamento Noven Grupo 10
+UID:753f9bc7-e283-408f-a83b-8c136d7cc850@753f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20260123T025959Z
-DTSTART:20260122T030000Z
-SUMMARY:Costura Moda Jeans Grupo 04 Noven Inverno 26
-UID:47eff08a-644d-43ad-b198-a6073bdf4cfe@47ef.org
+DESCRIPTION:Corte Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Corte\; Produção
+DTEND:20260312T025959Z
+DTSTART:20260311T030000Z
+SUMMARY:Corte Grupo 07 Noven Verão 27
+UID:8245bdfc-4537-4bcb-aa5c-e30ff0dcb77d@8245.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Costura Moda Jeans Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
-DTEND:20251007T025959Z
-DTSTART:20251006T030000Z
-SUMMARY:Costura Moda Jeans Grupo 01 Noven Inverno 26
-UID:1e06b1cb-3376-4231-bea3-5c10a883b42f@1e06.org
+DESCRIPTION:Acabamento das peças piloto da Noven Verão 28.\; Noven\; Verão 28\; Acabamento Dsv.\; Desenvolvimento
+DTEND:20270303T025959Z
+DTSTART:20270302T030000Z
+SUMMARY:Acabamento Pilotos Noven Verão 28
+UID:94542422-48a4-4c5e-81f1-6aa0bdd4832f@9454.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 26 Grupo 03\; Noven\; Inverno 26\; PCP\; Desenvolvimento
+DTEND:20250924T025959Z
+DTSTART:20250923T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 26 (Grupo 03)
+UID:c3939970-f59d-4d5d-8322-db5dd9761ba6@c393.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 03 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20251029T025959Z
+DTSTART:20251028T030000Z
+SUMMARY:Costura Jeans Grupo 03 Noven Inverno 26
+UID:340993ff-4a52-4ea8-b2d4-64fa97d68501@3409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Noven Inverno 27\; Noven\; Inverno 27\; Acabamento Dsv.\; Desenvolvimento
+DTEND:20260901T025959Z
+DTSTART:20260831T030000Z
+SUMMARY:Acabamento Pilotos Noven Inverno 27
+UID:90da0bfd-8930-4786-b450-f92040553102@90da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Corte\; Produção
+DTEND:20250819T025959Z
+DTSTART:20250818T030000Z
+SUMMARY:Corte Grupo 01 Noven Inverno 26
+UID:cd703447-a038-4ff7-b482-4522dd7c03ef@cd70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 03 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20251127T025959Z
+DTSTART:20251126T030000Z
+SUMMARY:Costura Moda Jeans Grupo 03 Noven Inverno 26
+UID:8e7e50cb-ae44-472a-bf96-90446de0ee14@8e7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20251202T025959Z
+DTSTART:20251201T030000Z
+SUMMARY:Costura Jeans Grupo 04 Noven Inverno 26
+UID:573f0938-d1e3-4267-8748-2edfc3e0b877@573f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20261002T025959Z
+DTSTART:20261001T030000Z
+SUMMARY:Costura Jeans Grupo 02 Noven Inverno 27
+UID:6e2475e8-8309-48dc-a16c-954d25bdda37@6e24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Corte\; Produção
+DTEND:20260414T025959Z
+DTSTART:20260413T030000Z
+SUMMARY:Corte Grupo 08 Noven Verão 27
+UID:5a4bb89c-cb53-42b6-b911-c151347cb4b6@5a4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260425T025959Z
+DTSTART:20260424T030000Z
+SUMMARY:Costura Moda Jeans Grupo 07 Noven Verão 27
+UID:f05cd0d7-4968-4885-bcdf-fb3fa647e575@f05c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Expedição\; Produção
+DTEND:20261105T025959Z
+DTSTART:20261104T030000Z
+SUMMARY:Expedição Grupo 11 Noven Verão 27
+UID:34afa57a-938e-4b55-a7e9-07cc54b989a0@34af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Expedição\; Produção
+DTEND:20260106T025959Z
+DTSTART:20260105T030000Z
+SUMMARY:Expedição Grupo 01 Noven Inverno 26
+UID:a2bd5b7e-b36a-4e5f-ae01-726cbf0e667a@a2bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lavanderia Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Lavanderia\; Produção
 DTEND:20260226T025959Z
 DTSTART:20260225T030000Z
 SUMMARY:Lavanderia Grupo 04 Noven Inverno 26
-UID:87469cef-7de9-4de9-9d4b-e280885d2a10@8746.org
+UID:876ba4f1-5816-45a8-8e5d-b611b65f1298@876b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Lavanderia Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Lavanderia\; Produção
-DTEND:20261104T025959Z
-DTSTART:20261103T030000Z
-SUMMARY:Lavanderia Grupo 02 Noven Inverno 27
-UID:3ea40450-89cb-49e1-8efe-3b61caef8a3f@3ea4.org
+DESCRIPTION:Expedição Grupo 09 Noven Verão 28\; Noven\; Verão 28\; Expedição\; Produção
+DTEND:20270902T025959Z
+DTSTART:20270901T030000Z
+SUMMARY:Expedição Grupo 09 Noven Verão 28
+UID:d4f98278-b630-4411-a9f7-7e335a7f433e@d4f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Verão 27\; Noven\; Verão 27\; Banca\; Desenvolvimento
+DTEND:20260325T025959Z
+DTSTART:20260324T030000Z
+SUMMARY:Última Banca Noven Verão 27
+UID:5660bd9a-cf08-4475-b09a-42525919e665@5660.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Verão 28\; Noven\; Verão 28\; Banca\; Desenvolvimento
+DTEND:20261014T025959Z
+DTSTART:20261013T030000Z
+SUMMARY:Primeira Banca Noven Verão 28
+UID:4849bfc8-9afe-41b4-a3c7-caf5b2991fab@4849.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Noven Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Noven\; Verão 27\; Estilo\; Desenvolvimento
+DTEND:20250812T025959Z
+DTSTART:20250811T030000Z
+SUMMARY:Entrega Desenhos Noven Verão 27
+UID:cabb9cfd-f4dd-4d20-afee-25af15bf544a@cabb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Corte\; Produção
+DTEND:20260909T025959Z
+DTSTART:20260908T030000Z
+SUMMARY:Corte Grupo 02 Noven Inverno 27
+UID:8d0c768d-df05-4dd6-807d-a690fa448edd@8d0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 07 Noven Verão 28\; Noven\; Verão 28\; Expedição\; Produção
+DTEND:20270702T025959Z
+DTSTART:20270701T030000Z
+SUMMARY:Expedição Grupo 07 Noven Verão 28
+UID:6f8f47b2-8080-4161-91e2-64b9c6dfd7fc@6f8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Acabamento\; Produção
+DTEND:20260724T025959Z
+DTSTART:20260723T030000Z
+SUMMARY:Acabamento Grupo 08 Noven Verão 27
+UID:8c45c265-a899-4073-8296-684b5cb34847@8c45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Lavanderia\; Produção
+DTEND:20260326T025959Z
+DTSTART:20260325T030000Z
+SUMMARY:Lavanderia Grupo 05 Noven Inverno 26
+UID:9afc8319-f3b6-442e-86ef-af7ef9fca50e@9afc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Lavanderia\; Produção
+DTEND:20261204T025959Z
+DTSTART:20261203T030000Z
+SUMMARY:Lavanderia Grupo 03 Noven Inverno 27
+UID:4d0a1b6d-d653-4a3a-ad45-2cc1d9e5a7d3@4d0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Corte\; Produção
+DTEND:20270112T025959Z
+DTSTART:20270111T030000Z
+SUMMARY:Corte Grupo 05 Noven Inverno 27
+UID:98bcf088-2a25-4fb0-bde1-7bfff822cda6@98bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20270120T025959Z
+DTSTART:20270119T030000Z
+SUMMARY:Costura Moda Jeans Grupo 05 Noven Inverno 27
+UID:3cf44bd2-3f11-433e-8238-13fb108df18f@3cf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Acabamento\; Produção
+DTEND:20260922T025959Z
+DTSTART:20260921T030000Z
+SUMMARY:Acabamento Grupo 10 Noven Verão 27
+UID:c0fd4341-795d-4e39-8cdf-6e709ad156aa@c0fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 28 grupo 10.\; Noven\; Verão 28\; PCP\; Desenvolvimento
+DTEND:20270527T025959Z
+DTSTART:20270526T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 28 (Grupo 10)
+UID:d56bdb8f-1826-4605-9711-f86c224fa935@d56b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260527T025959Z
+DTSTART:20260526T030000Z
+SUMMARY:Costura Jeans Grupo 08 Noven Verão 27
+UID:954c23d8-b4cb-4715-a7b8-1cf6423d18b3@954c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Lavanderia\; Produção
+DTEND:20270126T025959Z
+DTSTART:20270125T030000Z
+SUMMARY:Lavanderia Grupo 04 Noven Inverno 27
+UID:eb70f796-6b38-4de1-93f1-2f467a3d5d2d@eb70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 01\; Noven\; Inverno 27\; Comercial\; Produto Acabado
+DTEND:20270120T025959Z
+DTSTART:20270119T030000Z
+SUMMARY:Lançamento Noven Grupo 01
+UID:b3c1872e-c62b-442b-94dc-b79927a90525@b3c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 26 Grupo 01\; Noven\; Inverno 26\; PCP\; Desenvolvimento
+DTEND:20250805T025959Z
+DTSTART:20250804T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 26 (Grupo 01)
+UID:bc65a474-e718-4721-b525-db0e16ac78db@bc65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 01\; Noven\; Inverno 26\; Comercial\; Produto Acabado
+DTEND:20260121T025959Z
+DTSTART:20260120T030000Z
+SUMMARY:Lançamento Noven Grupo 01
+UID:c01e9581-5783-429b-a315-82e5f649bad6@c01e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20260901T025959Z
+DTSTART:20260831T030000Z
+SUMMARY:Costura Moda Jeans Grupo 01 Noven Inverno 27
+UID:fc43f34d-90d8-4443-8311-c456f5669140@fc43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20270126T025959Z
+DTSTART:20270125T030000Z
+SUMMARY:Costura Moda Grupo 04 Noven Inverno 27
+UID:f6ad9651-d8b4-41f9-b5c5-2b0a42ec102a@f6ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Lavanderia\; Produção
+DTEND:20260526T025959Z
+DTSTART:20260525T030000Z
+SUMMARY:Lavanderia Grupo 07 Noven Verão 27
+UID:ea3a32ce-0845-4884-9bc5-90b701ab0c70@ea3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Acabamento\; Produção
+DTEND:20270112T025959Z
+DTSTART:20270111T030000Z
+SUMMARY:Acabamento Grupo 02 Noven Inverno 27
+UID:5ccbab46-5520-47e3-bda3-eb00b49d40de@5ccb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Lavanderia\; Produção
+DTEND:20270224T025959Z
+DTSTART:20270223T030000Z
+SUMMARY:Lavanderia Grupo 05 Noven Inverno 27
+UID:46df1214-b5ad-4c20-a7dc-32b10e053584@46df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20261204T025959Z
+DTSTART:20261203T030000Z
+SUMMARY:Costura Moda Grupo 03 Noven Inverno 27
+UID:5b4a124b-86ff-45d0-8564-1d161fa48667@5b4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Corte\; Produção
+DTEND:20250916T025959Z
+DTSTART:20250915T030000Z
+SUMMARY:Corte Grupo 02 Noven Inverno 26
+UID:d4b69663-38fb-4f2d-863a-4908f9b631dd@d4b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 04\; Noven\; Inverno 26\; Comercial\; Produto Acabado
+DTEND:20260415T025959Z
+DTSTART:20260414T030000Z
+SUMMARY:Lançamento Noven Grupo 04
+UID:1cef4f3f-2b55-4ae0-b4d1-6d2fc36dc270@1cef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Acabamento\; Produção
+DTEND:20261016T025959Z
+DTSTART:20261015T030000Z
+SUMMARY:Acabamento Grupo 11 Noven Verão 27
+UID:76ac28bd-6574-4a9e-aa7f-1676cc24cae7@76ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 01\; Noven\; Inverno 27\; PCP\; Desenvolvimento
+DTEND:20260714T025959Z
+DTSTART:20260713T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 01)
+UID:01e04715-9c3e-4032-8829-4d59d61483e3@01e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Acabamento\; Produção
+DTEND:20260425T025959Z
+DTSTART:20260424T030000Z
+SUMMARY:Acabamento Grupo 05 Noven Inverno 26
+UID:e2979fd7-9676-4060-9296-4a4cc90feace@e297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260626T025959Z
+DTSTART:20260625T030000Z
+SUMMARY:Costura Jeans Grupo 09 Noven Verão 27
+UID:938d4fea-2206-4b53-bf40-4c41fadd425e@938d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 08. Bh à Porter\; Noven\; Verão 27\; Comercial\; Produto Acabado
+DTEND:20260805T025959Z
+DTSTART:20260804T030000Z
+SUMMARY:Lançamento Noven Grupo 08
+UID:d1cd480a-704b-4a31-aea0-e87fc5cca6d2@d1cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Acabamento\; Produção
+DTEND:20260624T025959Z
+DTSTART:20260623T030000Z
+SUMMARY:Acabamento Grupo 07 Noven Verão 27
+UID:148d6c13-e579-4828-b2be-94c2d360dc38@148d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento das peças piloto da Noven Verão 27\; Noven\; Verão 27\; Acabamento Dsv.\; Desenvolvimento
+DTEND:20260311T025959Z
+DTSTART:20260310T030000Z
+SUMMARY:Acabamento Pilotos Noven Verão 27
+UID:fa8535a5-84d2-4c68-963d-d20479162366@fa85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Corte\; Produção
+DTEND:20260804T025959Z
+DTSTART:20260803T030000Z
+SUMMARY:Corte Grupo 01 Noven Inverno 27
+UID:5094c5aa-7e4e-4b00-90e2-a35b8c96fff4@5094.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pilotagem das peças da Noven Verão 28.\; Noven\; Verão 28\; Pilotagem\; Desenvolvimento
+DTEND:20270216T025959Z
+DTSTART:20270215T030000Z
+SUMMARY:Pilotagem Noven Verão 28
+UID:2346b199-7514-4fb8-8edf-94b61e868908@2346.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260625T025959Z
+DTSTART:20260624T030000Z
+SUMMARY:Costura Moda Grupo 08 Noven Verão 27
+UID:24bf5b7a-323d-46fc-b435-4ec5ea89aef4@24bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Expedição\; Produção
+DTEND:20260903T025959Z
+DTSTART:20260902T030000Z
+SUMMARY:Expedição Grupo 09 Noven Verão 27
+UID:1eb32229-1bfb-4a76-b6f9-2bdbfe9ed81c@1eb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 02\; Noven\; Inverno 27\; Comercial\; Produto Acabado
+DTEND:20270224T025959Z
+DTSTART:20270223T030000Z
+SUMMARY:Lançamento Noven Grupo 02
+UID:dcfd5a06-8cc0-404b-97f2-5af0508cf8ae@dcfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 03 Noven Inverno 26\; Noven\; Inverno 26\; Acabamento\; Produção
+DTEND:20260224T025959Z
+DTSTART:20260223T030000Z
+SUMMARY:Acabamento Grupo 03 Noven Inverno 26
+UID:b909f043-fa27-423e-87f4-ddafaabb3f56@b909.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20260123T025959Z
+DTSTART:20260122T030000Z
+SUMMARY:Costura Jeans Grupo 05 Noven Inverno 26
+UID:96901090-ce9a-4696-acf0-03afecc2abd1@9690.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Lavanderia\; Produção
+DTEND:20261001T025959Z
+DTSTART:20260930T030000Z
+SUMMARY:Lavanderia Grupo 01 Noven Inverno 27
+UID:2255559f-dc46-4be4-941a-7cec8303a24f@2255.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Expedição\; Produção
+DTEND:20260402T025959Z
+DTSTART:20260401T030000Z
+SUMMARY:Expedição Grupo 04 Noven Inverno 26
+UID:941a055f-745e-4515-9c1c-d8c7d6a5a4f5@941a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lavanderia das peças piloto da Noven Verão 28.\; Noven\; Verão 28\; Lavanderia Dsv. \; Desenvolvimento
 DTEND:20270223T025959Z
 DTSTART:20270222T030000Z
 SUMMARY:Lavanderia Pilotos Noven Verão 28
-UID:843eb50b-1ef6-416e-b151-ed8c3f8097fa@843e.org
+UID:3b3af834-5fee-4ad6-9f47-77aa27f82152@3b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 04\; Noven\; Inverno 27\; Comercial\; Produto Acabado
+DTEND:20270414T025959Z
+DTSTART:20270413T030000Z
+SUMMARY:Lançamento Noven Grupo 04
+UID:14976662-b51d-4ed3-b20e-756be919ed6b@1497.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Lavanderia\; Produção
+DTEND:20261104T025959Z
+DTSTART:20261103T030000Z
+SUMMARY:Lavanderia Grupo 02 Noven Inverno 27
+UID:4417260e-9e17-4d84-a4a4-4b7558bb0136@4417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260724T025959Z
+DTSTART:20260723T030000Z
+SUMMARY:Costura Moda Grupo 09 Noven Verão 27
+UID:4fdb7878-8d4b-4dec-ae6e-3906f52388ed@4fdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260527T025959Z
+DTSTART:20260526T030000Z
+SUMMARY:Costura Moda Jeans Grupo 08 Noven Verão 27
+UID:17e19986-a833-4803-8413-73f525241bd5@17e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 03 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20260121T025959Z
+DTSTART:20260120T030000Z
+SUMMARY:Costura Moda Grupo 03 Noven Inverno 26
+UID:177af78a-9eb9-4aff-b5eb-aa2942d807c8@177a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20261030T025959Z
+DTSTART:20261029T030000Z
+SUMMARY:Costura Moda Jeans Grupo 03 Noven Inverno 27
+UID:dbf5e924-9530-44b0-8cea-4975c629d60a@dbf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 05 Noven Inverno 26\; Noven\; Inverno 26\; Expedição\; Produção
+DTEND:20260505T025959Z
+DTSTART:20260504T030000Z
+SUMMARY:Expedição Grupo 05 Noven Inverno 26
+UID:a4127a9e-bafc-485d-a3c9-1728c6e56fcf@a412.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260626T025959Z
+DTSTART:20260625T030000Z
+SUMMARY:Costura Moda Jeans Grupo 09 Noven Verão 27
+UID:7689ddb5-5040-4ae6-b450-3f102167b21d@7689.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Acabamento\; Produção
+DTEND:20270218T025959Z
+DTSTART:20270217T030000Z
+SUMMARY:Acabamento Grupo 03 Noven Inverno 27
+UID:dc3a79e8-fdaa-46da-b291-6d300cf2a030@dc3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 28 grupo 11.\; Noven\; Verão 28\; PCP\; Desenvolvimento
+DTEND:20270625T025959Z
+DTSTART:20270624T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 28 (Grupo 11)
+UID:354801bc-aeb5-458a-9bab-f87e3b383303@3548.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 02\; Noven\; Inverno 26\; Comercial\; Produto Acabado
+DTEND:20260304T025959Z
+DTSTART:20260303T030000Z
+SUMMARY:Lançamento Noven Grupo 02
+UID:05578254-3f40-4384-bf69-8016cd880d3c@0557.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Corte\; Produção
+DTEND:20261119T025959Z
+DTSTART:20261118T030000Z
+SUMMARY:Corte Grupo 04 Noven Inverno 27
+UID:795e566d-4be9-4085-b46e-5905e129a1fa@795e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 11\; Noven\; Verão 27\; PCP\; Desenvolvimento
+DTEND:20260617T025959Z
+DTSTART:20260616T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 11)
+UID:988bbca0-e639-42d2-840f-0851a4f86a4d@988b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20251007T025959Z
+DTSTART:20251006T030000Z
+SUMMARY:Costura Moda Jeans Grupo 01 Noven Inverno 26
+UID:80854697-1906-4bf3-8882-06466c841ec9@8085.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Lavanderia\; Produção
+DTEND:20260724T025959Z
+DTSTART:20260723T030000Z
+SUMMARY:Lavanderia Grupo 09 Noven Verão 27
+UID:2bfe2102-a51e-45ef-83de-8cb087619b89@2bfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260718T025959Z
+DTSTART:20260717T030000Z
+SUMMARY:Costura Moda Jeans Grupo 10 Noven Verão 27
+UID:8c8d82e7-808f-419b-8725-7148a5e4bdd1@8c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Noven Verão 28.\; Noven\; Verão 28\; Modelagem\; Desenvolvimento
+DTEND:20270205T025959Z
+DTSTART:20270204T030000Z
+SUMMARY:Modelagem Noven Verão 28
+UID:35d0fe31-bfbc-4481-a249-56231ad851c5@35d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20261001T025959Z
+DTSTART:20260930T030000Z
+SUMMARY:Costura Moda Grupo 01 Noven Inverno 27
+UID:b5175ed2-27a2-4d5e-9f73-cb0f4d9affdc@b517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Acabamento\; Produção
+DTEND:20270325T025959Z
+DTSTART:20270324T030000Z
+SUMMARY:Acabamento Grupo 04 Noven Inverno 27
+UID:10ca387e-8c20-409c-9cdf-8eebf6cfa7a9@10ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Lavanderia\; Produção
+DTEND:20260904T025959Z
+DTSTART:20260903T030000Z
+SUMMARY:Lavanderia Grupo 11 Noven Verão 27
+UID:282fc4d7-3514-4825-82a6-06717b9319aa@282f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Acabamento\; Produção
+DTEND:20260127T025959Z
+DTSTART:20260126T030000Z
+SUMMARY:Acabamento Grupo 02 Noven Inverno 26
+UID:8fc325b4-664f-4984-88bd-e95d9e9597b9@8fc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20260901T025959Z
+DTSTART:20260831T030000Z
+SUMMARY:Costura Jeans Grupo 01 Noven Inverno 27
+UID:cb096d9c-056d-423f-8dba-7bd27a3319d5@cb09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20260123T025959Z
+DTSTART:20260122T030000Z
+SUMMARY:Costura Moda Jeans Grupo 04 Noven Inverno 26
+UID:914f9478-2fd7-4543-841f-d492f4da532b@914f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lavanderia Grupo 03 Noven Inverno 26\; Noven\; Inverno 26\; Lavanderia\; Produção
 DTEND:20260121T025959Z
 DTSTART:20260120T030000Z
 SUMMARY:Lavanderia Grupo 03 Noven Inverno 26
-UID:93c134e5-c5a7-4229-b425-414510d04d0a@93c1.org
+UID:da5c816d-3366-4e36-b3cb-5629b58556aa@da5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Noven Verão 27\; Noven\; Verão 27\; Lavanderia Dsv.\; Desenvolvimento
+DTEND:20260304T025959Z
+DTSTART:20260303T030000Z
+SUMMARY:Lavanderia Pilotos Noven Verão 27
+UID:e3a35c55-9a4c-4a86-aedf-454f042c95fa@e3a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 10 Noven Verão 27\; Noven\; Verão 27\; Expedição\; Produção
+DTEND:20261003T025959Z
+DTSTART:20261002T030000Z
+SUMMARY:Expedição Grupo 10 Noven Verão 27
+UID:5cfaed00-1aec-4626-bc39-b206039d6ca8@5cfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 08 Noven Verão 27\; Noven\; Verão 27\; Lavanderia\; Produção
+DTEND:20260625T025959Z
+DTSTART:20260624T030000Z
+SUMMARY:Lavanderia Grupo 08 Noven Verão 27
+UID:3e70a486-ab45-4057-afdc-96d513ec14e6@3e70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20261030T025959Z
+DTSTART:20261029T030000Z
+SUMMARY:Costura Jeans Grupo 03 Noven Inverno 27
+UID:27bd7d36-1cf4-4827-9142-8deef73e9e32@27bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20261203T025959Z
+DTSTART:20261202T030000Z
+SUMMARY:Costura Moda Jeans Grupo 04 Noven Inverno 27
+UID:fc72eec3-e94e-4cef-ac95-1010870a643f@fc72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 11\; Noven\; Verão 27\; Comercial\; Produto Acabado
+DTEND:20261021T025959Z
+DTSTART:20261020T030000Z
+SUMMARY:Lançamento Noven Grupo 11
+UID:be324ed8-1b2d-4c2e-8585-b5eb2c5a8574@be32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20270120T025959Z
+DTSTART:20270119T030000Z
+SUMMARY:Costura Jeans Grupo 05 Noven Inverno 27
+UID:4932f250-b98b-4ed7-9e85-64db903ee9d4@4932.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Noven Verão 27\; Noven\; Verão 27\; Modelagem\; Desenvolvimento
+DTEND:20260212T025959Z
+DTSTART:20260211T030000Z
+SUMMARY:Modelagem Noven Verão 27
+UID:56f19644-16bd-4306-a014-294b67ffa938@56f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 10 Noven Verão 28\; Noven\; Verão 28\; Expedição\; Produção
+DTEND:20271002T025959Z
+DTSTART:20271001T030000Z
+SUMMARY:Expedição Grupo 10 Noven Verão 28
+UID:c3de5897-5f39-4491-8b45-2c5815a85eb9@c3de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20261104T025959Z
+DTSTART:20261103T030000Z
+SUMMARY:Costura Moda Grupo 02 Noven Inverno 27
+UID:4c92bf92-c0df-4c7f-9d79-82c198e130c2@4c92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Lavanderia\; Produção
+DTEND:20251104T025959Z
+DTSTART:20251103T030000Z
+SUMMARY:Lavanderia Grupo 01 Noven Inverno 26
+UID:6fec4c57-fa65-4a87-8390-ebdd2cbc060d@6fec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 26 Grupo 02\; Noven\; Inverno 26\; PCP\; Desenvolvimento
+DTEND:20250902T025959Z
+DTSTART:20250901T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 26 (Grupo 02)
+UID:6ac2283d-34b2-46db-b761-ac28fd28076c@6ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Expedição\; Produção
+DTEND:20260703T025959Z
+DTSTART:20260702T030000Z
+SUMMARY:Expedição Grupo 07 Noven Verão 27
+UID:d4df7f53-cd5a-4743-bc23-34dfcce78675@d4df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Noven Verão 28. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Noven\; Verão 28\; Estilo\; Desenvolvimento
+DTEND:20270129T025959Z
+DTSTART:20270128T030000Z
+SUMMARY:Limite Entrega Desenhos Noven Verão 28
+UID:bde7e4c7-f6f1-4431-9339-3ee1c0b3fc15@bde7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 03. Bh à Porter\; Noven\; Inverno 27\; Comercial\; Produto Acabado
+DTEND:20270324T025959Z
+DTSTART:20270323T030000Z
+SUMMARY:Lançamento Noven Grupo 03
+UID:3140d8ca-b71a-4482-bc6b-13d208b7b3d7@3140.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20251007T025959Z
+DTSTART:20251006T030000Z
+SUMMARY:Costura Jeans Grupo 02 Noven Inverno 26
+UID:bc226728-f43c-4535-ba2b-b4d26b791d73@bc22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 08 Noven Verão 28\; Noven\; Verão 28\; Expedição\; Produção
+DTEND:20270803T025959Z
+DTSTART:20270802T030000Z
+SUMMARY:Expedição Grupo 08 Noven Verão 28
+UID:6e2d7976-c46f-4c4e-9dc0-bd50ba3467f1@6e2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Expedição\; Produção
+DTEND:20270304T025959Z
+DTSTART:20270303T030000Z
+SUMMARY:Expedição Grupo 03 Noven Inverno 27
+UID:92395f00-008d-4aee-aaf4-1fd130bff4e5@9239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fotos da Noven Verão 27\; Noven\; Verão 27\; Marketing\; Desenvolvimento
+DTEND:20260603T025959Z
+DTSTART:20260602T030000Z
+SUMMARY:Fotos Noven Verão 27
+UID:951504ee-e0fc-4ef2-8ff8-32bc95458f8a@9515.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Jeans Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260806T025959Z
+DTSTART:20260805T030000Z
+SUMMARY:Costura Moda Jeans Grupo 11 Noven Verão 27
+UID:11b488b2-4215-4309-a929-99a7b473acf6@11b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 03 Noven Inverno 26\; Noven\; Inverno 26\; Expedição\; Produção
+DTEND:20260303T025959Z
+DTSTART:20260302T030000Z
+SUMMARY:Expedição Grupo 03 Noven Inverno 26
+UID:40668755-a0e4-416e-985f-6a1d548945dd@4066.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Corte\; Produção
+DTEND:20251107T025959Z
+DTSTART:20251106T030000Z
+SUMMARY:Corte Grupo 04 Noven Inverno 26
+UID:91ccd419-b2a6-42df-a344-c7654a088795@91cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20251104T025959Z
+DTSTART:20251103T030000Z
+SUMMARY:Costura Moda Grupo 01 Noven Inverno 26
+UID:0955208f-53b3-4608-8304-042b2365b3c4@0955.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Pilotagem das peças da Noven Verão 27\; Noven\; Verão 27\; Pilotagem\; Desenvolvimento
 DTEND:20260225T025959Z
 DTSTART:20260224T030000Z
 SUMMARY:Pilotagem Noven Verão 27
-UID:43b1dce9-d480-4d40-8357-bc980c927327@43b1.org
+UID:6c18e3b8-6850-4cff-922c-fd73cbedbbf5@6c18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Corte\; Produção
+DTEND:20260708T025959Z
+DTSTART:20260707T030000Z
+SUMMARY:Corte Grupo 11 Noven Verão 27
+UID:23cd65b1-b719-4cf0-afd0-4288b43c2c95@23cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 05 Noven Inverno 27\; Noven\; Inverno 27\; Expedição\; Produção
+DTEND:20270505T025959Z
+DTSTART:20270504T030000Z
+SUMMARY:Expedição Grupo 05 Noven Inverno 27
+UID:765add6d-84ef-45bb-8952-2c68cae4eb00@765a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 28 grupo 09.\; Noven\; Verão 28\; PCP\; Desenvolvimento
+DTEND:20270428T025959Z
+DTSTART:20270427T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 28 (Grupo 09)
+UID:52d67539-42da-40bb-9346-be3f86fdebe5@52d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 01 Noven Inverno 27\; Noven\; Inverno 27\; Expedição\; Produção
+DTEND:20270106T025959Z
+DTSTART:20270105T030000Z
+SUMMARY:Expedição Grupo 01 Noven Inverno 27
+UID:766d4059-748e-434f-a26d-d5266ded9233@766d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia das peças piloto da Noven Inverno 27\; Noven\; Inverno 27\; Lavanderia Dsv.\; Desenvolvimento
+DTEND:20260825T025959Z
+DTSTART:20260824T030000Z
+SUMMARY:Lavanderia Pilotos Noven Inverno 27
+UID:c7b684ff-2529-4ede-9b65-eb353a10c607@c7b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260904T025959Z
+DTSTART:20260903T030000Z
+SUMMARY:Costura Moda Grupo 11 Noven Verão 27
+UID:74c64057-0fcf-40f7-a4c1-c9cfff4890c7@74c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Modelagem dos desenhos da Noven Inverno 27\; Noven\; Inverno 27\; Modelagem\; Desenvolvimento
+DTEND:20260811T025959Z
+DTSTART:20260810T030000Z
+SUMMARY:Modelagem Noven Inverno 27
+UID:e5f21b2f-4d57-489d-a4cb-1fd2979ed3d0@e5f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 09\; Noven\; Verão 27\; Comercial\; Produto Acabado
+DTEND:20260916T025959Z
+DTSTART:20260915T030000Z
+SUMMARY:Lançamento Noven Grupo 09
+UID:7f2780c1-8671-492b-83a2-20360e3c3a0b@7f27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Verão 27\; Noven\; Verão 27\; Banca\; Desenvolvimento
+DTEND:20251015T025959Z
+DTSTART:20251014T030000Z
+SUMMARY:Primeira Banca Noven Verão 27
+UID:f3702682-5120-4062-b395-1cde382bf642@f370.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Acabamento\; Produção
+DTEND:20260825T025959Z
+DTSTART:20260824T030000Z
+SUMMARY:Acabamento Grupo 09 Noven Verão 27
+UID:6be20152-c83c-48f4-8cc2-1a2227c42ba5@6be2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lavanderia Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Lavanderia\; Produção
+DTEND:20251204T025959Z
+DTSTART:20251203T030000Z
+SUMMARY:Lavanderia Grupo 02 Noven Inverno 26
+UID:f67f5df5-9805-4c8f-b6fc-718ae7430f74@f67f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Verão 28\; Noven\; Verão 28\; Banca\; Desenvolvimento
+DTEND:20270317T025959Z
+DTSTART:20270316T030000Z
+SUMMARY:Última Banca Noven Verão 28
+UID:7fab4c46-5a2c-4fcb-8f76-6effd2ca42f0@7fab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fotos da Noven Inverno 27\; Noven\; Inverno 27\; Marketing\; Desenvolvimento
+DTEND:20261124T025959Z
+DTSTART:20261123T030000Z
+SUMMARY:Fotos Noven Inverno 27
+UID:be1225ca-8e34-4ef4-adf4-0bb8e31cdb5c@be12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Acabamento\; Produção
+DTEND:20260326T025959Z
+DTSTART:20260325T030000Z
+SUMMARY:Acabamento Grupo 04 Noven Inverno 26
+UID:30ca88e5-6442-4642-863f-1b5b05e1f4e6@30ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Noven Inverno 27. Em torno de 80% dos desenhos devem ser entregues na data inicial\; Noven\; Inverno 27\; Estilo\; Desenvolvimento
+DTEND:20260203T025959Z
+DTSTART:20260202T030000Z
+SUMMARY:Entrega Desenhos Noven Inverno 27
+UID:e26da7b8-05c9-4b03-b3a3-9299174ccd65@e26d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Acabamento Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Acabamento\; Produção
+DTEND:20251204T025959Z
+DTSTART:20251203T030000Z
+SUMMARY:Acabamento Grupo 01 Noven Inverno 26
+UID:e8cae438-03f7-4518-a8f5-6982c5e7bdc4@e8ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260425T025959Z
+DTSTART:20260424T030000Z
+SUMMARY:Costura Jeans Grupo 07 Noven Verão 27
+UID:a6f4ae9a-e665-4087-b499-fb07d27dad05@a6f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 11 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260806T025959Z
+DTSTART:20260805T030000Z
+SUMMARY:Costura Jeans Grupo 11 Noven Verão 27
+UID:6408c717-43ce-4763-b108-fce40095b59d@6408.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 02 Noven Inverno 27\; Noven\; Inverno 27\; Expedição\; Produção
+DTEND:20270203T025959Z
+DTSTART:20270202T030000Z
+SUMMARY:Expedição Grupo 02 Noven Inverno 27
+UID:4294ad96-ef3a-4920-a97c-a08caf61b592@4294.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Noven Verão 28. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Noven\; Verão 28\; Estilo\; Desenvolvimento
+DTEND:20260804T025959Z
+DTSTART:20260803T030000Z
+SUMMARY:Entrega Desenhos Noven Verão 28
+UID:46a3784b-caeb-4b20-8daf-5f0d30c12a3a@46a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Verão 27\; Noven\; Verão 27\; Banca\; Desenvolvimento
+DTEND:20260114T025959Z
+DTSTART:20260113T030000Z
+SUMMARY:Segunda Banca Noven Verão 27
+UID:b42a0e2f-bcf1-4008-bf14-9ea5ba749921@b42a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 02 Noven Inverno 26\; Noven\; Inverno 26\; Expedição\; Produção
+DTEND:20260203T025959Z
+DTSTART:20260202T030000Z
+SUMMARY:Expedição Grupo 02 Noven Inverno 26
+UID:018ab6c3-7883-4716-a921-acb37598363f@018a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 07 Noven Verão 27\; Noven\; Verão 27\; Costura\; Produção
+DTEND:20260526T025959Z
+DTSTART:20260525T030000Z
+SUMMARY:Costura Moda Grupo 07 Noven Verão 27
+UID:8518b3c4-7f81-45c0-962c-97c56ed7d961@8518.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Expedição Grupo 11 Noven Verão 28\; Noven\; Verão 28\; Expedição\; Produção
+DTEND:20271102T025959Z
+DTSTART:20271101T030000Z
+SUMMARY:Expedição Grupo 11 Noven Verão 28
+UID:33f4fdf2-20df-49d1-b59b-a8784f847815@33f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Entrega dos desenhos Noven Verão 27. Em torno de 80% dos desenhos devem ser entregues na data inicial.\; Noven\; Verão 27\; Estilo\; Desenvolvimento
+DTEND:20260205T025959Z
+DTSTART:20260204T030000Z
+SUMMARY:Limite Entrega Desenhos Noven Verão 27
+UID:dc977b07-c245-41b5-9352-681d7550ce9d@dc97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 03 BH Portet\; Noven\; Inverno 26\; Comercial\; Produto Acabado
+DTEND:20260318T025959Z
+DTSTART:20260317T030000Z
+SUMMARY:Lançamento Noven Grupo 03
+UID:d30bcb4a-f8b7-4450-b013-ae9d2a33b8ee@d30b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 07\; Noven\; Verão 27\; PCP\; Desenvolvimento
+DTEND:20260213T025959Z
+DTSTART:20260212T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 07)
+UID:6e3d7df2-9d8f-4187-a0fc-a5878f9e8f68@6e3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Inverno 27\; Noven\; Inverno 27\; Banca\; Desenvolvimento
+DTEND:20260415T025959Z
+DTSTART:20260414T030000Z
+SUMMARY:Primeira Banca Noven Inverno 27
+UID:d310f65c-e800-487b-a63b-545bcc7c378f@d310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 01 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20250909T025959Z
+DTSTART:20250908T030000Z
+SUMMARY:Costura Jeans Grupo 01 Noven Inverno 26
+UID:b5486ae7-4171-4841-836b-ffc96b5e870e@b548.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 03 Noven Inverno 27\; Noven\; Inverno 27\; Corte\; Produção
+DTEND:20261015T025959Z
+DTSTART:20261014T030000Z
+SUMMARY:Corte Grupo 03 Noven Inverno 27
+UID:c7cb19a1-2ef6-49ba-94b9-cf688a2a5d94@c7cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Moda Grupo 04 Noven Inverno 26\; Noven\; Inverno 26\; Costura\; Produção
+DTEND:20260226T025959Z
+DTSTART:20260225T030000Z
+SUMMARY:Costura Moda Grupo 04 Noven Inverno 26
+UID:6079e4b5-76e3-4c12-a217-db681aa369ff@6079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 27 Grupo 02\; Noven\; Inverno 27\; PCP\; Desenvolvimento
+DTEND:20260818T025959Z
+DTSTART:20260817T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 27 (Grupo 02)
+UID:8d2679be-ebff-4514-b476-c186c02a9377@8d26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Corte Grupo 09 Noven Verão 27\; Noven\; Verão 27\; Corte\; Produção
+DTEND:20260516T025959Z
+DTSTART:20260515T030000Z
+SUMMARY:Corte Grupo 09 Noven Verão 27
+UID:6ca209ad-22b3-46c1-90e2-b59a988d97ed@6ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Verão 28\; Noven\; Verão 28\; Banca\; Desenvolvimento
+DTEND:20270120T025959Z
+DTSTART:20270119T030000Z
+SUMMARY:Segunda Banca Noven Verão 28
+UID:e54ea80c-c8ee-43da-b595-239f2fd8e579@e54e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lançamento no showroom da Noven Grupo 07\; Noven\; Verão 27\; Comercial\; Produto Acabado
+DTEND:20260715T025959Z
+DTSTART:20260714T030000Z
+SUMMARY:Lançamento Noven Grupo 07
+UID:3308fc87-39fa-4f28-81f2-dbafae061219@3308.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Banca das peças piloto da Noven Inverno 27\; Noven\; Inverno 27\; Banca\; Desenvolvimento
+DTEND:20260708T025959Z
+DTSTART:20260707T030000Z
+SUMMARY:Segunda Banca Noven Inverno 27
+UID:1d4b4cce-dd6c-49f3-a134-d3cca8f13f59@1d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 09\; Noven\; Verão 27\; PCP\; Desenvolvimento
+DTEND:20260424T025959Z
+DTSTART:20260423T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 09)
+UID:b5a09e8f-82b3-40d2-9477-34290ece3dcc@b5a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Inverno 26 Grupo 04\; Noven\; Inverno 26\; PCP\; Desenvolvimento
+DTEND:20251024T025959Z
+DTSTART:20251023T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Inverno 26 (Grupo 04)
+UID:5a5d7a47-103b-44e3-a916-4402500af15c@5a5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fotos da Noven Verão 28\; Noven\; Verão 28\; Marketing\; Desenvolvimento
+DTEND:20270525T025959Z
+DTSTART:20270524T030000Z
+SUMMARY:Fotos Noven Verão 28
+UID:75514cad-2a3b-466f-94d6-388a8d8a8c06@7551.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 10\; Noven\; Verão 27\; PCP\; Desenvolvimento
+DTEND:20260522T025959Z
+DTSTART:20260521T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 10)
+UID:23fc4afa-e832-4f5b-a983-5e4eb4098708@23fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liberação das peças de lacre vermelho da Noven Verão 27 grupo 08\; Noven\; Verão 27\; PCP\; Desenvolvimento
+DTEND:20260321T025959Z
+DTSTART:20260320T030000Z
+SUMMARY:Liberação Lacre Vermelho Noven Verão 27 (Grupo 08)
+UID:b14d42d9-9a71-49d7-868d-5eed5b98cb69@b14d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Costura Jeans Grupo 04 Noven Inverno 27\; Noven\; Inverno 27\; Costura\; Produção
+DTEND:20261203T025959Z
+DTSTART:20261202T030000Z
+SUMMARY:Costura Jeans Grupo 04 Noven Inverno 27
+UID:08f4ab43-0f77-4946-b0cc-bf902f9e69b2@08f4.org
 END:VEVENT
 END:VCALENDAR
