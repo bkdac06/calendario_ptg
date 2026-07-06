@@ -56,11 +56,11 @@ def converter_csv_para_ics_detalhado(arquivo_csv, arquivo_ics):
 
 # Exemplo de uso
 if __name__ == "__main__":
-    # Geração do primeiro calendário
+    '''# Geração do primeiro calendário
     nome_arquivo_csv = 'noven_completo.csv'
     nome_arquivo_ics = 'calendario_noven.ics'
     converter_csv_para_ics_detalhado(nome_arquivo_csv, nome_arquivo_ics)
-    print(f"Arquivo '{nome_arquivo_ics}' criado com sucesso a partir de '{nome_arquivo_csv}'!")
+    print(f"Arquivo '{nome_arquivo_ics}' criado com sucesso a partir de '{nome_arquivo_csv}'!")'''
     
     # Geração do segundo calendário
     nome_arquivo_csv = 'noven_desenvolvimento.csv'
@@ -68,11 +68,11 @@ if __name__ == "__main__":
     converter_csv_para_ics_detalhado(nome_arquivo_csv, nome_arquivo_ics)
     print(f"Arquivo '{nome_arquivo_ics}' criado com sucesso a partir de '{nome_arquivo_csv}'!")
 
-    # Geração do terceiro calendário
+    '''# Geração do terceiro calendário
     nome_arquivo_csv = 'patoge_completo.csv'
     nome_arquivo_ics = 'calendario_patoge.ics'
     converter_csv_para_ics_detalhado(nome_arquivo_csv, nome_arquivo_ics)
-    print(f"Arquivo '{nome_arquivo_ics}' criado com sucesso a partir de '{nome_arquivo_csv}'!")
+    print(f"Arquivo '{nome_arquivo_ics}' criado com sucesso a partir de '{nome_arquivo_csv}'!") '''
     
     # Geração do quarto calendário
     nome_arquivo_csv = 'patoge_desenvolvimento.csv'
